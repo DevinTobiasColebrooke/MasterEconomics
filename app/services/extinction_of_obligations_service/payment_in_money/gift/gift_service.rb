@@ -1,4 +1,4 @@
-require_relative '../../../debtor/debtor_networth' # Ensure the Debtor class is available
+require_relative '../../../extinction_of_obligations_service/debtor/debtor_networth' # Ensure the Debtor class is available
 
 module ExtinctionOfObligationsService
   module PaymentInMoney
