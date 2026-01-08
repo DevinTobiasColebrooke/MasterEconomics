@@ -47,3 +47,7 @@ Public company data
 *   **[IRS Applicable Federal Rates](https://www.irs.gov/applicable-federal-rates)**
     *   **Label:** IRS AFR
     *   **Focus:** The IRS uses the AFR to prevent individuals from using artificially low or zero-interest loans to disguise taxable events (like income or gifts) as non-taxable loans. If a loan's interest rate is set below the corresponding AFR, the IRS may "impute" interest, meaning it will treat the transaction as if the minimum interest was charged and tax the lender accordingly, even if no cash changed hands
+
+
+    ### **Need States Department of finanical protection and innovation/consumer financial protection**
+    https://dfpi.ca.gov/press_release/california-financial-regulator-takes-possession-of-silicon-valley-bank/
