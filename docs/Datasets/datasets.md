@@ -26,9 +26,10 @@ These links point to the official US Government open data catalog, filtered by t
 ### **Federal Reserve APIs & Collections**
 These links point to specialized tools for developers and researchers to pull economic and market-specific data.
 
-*   **[FRED API (St. Louis Fed)](https://fred.stlouisfed.org/docs/api/fred/)**
+*   **[FRED API (St. Louis Fed)](https://fred.stlouisfed.org/docs/api/fred/overview.html/)**
     *   **Label:** Federal Reserve Economic Data (FRED) API
     *   **Focus:** A powerful developer tool providing programmatic access to over 800,000 economic time series (e.g., GDP, CPI, unemployment, and interest rates) from various global sources.
+    The Federal Reserve's discount window primary credit rate is 3.75% as of January 6, 2026. You can access this data programmatically using the Federal Reserve Economic Data (FRED) API with the series ID DPCREDIT
 *   **[Federal Reserve Board Data (FRED Collection)](https://fred.stlouisfed.org/collection/federal-reserve-board-data)**
     *   **Label:** Board of Governors Statistical Releases
     *   **Focus:** A curated subset of FRED data specifically published by the Federal Reserve Board, including money supply (H.6), consumer credit (G.19), and industrial production (G.17).
@@ -41,3 +42,8 @@ Public company data
 *   **[U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov/search-filings/edgar-application-programming-interfaces)**
     *   **Label:** SEC EDGAR APIs
     *   **Focus:** Programmatic access to the massive EDGAR database, allowing developers to query real-time and historical corporate filings (10-Ks, 10-Qs, 8-Ks), extract XBRL financial statement data, and search company submission histories.
+
+### **IRS Applicable Federal Rates**
+*   **[IRS Applicable Federal Rates](https://www.irs.gov/applicable-federal-rates)**
+    *   **Label:** IRS AFR
+    *   **Focus:** The IRS uses the AFR to prevent individuals from using artificially low or zero-interest loans to disguise taxable events (like income or gifts) as non-taxable loans. If a loan's interest rate is set below the corresponding AFR, the IRS may "impute" interest, meaning it will treat the transaction as if the minimum interest was charged and tax the lender accordingly, even if no cash changed hands
