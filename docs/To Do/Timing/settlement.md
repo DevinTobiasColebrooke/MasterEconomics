@@ -1,0 +1,1 @@
+T-3, T-2 timing i.e when payments settle, banks, clearing houses, brokerages etc.
