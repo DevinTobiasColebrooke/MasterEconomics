@@ -1,0 +1,1 @@
+Obligation elimination terms. I.e. fees to reach 0.
