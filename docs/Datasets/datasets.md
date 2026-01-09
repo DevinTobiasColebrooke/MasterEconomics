@@ -31,6 +31,10 @@ These links point to the official US Government open data catalog, filtered by t
 *   **[Export-Import Bank of the United States (EXIM)](https://catalog.data.gov/organization/exim-gov)**
     *   **Label:** EXIM Bank Export Financing Data
     *   **Focus:** Transaction-level data on authorized federal financing support for U.S. exports, including direct loans, loan guarantees, and export credit insurance records (to other nations).
+Here is the label and description for the requested URL, formatted to match the previous list:
+*   **[U.S. International Development Finance Corporation (DFC)](https://www.dfc.gov/our-impact/transaction-data)**
+    *   **Label:** DFC Investment & Transaction Data
+    *   **Focus:** A searchable public database (and downloadable records) of the agency’s development portfolio, detailing U.S. government-backed direct loans, equity investments, and political risk insurance. Data points include project sponsors, host countries, sectors, and approved financing amounts.
 
 ### **Federal Reserve APIs & Collections**
 These links point to specialized tools for developers and researchers to pull economic and market-specific data.
