@@ -22,6 +22,12 @@ These links point to the official US Government open data catalog, filtered by t
 *   **[Commodity Futures Trading Commission (CFTC)](https://catalog.data.gov/organization/commodity-futures-trading-commission)**
     *   **Label:** CFTC Derivatives & Market Reports
     *   **Focus:** The "Commitment of Traders" (COT) reports (open interest breakdown), weekly swaps market data, financial reports for Futures Commission Merchants (FCMs), and bank participation in futures markets.
+*   **[Office of Management and Budget (OMB)](https://catalog.data.gov/organization/office-of-management-and-budget)**
+    *   **Label:** OMB Federal Budget & Management Data
+    *   **Focus:** The President's Budget (Public Budget Database), federal IT spending (IT Dashboard), regulatory review stats, and government-wide management indicators.
+*   **[U.S. Securities and Exchange Commission (SEC) - Data.gov](https://catalog.data.gov/organization/sec-gov)**
+    *   **Label:** SEC Market & Financial Datasets
+    *   **Focus:** Bulk data resources including "Fails-to-Deliver" statistics, aggregated financial statement data sets (extracted from financial reports), mutual fund series/class information, and market structure metrics.
 
 ### **Federal Reserve APIs & Collections**
 These links point to specialized tools for developers and researchers to pull economic and market-specific data.
