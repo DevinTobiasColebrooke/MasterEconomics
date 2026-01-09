@@ -69,3 +69,7 @@ Public company data
 
     ### **Need States Department of finanical protection and innovation/consumer financial protection**
     https://dfpi.ca.gov/press_release/california-financial-regulator-takes-possession-of-silicon-valley-bank/
+
+
+###  ** Other API**
+**[xBRL Database of Public filings]**(https://xbrl.us/home/priorities/use/xbrl-api/)
