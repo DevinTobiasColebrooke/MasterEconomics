@@ -28,6 +28,9 @@ These links point to the official US Government open data catalog, filtered by t
 *   **[U.S. Securities and Exchange Commission (SEC) - Data.gov](https://catalog.data.gov/organization/sec-gov)**
     *   **Label:** SEC Market & Financial Datasets
     *   **Focus:** Bulk data resources including "Fails-to-Deliver" statistics, aggregated financial statement data sets (extracted from financial reports), mutual fund series/class information, and market structure metrics.
+*   **[Export-Import Bank of the United States (EXIM)](https://catalog.data.gov/organization/exim-gov)**
+    *   **Label:** EXIM Bank Export Financing Data
+    *   **Focus:** Transaction-level data on authorized federal financing support for U.S. exports, including direct loans, loan guarantees, and export credit insurance records (to other nations).
 
 ### **Federal Reserve APIs & Collections**
 These links point to specialized tools for developers and researchers to pull economic and market-specific data.
