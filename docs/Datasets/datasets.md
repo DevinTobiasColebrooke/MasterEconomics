@@ -35,6 +35,11 @@ Here is the label and description for the requested URL, formatted to match the 
 *   **[U.S. International Development Finance Corporation (DFC)](https://www.dfc.gov/our-impact/transaction-data)**
     *   **Label:** DFC Investment & Transaction Data
     *   **Focus:** A searchable public database (and downloadable records) of the agency’s development portfolio, detailing U.S. government-backed direct loans, equity investments, and political risk insurance. Data points include project sponsors, host countries, sectors, and approved financing amounts.
+    Here is the label and description for the requested URL, formatted to match the previous list:
+
+*   **[U.S. International Trade Commission (USITC)](https://catalog.data.gov/organization/usitc-gov)**
+    *   **Label:** USITC Trade & Tariff Data
+    *   **Focus:** The Harmonized Tariff Schedule (HTS) of the United States, data on trade remedy investigations (antidumping and countervailing duty orders), and import injury statistics.
 
 ### **Federal Reserve APIs & Collections**
 These links point to specialized tools for developers and researchers to pull economic and market-specific data.
