@@ -1,3 +1,6 @@
+
+This DDL treats the database as a pure repository of facts. It removes all logic, CHECK constraints (math-based validations), and calculations. It simply stores the data points as integers and dates, leaving the application to interpret them entirely.
+
 ```sql
 -- ==========================================================
 -- 1. REGISTRY LAYER (Integer Mapping Only)
