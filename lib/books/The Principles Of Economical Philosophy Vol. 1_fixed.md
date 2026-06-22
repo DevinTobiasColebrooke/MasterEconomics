@@ -6408,3 +6408,4396 @@ higher fees. This excess of profit is the revenue of a capital entitled
 reputation, and this capital is the fruit of the care and pains the advocate has
 taken during many years."
 
+It is true that Say has contradicted himself in other passages in the most
+extraordinary manner, which has given rise to all the confusion he has caused on
+the subject of Credit. But we must reserve the examination of this until a
+future chapter. All we wish to show here is that Say includes intellectual
+qualities of all sorts under the title of Wealth.
+
+7.  The last writer we think it necessary to cite is Senior. He says:* — “If the
+    question whether personal qualities are articles of wealth had been proposed
+    in classical times, it would have appeared too clear for discussion. In
+    Athens everyone would have replied that they, in fact, constituted the whole
+    value of an ἔμψυχον ὄργανον. The only differences in this respect
+    between a freeman and a slave are, first, that the freeman sells himself,
+    and only for a period, and to a certain extent; the slave may be sold by
+    others and absolutely; and, secondly, that the personal qualities of the
+    slave are a portion of the wealth of his master; those of the freeman, so
+    far as they can be made the subjects of exchange, are a part of his own
+    wealth. They perish indeed by his death, and may be impaired or destroyed by
+    disease, or rendered valueless by any changes in the customs of the country
+    which shall destroy the demand for his services; but subject to these
+    contingencies they are wealth, and wealth of the most valuable kind. The
+    amount of revenue derived from their exercise in England far exceeds the
+    rental of all the lands in Great Britain.”
+
+So also:† — “Even in our present state of civilization, which, high as it
+appears by comparison, is far short of what may easily be conceived, or even of
+what may confidently be expected, the Intellectual and Moral Capital of Great
+Britain far exceeds all her material capital, not only in importance but even in
+productiveness. The families that receive mere wages probably do not form a
+fourth of the community; and the comparatively larger amount of the wages even
+of these is principally owing to the capital and skill with which their efforts
+are assisted and directed by the more educated members of the society. Those who
+receive mere rent, even using that word in its largest sense, are still fewer:
+and the amount of rent, like that of wages, principally depends on the knowledge
+by which the gifts of nature are directed and employed. The bulk of the national
+revenue is profit; and of that profit the portion which is mere interest on
+material capital, probably does not amount to one-third. The rest is the result
+of personal capital, or in other words of education.
+
+“It is not on the accidents of the soil, or climate, or the existing
+accumulation of the material instruments of production, but on the quantity and
+the diffusion of this immaterial capital, that the wealth of a country depends.
+The climate, the soil, and the situation of Ireland have been described as
+superior, and certainly are not much inferior to our own. Her poverty has been
+attributed to the want of material capital; but were Ireland now to exchange her
+native population for seven millions of our English north countrymen, they would
+quickly create the capital that is wanted. And were England, North of Trent, to
+be peopled exclusively by a million of families from the west of Ireland,
+Lancashire and Yorkshire would still more rapidly resemble Connaught. Ireland is
+physically poor, because she is morally and intellectually poor. And while she
+continues uneducated, while the ignorance and violence of her population render
+persons and property insecure, and prevent the accumulation, and prohibit the
+introduction of capital, legislative measures, intended solely and directly to
+relieve her poverty, may not indeed be ineffectual, for they may aggravate the
+disease, the symptoms of which they are meant to palliate, but undoubtedly will
+be productive of no permanent benefit. Knowledge has been called power — it is
+far more certainly Wealth. Asia Minor, Syria, Egypt, and the northern coast of
+Africa, were once among the richest, and are now among the most miserable
+countries in the world, simply because they have fallen into the hands of a
+people without a sufficiency of the immaterial sources of wealth to keep up the
+material ones.”
+
+8.  The question, indeed, whether services are wealth, appears to us to be so
+    clear that we can scarcely understand how any difficulty could be felt about
+    it. But nevertheless, difficulties have been felt and objections made to
+    including such immaterial products under the title of wealth, and therefore
+    it is necessary to cite the opinions we have done, and afterwards to examine
+    the objections made against them.
+
+Under this division comes the whole of labour of all sorts, and all persons
+earning an income by professions and employments of all sorts. It is evident
+that they give a certain amount of exertion, and receive in return for it
+payment. Their services, therefore, are of the same value to them as any
+material product. They are the subjects of taxation, and they contribute to the
+national revenue, just as much as if they were farmers or merchants.
+
+Smith says that a man is rich or poor according as he can command the
+necessaries, conveniences, and enjoyments of life. It is evident, therefore,
+that those who can supply those “enjoyments” and are paid for it, are producers
+of wealth as much as the producers of material products.
+
+Of Incorporeal Property, or Wealth.
+
+9.  We now come to the last species of Exchangeable Quantities, of which Bank
+    Notes and Bills of Exchange, included by Smith under the title of Capital,
+    are the type — namely, abstract rights, wholly separated from any material
+    substance. Now Property (res) in Roman Law, and in every system of Law, is
+    divided into Corporeal and Incorporeal. Thus it is said in the Institutes of
+    Justinian, Lib. II., Tit. 2: "Moreover, some things (res), or Property, are
+    Corporeal and others Incorporeal. Things Corporeal are those which, by their
+    nature, can be touched, such as land, a slave, clothes, gold, silver, and
+    other things innumerable. Things Incorporeal are those which cannot be
+    touched, such as those which consist in mere rights, as an inheritance, a
+    usufruct, uses, and all obligations however contracted. Nor is it any
+    objection that Corporeal things are contained in an inheritance; for fruits
+    also which are gathered from land are corporeal; and that which is due on an
+    obligation is usually corporeal, as land, a slave, money: but the right of
+    inheritance, and the right of using and enjoying, and the right of the
+    obligation are incorporeal."
+
+Now this Incorporeal Property, which was comparatively very small in ancient
+times, and even in Smith’s time was probably far inferior in magnitude to
+Corporeal Property, has since then assumed a gigantic development, and now
+exceeds many times the amount of Corporeal Property. It includes all such
+property as Bank Notes, Bills of Exchange, and other forms of Credit, Public
+Debts, Shares in Commercial Companies, Copyrights, Patents, the Practice of a
+Professional man, the Goodwill of a business, all species of Annuities, Tolls,
+Ferries, Advowsons, &tc.
+
+All this stupendous mass of Incorporeal Property is expressly classed under the
+title of Wealth in Roman Law, and in every system of Law, because it can all be
+bought and sold.
+
+So says Ulpian:* — "Ea enim res est, quae emi et venire potest." (For that is
+Wealth which may be bought and sold.)
+
+All species of Property, whether Corporeal or Incorporeal, were classed under
+Res, Bona or Pecunia in the Pandects of Justinian, or under πράγματα — goods and chattels, or χρήματα — wealth, in the Basilica, the revised code of
+Justinian, promulgated by the Basilian dynasty in the 10th century.
+
+Out of several passages we may select the following: —
+
+Digest, 50, 16, 23 — Rei appellatione et causae et jura continentur.
+
+Basil. 2, 2, 21 — τῇ τοῦ πράγματος προσηγορίᾳ καὶ αἰτίαι καὶ τὰ δίκαια
+περιέχεται. (Under the name of "goods" both causes and rights are
+included.)
+
+Digest, 50, 16, 49 — Aeque bonis adnumerabitur etiam si quid est in actionibus *
+* nam haec omnia in bonis esse videntur. (Under "goods" too are properly
+reckoned rights of action, because all these seem to be part of our property.)
+
+Digest, 50, 16, 222 — Pecuniae nomine non solum numerata pecunia, sed omnes res
+tam soli quam mobiles, et tam corpora quam jura continentur.
+
+Basil. 2, 2, 204 — Τῷ ὀνόματι τῶν χρημάτων οὐ μόνον τὰ χρήματα, ἀλλὰ πάντα τὰ
+κινητὰ καὶ ἀκίνητα καὶ τὰ σωματικὰ καὶ τὰ δίκαια δηλοῦται. (Under the name of
+Wealth, not only ready money, but all things, immoveable and moveable, corporeal
+as well as Rights, are included.)
+
+So merx, merchandise, in Roman Law was applied to anything which could be bought
+and sold, whether it was Corporeal or Incorporeal. Digest, 18, 1, 34, § 1, 2. —
+Omnium rerum, quas quis habere, vel possidere, vel persequi potest, venditio
+recte fit.
+
+(A person may lawfully sell anything which he has, or possesses, or has the
+right to sue for.)
+
+And this includes besides all material property, all Incorporeal Property, such
+as servitudes, obligations, or Debts, or rights to sue for money, and all rights
+of action whatsoever: and also, besides the right of demanding something from
+some specific person, the emptio spei, or emptio rei speratae, the expectation
+of an uncertain profit, which includes Copyright, Patents, the Goodwill of a
+business, Shares in commercial companies, &tc. These subjects are more fully
+entered upon a few sections further on, where we consider the classification of
+property; our only object at present is to ascertain the different species of
+quantities to which the title Wealth is applicable. Thus we see that the word χρήματα was used in Greek to include all the three species of exchangeable quantities: material substances; labour, services, or sciences; and incorporeal property of all sorts. The words merx, res, bona, pecunia, were used in Roman Law to include all property corporeal and incorporeal. We are not aware whether they were ever used to include services and labour, but if such a discussion had been raised, +we do not doubt but that it would have been decided in the affirmative.
+
+Those kinds of property are also included under the French words biens or
+choses.
+
+So in English law, Obligations, such as Notes, Bills, and Debts of all sorts,
+are included in the words "goods and chattels" or "effects" in an Act of
+Parliament.‡
+
+We have shown that Smith expressly enumerates paper currency of all sorts, which
+is Credit, under the title of Capital.
+
+So J. B. Say says:§ 'The exclusive possession which, in the midst of society,
+clearly distinguishes the property of one person from the property of another,
+in common usage, is that to which the title of Wealth is given. The blessings of
+Nature which everyone enjoys in common are not included in the inventory of a
+man; but there are included in it that portion of social riches which belong to
+him individually, which he has acquired by his own labour, or which he holds by
+gift, or inheritance. Under this title are included not only things which are
+directly capable of satisfying the wants of men, either natural or social, but
+the things which can only satisfy them indirectly, such as money, instruments of
+credit (titres de créance), the public funds, &tc.'
+
+Whately is the only English Economist that we are aware of who has called
+special attention to Incorporeal Property. He says:** — 'The only difficulty I
+can foresee as attendant on the language I have now been using, is one which
+(i.e., defining Political Economy as the Science of Exchanges) vanishes so
+readily on a moment’s reflection, as to be hardly worth mentioning. In many
+cases, where an exchange really takes place, the fact is liable (till the
+attention is called to it) to be overlooked, in consequence of our not seeing
+any actual transfer from hand to hand of a material object. For instance, when
+the copyright of a book is sold to a bookseller, the article transferred is not
+the mere paper covered with writing, but the exclusive privilege of printing and
+publishing. It is plain, however, on a moment’s thought, that the transaction is
+as real an exchange as that which takes place between the bookseller and his
+customers, who buy copies of the work. The payment of rent for land is a
+transaction of a similar kind, for, though the land itself is a material object,
+it is not this that is parted with to the tenant, but the Right to till it, or
+to make use of it in some other specified manner. Sometimes, for instance, rent
+is paid for a right of way through another’s field, or for liberty to erect a
+booth during a fair, or to race or exercise horses, &tc.' And he says in a note
+to this passage — 'This instance, by the way, evinces the impropriety of
+limiting the term Wealth to material objects.' Thus we see that Whately includes
+all the three species of quantities we have spoken of under the title of Wealth.
+
+
+On Mr. J. S. Mill’s Definition of Wealth.
+
+10. Mr. Mill’s work is so extensively read in this country, that we must examine
+    what he says about Wealth.
+
+He says, p. 2 — “It is no part of the design of this treatise to aim at
+metaphysical nicety of definition, where the ideas suggested by a term are
+already as determinate as practical purposes require;” and that “every one has a
+notion sufficiently correct for common purposes, of what is meant by wealth.”*
+We shall now have to examine whether this be so or not.
+
+He says — “Money being the instrument of an important public and private purpose
+is rightly regarded as wealth; but everything else which serves any human
+purpose, and which Nature does not afford gratuitously, is wealth also. To be
+wealthy is to have a large stock of useful articles, or to have the means of
+purchasing them. Everything forms therefore a part of wealth which has power of
+purchasing.” Now here is a definition clear, simple, and comprehensive, exactly
+agreeing with the ancient definition of Aristotle and Roman Law, that Wealth is
+anything which is exchangeable. We certainly hoped that we had got rid for ever
+of the notion that wealth is the “annual produce of land and labour,” and it is
+clear that Mr. Mill’s definition is large and general enough to include all
+three species of Exchangeable Quantities. According to this definition, the
+production of wealth must mean the production of something which is
+exchangeable. What then is our surprise to read a few pages further on — “The
+production of wealth: the extraction of the instruments of human subsistence and
+enjoyment from the materials of the globe.” Now this passage is in complete
+contradiction to his former definition. For we are once more plunged into
+Physiocracy, from which we hoped to have been free; we are once more brought
+back to the “produce of land and labour,” and all idea of exchangeability has
+disappeared from the definition. Now, leaving out labour and sciences for the
+present, Bank Notes, Bills, &tc., are exchangeable: they have power of
+purchasing, therefore they are wealth by Mr. Mill’s own definition; but how are
+they extracted from the materials of the globe?
+
+Again, a little further on, we are plunged into still further confusion. In the
+chapter on Unproductive Labour, he says that productive labour is not labour
+productive of utility, but of wealth† — “Productive labour means labour
+productive of wealth. We are recalled therefore to the question touched upon in
+our first chapter, what Wealth is, and whether only material products are to be
+included in it.”
+
+2.  Now the utilities produced by labour are of three kinds. They are —
+
+First, utilities fixed and embodied in outward objects; by labour employed in
+investing external material things with properties which render them serviceable
+to human beings. This is the common case, and requires no illustration.
+
+Secondly, utilities fixed and embodied in human beings; the labour being in this
+case employed in conferring on human beings, qualities which render them
+serviceable to themselves and others. To this class belongs the labour of all
+concerned in education; not only schoolmasters, tutors and professors, but
+governments, so far as they aim successfully at the improvement of the people;
+moralists and clergymen, as far as productive of benefit; the labour of
+physicians, as far as instrumental in preserving life and physical, or mental
+efficiency, of the teachers of bodily exercises, and of the various trades,
+sciences, and arts, together with the labours of the learners in acquiring them;
+and all labour bestowed by any persons, throughout life, in improving the
+knowledge, or cultivating the bodily or mental faculties of themselves or
+others.
+
+Thirdly, and lastly, utilities not fixed or embodied in any object, but
+consisting in a mere service rendered; a pleasure given, an inconvenience or a
+pain averted during a longer or a shorter time, but without leaving a permanent
+acquisition in the improved qualities of any person or thing; the labour being
+employed in producing an utility directly, not (as in the two former cases) in
+fitting some other thing to afford an utility. Such, for example, is the labour
+of the musical performer, the actor, the public declaimer or reciter, and the
+showman. Some good may no doubt be produced, and much more might be produced,
+beyond the moment, upon the feelings and disposition, or general state of
+enjoyment of the spectators; or instead of good there may be harm; but neither
+the one nor the other is the effect intended, is the result for which the
+exhibitor works, and the spectator pays; nothing but the immediate pleasure.
+Such, again, is the labour of the army and navy; they at the best prevent a
+country from being conquered, or from being injured and insulted, which is a
+service, but in all other respects leave the country neither improved nor
+deteriorated. Such, too, is the labour of the legislator, the judge, the officer
+of justice, and all other agents of government in their ordinary functions,
+apart from any influence they may exert on the improvement of the national mind.
+The service which they render is to maintain peace and security: these compose
+the utility which they produce. It may appear to some that carriers, and
+merchants or dealers, should be placed in this same class, since their labour
+does not add any properties to objects; but I reply that it does, it adds the
+property of being in the place where they are wanted, instead of being in some
+other place, which is a very useful property, and the utility it confers is
+embodied in the things themselves, which now actually are in the place where
+they are required for use, and in consequence of that increased utility could be
+sold at an increased price, proportioned to the labour expended in conferring
+it. This labour, therefore, does not belong to the third class, but to the
+first.
+
+“3. We have now to consider which of these three classes of labour should be
+accounted productive of wealth, since that is what the term productive, when
+used by itself, must be understood to import. Utilities of the third class,
+consisting in pleasures which only exist while being performed, cannot be spoken
+of as ‘wealth,’ except by an acknowledged metaphor, it is essential to the idea
+of wealth to be susceptible of accumulation: things which cannot, after being
+produced, be kept for some time before being used, are never, I think, regarded
+as wealth, since however much of them may be produced and enjoyed, the person
+benefited by them is no richer, is nowise improved in circumstances. But there
+is not so distinct and positive a violation of usage in considering as Wealth,
+any product which is both useful and susceptible of accumulation. The skill and
+the energy and the perseverance of the artisans of a country, are reckoned part
+of its wealth, no less than their tools and machinery. According to this
+definition, we should regard all labour as productive, which is employed in
+creating permanent utilities, whether embodied in human beings, or in any other
+animate or inanimate objects.
+
+“But in applying the term wealth to the industrial capacities of human beings,
+there seems always in popular apprehension to be a tacit reference to material
+products. The skill of an artisan is accounted wealth only as being the means of
+acquiring wealth in a material sense, and any qualities not tending visibly to
+that object are scarcely so regarded at all. A country would hardly be said to
+be richer except by a metaphor, however precious a possession it might have been
+in the genius, the virtues, or the accomplishments of its inhabitants; unless,
+indeed, these were looked upon as marketable commodities, by which it could
+attract the material wealth of other countries, as the Greeks of old and several
+modern nations have done. While, therefore, I should prefer, were I constructing
+a new technical language, to make the distinction turn upon the permanence
+rather than upon the materiality of the product, yet when employing terms which
+common usage has taken complete possession of, it seems advisable so to employ
+them as to do the least possible violence to usage; since any improvement in
+terminology obtained by straining the received meaning of a popular phrase, is
+generally purchased beyond its value, by the obscurity arising from the conflict
+between new and old associations.
+
+I shall therefore in this treatise, when speaking of wealth, understand by it
+only what is called material wealth.”
+
+The incongruity of ideas between this passage and the simple general definition
+Mr. Mill began with, that wealth is anything which has purchasing power, is
+manifest, and also with that in which he speaks of the production of wealth as
+the extraction of the instruments of human subsistence and enjoyment from the
+materials of the globe. For in this passage he distinctly admits the
+intellectual qualities and skill of working men to be wealth, and are they
+extracted from the materials of the globe? Cattle, too, are certainly wealth,
+and are they extracted from the materials of the globe by human labour? Now,
+with respect to what Mr. Mill says about services, &tc., never being spoken of
+as wealth except by an acknowledged metaphor, we may say that this was
+conclusively settled in the Eryxias, which we have already quoted; and also by
+J. B. Say, as well as by Mr. Mill’s own definition. They are exchangeable, they
+can purchase money, therefore they are wealth. But Mr. Mill has now introduced a
+new qualification into his definition of wealth. He says that it is essential to
+the idea of wealth to be susceptible of accumulation, and that things which
+cannot be kept for some time before being used, after they are produced, are not
+regarded as wealth, and the person benefited by them is no richer or improved in
+circumstances. But what time must products be capable of being kept, to be
+called wealth? A bun may be kept some time before it is eaten, therefore it is
+wealth. But after a man has eaten a bun, how is he the richer? Mr. Mill says he
+should prefer to make the definition turn upon the permanence rather than on the
+materiality of the products. But what degree of permanence is required to
+constitute a thing wealth? Exchangeable things are of all degrees of permanence.
+Some may last as long as the world itself, others may only last a very short
+time. And which of these degrees of permanence is necessary to satisfy Mr.
+Mill’s definition? It is evident that there is no degree of permanence that
+can be fixed upon for this purpose.
+
+But the restriction which Mr. Mill has now introduced into the definition of
+wealth, that it must be material, has plunged him into still greater confusion
+when he comes to speak of credit. He defines wealth to be anything which has
+power of purchase. In speaking of credit, he says that it is purchasing power,
+and therefore wealth by his own definition. He then says that bank notes, bills,
+and cheques are of the same value as money, and perform all the functions of
+money, and are therefore wealth by his own definition, and he several times
+calls bank notes productive capital. Now, are bank notes material, and extracted
+from the materials of the globe? This subject is more fully examined further on.
+But we have placed before our readers enough to show them the contradiction of
+Mr. Mill’s ideas in different passages on the meaning of wealth, and to show
+that every one has not a sufficiently correct notion of what wealth is. It may,
+perhaps, be superfluous to say that we reject entirely all the subsequent
+modifications and restrictions he has introduced into the definition, and agree
+to the first general definition he began with, that wealth is everything which
+is exchangeable.
+
+11. Now, having shown that Exchangeability is the essential idea or conception
+    upon which the quality of Wealth is based, by the unanimous agreement of all
+    writers, ancient and modern, observe that: —
+
+I. Labour may be bestowed on many things which may not be exchangeable, and
+therefore not Wealth.
+
+That there are many things which are exchangeable which have never had any
+labour bestowed upon them, such as land in towns, cattle, trees, obligations of
+all sorts.
+
+Therefore Labour is not necessary to Wealth, it is only the accident of Wealth.
+
+II. That many material things are not exchangeable: and many exchangeable
+things are not material; such as Labour of all sorts, Knowledge, Sciences, and
+all Incorporeal Property.
+
+Therefore Materiality is not necessary to Wealth, it is only the accident of
+Wealth.
+
+III. That some things are of all degrees of Permanence, or durability, from
+perpetuity downwards to those which are only capable of one exchange, and perish
+in the using like services, instruction, &tc. Now the Law of Continuity says
+that that which is true up to the limit is true at the limit. Consequently, if
+those things are admitted to be wealth which are of various degrees of
+permanence, and can be exchanged various numbers of times, those things must
+also be admitted to be wealth which are of the least degree of permanence, and
+only capable of being exchanged the least number of times, which is once.
+
+Therefore permanence or durability is not necessary to Wealth, it is only the
+accident of Wealth.
+
+Hence we see that neither Labour, Materiality, nor Durability are necessary to
+Wealth, nor is any combination of them necessary to Wealth; they are only the
+accidents of Wealth. Hence by the laws of Inductive Logic we eliminate all these
+three as accidental and intrusive ideas, and leave Exchangeability alone as the
+single general idea or quality which constitutes a thing Wealth.
+
+Hence in the following treatise we have nothing to do with any other quality
+anything may possess besides Exchangeability. Many things are very useful and
+agreeable, but we can take no notice of such qualities. On the other hand, we
+must include all quantities in which the quality of exchangeability is found.
+But as the word wealth is so frequently associated in popular estimation with
+useful and agreeable things, that it may be of advantage to use some word
+equivalent to it which is not so connected with other qualities, we shall use
+the expressions “Wealth” and “Exchangeable Quantities,” or “Economic
+Quantities,” as identical in future.
+
+Economic Quantities are of three distinct species: — 1. Corporeal or Material
+substances, of which Money may be taken as the symbol; 2. Immaterial, which may
+be included under the designation of Labour; 3. Incorporeal, of which Credit may
+be taken as the symbol. Hence we may say that any Economic Quantity must be of
+one of the three forms; Money, Labour, or Credit. We shall now seek for a term
+which will include them all.
+
+
+On the Meaning of the Words Property and Estate.
+
+12. We shall find that it will throw a flood of light over the whole of Economic
+    Science, and remove all the difficulties which the word Wealth has given
+    rise to, to understand clearly the true and original meaning of the words
+    Property and Estate.
+
+Most persons when they hear the word Property, think of some material things,
+such as money, tables, lands, houses, carriages, &tc. So when they speak of an
+Estate they usually mean a certain quantity of land. But that is not the true
+meaning of the words Property or Estate. They, in reality, mean certain Rights
+residing in some persons to certain things.
+
+In the rude early Roman Jurisprudence a man's possessions were called mancipium,
+because it was supposed he must grasp them with the hand, and if he did not keep
+a pretty firm hold on them, he might soon lose them. When civilization improved,
+it was held that all things belonged in common to the house, and the absolute
+right to them was concentrated in the dominus, head of the house; hence the
+right was called dominium; subsequently when the excessive rigour of the law was
+relaxed, and individual members of the family were allowed to have rights to
+things separately, the word Proprietas came into use. “Dominium,” says
+Neratius,* “id est Proprietas.”
+
+Hence, in Roman Law, Proprietas meant ownership, a right to have something,
+exclusively to anyone else. We do not believe that the word proprietas was ever
+applied in Roman Law to the things themselves.
+
+It is the same with respect to the words Property and Estate in English Law. To
+call the land itself an “estate,” would have seemed a wondrous perversion of
+language to Littleton. Bacon never uses the word Property to mean houses, goods,
+or lands. To apply the words Property and Estate to mean money, houses, lands,
+etc., is comparatively a modern corruption, and we cannot say when it began.
+Bacon says that one of the uses of the Law “is to dispose the Property of their
+goods and lands,” and he explains the different methods by which the “Property
+in land is got and transferred;” though even here we may mark a certain
+degeneracy of language, as we do not believe that Littleton would have used the
+word Property for the right in land held by a subject. So Bacon explains the
+various methods by which “Property in goods and chattels may be acquired.” So he
+speaks of the “Interest or Property of a timber-tree.”†
+
+In no single instance does he, or, we believe, any writer of his time, use the
+word Property to mean the things themselves.
+
+We may also observe that several words in Latin which are usually applied to
+things, in reality meant rights. Thus Iter in reality means the right of going
+on foot through the grounds of another person, and not the pathway itself; Actus
+is the right of driving cattle or carriages over the ground of another, and not
+the roadway; Via includes the right of driving cattle or carriages, and going on
+foot, and not the highroad itself; Aquaeductus means the right of bringing water
+over another's grounds, and not the stones, or bricks and mortar, of which the
+material channel is composed: and there are many words in English law which are
+usually thought to mean things which are in reality rights to things.
+
+Property, therefore, being the Right residing in a person to a certain thing,
+may be either absolute, that is, without any superior, or else it may be derived
+from and held subordinate to some superior.
+
+Absolute property is termed allodial, and holds with regard to all moveable
+goods and chattels, and in former times in England with respect to land. In the
+Roman Empire the owners of land held it in absolute property or dominium,
+without any superior, and this was so in England as well as in other countries.
+Before the Conquest the absolute Property in the land belonged to the people,
+and a man’s lands were equally divided among his children, which law many
+suppose to be the origin of the multitudinous hedge-rows, which in many counties
+used to divide the lands into so many minute and irregular patches, but which
+are fast disappearing before the improvements in modern agriculture. It is true
+that the feudal system of tenure had to a certain extent been introduced before
+the Conquest. But William I. assumed the absolute property in all the lands of
+England, except the Church lands and the county of Kent, for the Crown. He made
+a composition with the men of Kent to maintain their ancient customs, so that
+land in Kent remained as formerly, divisible among the family. The whole
+Property of the land being then vested in the Crown, the Conqueror granted out
+to his followers certain Rights of use and enjoyment in certain lands, and these
+Rights were denominated “Estates.” But those who enjoyed them, and were bound to
+render certain services in return, were never called owners or proprietors, but
+always Tenants. Thus we always speak of the tenure of lands, and all rights to
+use and enjoy lands are called tenures. So Littleton speaks of Tenants in
+fee-simple, Tenants for life, Tenants at will, Tenants by copy, Tenants for
+terms of years, joint Tenants, Tenants in common, Tenants by grand serjeanty,
+&tc., and these persons were strictly Tenants, because they were only permitted
+to hold these lands on the express condition of performing certain services to
+the Crown, which, if they failed to do, they were as strictly liable to
+forfeiture as a modern farmer or tenant would be for non-payment of rent.
+
+Thus the index, or tabula to Littleton, says — “The first book is of estates
+which men have in lands and tenements,” and in page 1 he says — “For these words
+(his heirs) make the estate of inheritance.” So B. III, c. 2 — “Of estates upon
+condition,” he says, “estates which men have in lands or tenements upon
+condition are of two sorts,” and in many other passages; and Littleton certainly
+would never have thought of applying the word estate to the land itself. So
+Bacon says — “Property of lands by conveyance is first distributed into estates
+for years; for life, in tail, and fee-simple. These estates are created by word,
+by writing, or by record.”
+
+An estate, therefore, is always a Right of an inferior order to that of
+Property. It in reality means a lease; as Bacon says — “For estates for years
+which are commonly called leases for years.” Such interests or estates in land
+were always given as the fee or reward for services rendered to the Crown. Thus,
+as Bacon says — “The last and greatest estate of lands is fee-simple, and beyond
+this there is none of the former for lives, years, or entails; but beyond them
+is fee-simple. For it is the greatest, last, and uttermost degree of Estates in
+land.”
+
+And so many other passages might be cited. The true meaning of estate,
+therefore, is a lease, or right to use a thing derived from a higher power, for
+which some service is given, which is feudal property; and an estate in
+fee-simple means a perpetual lease of lands or tenements, and it is only in
+strictness applicable to land.
+
+This meaning of the word estate is also shown in Shakespeare, Tempest, Act IV.,
+sc. 1:
+
+A contract of true love to celebrate,
+And some donation freely to estate
+On the blessed lovers.
+
+Also in A Midsummer Night's Dream, Act I., sc. 1:
+
+And all my right of her,
+I do estate unto Demetrius.
+
+So in As You Like It, Act V., sc. 2:
+
+Oliver. All the revenue that was old Sir Roland’s will I estate upon you.
+
+Property, therefore, in its real and original sense means Ownership, or the
+Right residing in some person to some things, to use them as he pleases; and
+when we speak of an exchange, it always means that the ownership, or property,
+in certain things is ceded or given in exchange for the ownership, or property,
+in certain other things. Thus if we sell or exchange money for a book, it means
+that we exchange the property in, or the right to the money for the property in,
+or the right to the book. And there can be no exchange without the property in
+the things passing reciprocally from one to the other. If a man merely lends his
+horse or his book to a friend, that is no exchange or transfer of property.
+
+And this meaning of the word Property was well understood by one of the most
+eminent Physiocrates, Mercier de la Rivière. He says:‡ — “Property is nothing
+but the right to enjoy; hence it is impossible to conceive the right to enjoy
+separately from the freedom to enjoy.” “We see, therefore, that landed property
+is not a fictitious or arbitrary institution; that it is nothing but the
+development of personal property, the last degree of extension of which this is
+susceptible. We see that there is but one single species of Property — that of
+personal right or property, and it changes its name according to the nature of
+the objects to which it is applied.” “It would be superfluous to say that
+property in land necessarily includes the property in its products. Property is
+the right to enjoy; hence the enjoyment of the products which can be extracted
+from it.” And throughout the whole of his work, this author incredibly uses the
+word property in its true and original meaning of a Right, and not in its
+corrupted meaning of a thing.
+
+We may observe that the same corruption of meaning has been applied to the word
+Farm. A farm is universally understood now to mean a quantity of land let by one
+person to another. A good farmer means a good agriculturist. But in reality a
+farm means the Right to receive the whole profits of an undertaking upon
+agreeing to pay a fixed sum for the right. Thus in France it was customary to
+farm the taxes, and several of the most notorious persons in French history were
+the farmers-general of the taxes. To call a piece of land a farm is as gross an
+absurdity as to call it a lease; it is equally erroneous to call it an estate;
+and it is just as erroneous to call a thing property as to call it a right.
+
+13. Property, then, being clearly understood to be a Right residing in a person,
+    there are three distinct species of Property, or Economic Rights, which may
+    be sold, or exchanged, either absolutely, or for a certain period of time.
+
+I. There may be Property in specified physical substances, which are already in
+existence, and in the possession of the proprietor, such as lands, houses,
+money, clothes, furniture, &tc. These things are in a complete state of
+existence. This species of Property is called in Roman and English Law Corporeal
+Property, because it is the Right, or property in some specific corpus. It may
+also be called Material Property, because it is Property in some specific
+matter. Hence we shall denominate this species of Property either as Material or
+Corporeal Property, or as Material, or Corporeal, Wealth.
+
+II. The Property that a man has in himself, and in the fruits of his own mind,
+that is, in his own Labour of all sorts. “The property which every man has in
+his own labour, as it is the original foundation of all other property, so it is
+the most sacred and inviolable. The patrimony of a poor man lies in the strength
+and dexterity of his hands; and to hinder him from employing this strength and
+dexterity in what manner he thinks proper, without injury to his neighbour, is a
+plain violation of this most sacred property.”§
+
+And the same is true of every other species of labour, mental or intellectual.
+Now, though a man cannot be sold absolutely as a slave in this country, nor can
+he sell the right to demand his services for life, yet he may sell or exchange
+for a limited time the right or property to use his services in any capacity,
+either as a manual labourer, as an agriculturist, or an artisan, or navvy, or as
+an instructor of any sort, as a lawyer, or physician, or performer, an author,
+or any other trade or profession. Hence services and intellectual qualities of
+all sorts are reduced to Rights or Property. Now as all these services, although
+they require some bodily instrument to give effect to them, are in reality
+operations of the mind, we may call them Immaterial Property, or Immaterial
+Wealth, because it is a Property or Right, but not in any material substance.
+
+III. There is, lastly, a third species of Property or Right. We may have a Right
+or Property wholly severed and separated from any specific corpus, or matter, in
+possession. It may either be in the possession of some one else at the time, and
+may only become our property at some future time; or it may not even be in
+existence at the time. Thus we may have the Right or Property to demand a sum of
+money at some future time from some person. That sum of money, no doubt, is in
+existence, but it is not in our possession; it may not even be in the possession
+of the person bound to pay it. It may pass through any number of hands before it
+is paid to us. But yet our Property to receive it is present and existing, and
+we may sell or transfer that property to anyone else for money. We may also have
+a Right or Property to something which is not even yet in existence, but will
+only come into existence at a future time. Thus those who possess lands or
+cattle, fruit trees, &tc., have the property in their future produce, and may
+sell or exchange that Property like any material property. This species of
+property is called in English and Roman Law Incorporeal Property, because it is
+Property separated from any specific corpus.
+
+Now anything whatever that can be sold or transferred is of one of those three
+species of Property: there is nothing which can be bought and sold which is not
+one of these forms, Money, Labour, and Credit. Hence we are now sure of our
+ground, and may begin to generalize with safety, because we have got all the
+species of Economic Quantities. And all the Fundamental Conceptions of Economics
+must be generalized so as to grasp all these three species of Economic
+Quantities.
+
+14. These three species of Economic Quantities may be exchanged in Six different
+    ways: —
+
+1. A material product for a material product; as gold money for so much corn,
+    manufactures, &tc.
+
+2. A material product for an immaterial product; as gold money for so much
+    labour, or instruction of any sort.
+
+3. A material product for incorporeal property; such as gold money for debt, or
+    so much stock, or the Funds, or a copyright, &tc.
+
+4. An immaterial product for an immaterial product; as so much instruction or
+    labour of one sort may be exchanged for so much instruction or labour of
+    another sort.
+
+5. An immaterial product for incorporeal property; as so much instruction or
+    labour for a Bank Note, Cheque, &tc.
+
+
+6.  Incorporeal Property for incorporeal property; as we may buy or sell a
+    copyright, or patent, for bank notes, cheques, &c.; or one kind of debt may
+    be exchanged for another kind; as when a banker buys or discounts (as it is
+    technically termed) a debt payable at a future date, by means of creating a
+    debt payable on demand, which forms the great business of banking, the
+    greatest branch of modern commerce.
+
+The business of the Physical Economist is to discover and express a great single
+General Law, which governs all these distinct species of Exchanges.
+
+We have now laid a solid foundation for a general science of Economics, and
+there is no fear that our doctrines can be overthrown by the introduction of new
+quantities, as is so frequently the case in other sciences, because it is
+perfectly well known that there are three, and only three, species of Economic
+Quantities, and that there are six, and only six species of Exchange.
+
+The principal source of error and confusion in Economic Science has arisen from
+the fact that the nomenclature which is still very commonly used was originated
+by writers who only considered one class of cases, namely, the exchange of
+material products against material products; and they lay down definitions and
+laws which are only even apparently applicable to that single class of cases,
+and not even in reality true in that single class, and which the least
+experience and reflection show are wholly erroneous when applied to other cases,
+and are, therefore, not general, and have no possible application to the last
+and most important species of exchanges, namely, that of debts for debts.
+
+We now at last see what is the true Economic meaning of the word WEALTH. It is
+an Exchangeable Right. The Physiocrates said that all products are ultimately
+exchanged against products. This doctrine was adopted by J. B. Say, but it was
+seen to be incorrect. Bastiat says*:—
+
+“Labour is the only subject of exchange. * * * Into what we denominate products
+there enter different degrees of natural utility and different degrees of
+artificial utility; the latter, which alone implies labour, is alone the subject
+of human exchanges; and without contesting in any way the celebrated and
+suggestive formula of J. B. Say, I esteem it more rigorously scientific to say
+that Labour is exchanged against Labour, or, better still, services are
+exchanged against services.” Now we shall have to show hereafter that it is a
+great error to say that labour is the only subject of exchange. We have shown
+that Wealth is an Exchangeable Right, and, therefore, all Exchanges are of
+Rights against Rights.
+
+Examination of the Arguments against admitting Immaterial and Incorporeal Quantities into Economics.
+
+15. The considerations given in the preceding sections are, we think, quite
+    sufficient to prove that Immaterial and Incorporeal Quantities should be
+    admitted into Economics. We have seen that the Physiocrates did not include
+    them, but we have given what appears to us a sufficient answer to the
+    arguments of Le Trosne, the only one who gave any reason why they should not
+    be considered as Wealth. Most other writers have simply included or excluded
+    them, as the case may be, without giving any arguments on either side.
+    Malthus, however, has strenuously argued against their admittance, and, as
+    his arguments have been adopted by some other writers, we must examine them,
+    as this work would be incomplete unless we can not only show that they ought
+    to be included, but also that the arguments against excluding them are
+    erroneous.
+
+It would occupy too much space to quote the whole of the passage in Malthus; we
+will therefore state his argument, and quote sufficient to give a complete view
+of his opinion. He begins by truly* observing on the importance of the
+definition of Wealth; and says it is sometimes supposed that a writer may define
+his terms in any manner he pleases, provided that he uses them strictly in the
+sense proposed. He very justly says that this doctrine cannot be accepted,
+because if he gives a definition of the subject, which is unusual or inadequate,
+he may render his inquiries perfectly futile; as, for instance, if any one were
+to define wealth arbitrarily, as consisting exclusively of broad-cloth, however
+consistent he might be in the use of the term, or however useful it might be as
+a treatise on that one article, it would be of no use to those who looked for a
+treatise on wealth, according to any common or useful meaning of the term.
+
+He says that the comparative merits of the system of the Economists and of Adam
+Smith, depend upon their different definitions of Wealth, and Productive Labour.
+If the definition of these terms by the Economists is the more useful and
+correct, then their system is the correct one. If Smith’s definitions of those
+terms is the better and more comprehensive, then his system is superior in
+utility and correctness.
+
+Malthus then says that, of those who have given a definition of Wealth, some
+have made it too narrow, and some far too wide. The Economists made it too
+narrow by confining it to the net produce of the earth. Lord Lauderdale, he
+says, made it far too wide by saying Wealth is “all that man desires as useful
+and delightful to him.”
+
+“This definition obviously includes everything whether material or intellectual,
+whether tangible or otherwise, which contributes to the advantage or pleasure of
+mankind, and of course includes the benefits and qualifications derived from
+religion, from morals, from political and civil liberty, from oratory, from
+instructive and agreeable conversation, from music, dancing, acting, and all
+personal qualities and services. It is certain, however, that an inquiry into
+the nature and causes of all these kinds of wealth, would not only extend beyond
+the bounds of any single science, but would occasion so great a change in the
+use of common terms as to introduce the utmost confusion into the language of
+political economists. It would be impossible to form any judgment of the state
+of a country from the use of the terms rich or richer. A nation might be said to
+be increasing in wealth, when to all common eyes, and in all common language, it
+might be growing poorer. This would be the case, according to the definition, if
+a diminution of the manufacturing and mercantile products had been balanced in
+the opinions of some persons by the qualifications derived from the intellectual
+attainments, and the various personal qualities and services of the inhabitants.
+But how is this balance to be ascertained? How is it possible to estimate the
+degree of wealth derived from these sources? Yet it is quite obvious that we
+cannot practically apply any discussions respecting the relative increase in the
+wealth of different nations, without having some means however rough of
+estimating the amount of such increase.
+
+“Some modern writers who do not choose to adopt the language of Adam Smith, and
+yet see the confusion which would arise from including under the head of wealth,
+every kind of benefit or gratification of which man is susceptible, have
+confined the definition to those objects alone, whether material or immaterial,
+which have value in exchange.
+
+This definition is certainly preferable to the more comprehensive one just
+noticed, but by no means to the extent which might at first be supposed. When it
+is considered attentively, it will be found to be open to a very great portion
+of the objections to which the more general one is liable, and to draw the line
+of demarcation between what ought and what ought not to be considered as wealth
+in the most indistinct and unsatisfactory manner.
+
+Passing over the incorrectness of introducing a term open to so much controversy
+as value into a definition of wealth, it may be observed —
+
+“1st. That if by an object which has value in exchange be understood its
+susceptibility of being purchased or hired, then there is scarcely any quality
+or accomplishment of the mind or body that would not come under the category of
+wealth. The possessor of the lowest species of literary knowledge, that of
+reading and writing, may be hired to teach others; and, as all or nearly all who
+had acquired these useful arts are susceptible of such employment, an estimate
+of national wealth ought to include the value of these attainments, however
+various in degree and widely extended.
+
+2nd. All the knowledge acquired by a superior education and superior talents, on
+account of a similar susceptibility, would have a greater claim to be included
+in the estimate. The possessors of religious and moral knowledge, though
+obtained without any view to the instruction of others for a pecuniary
+remuneration, would be ready to sell such instruction under a reverse of
+fortune. The same may be said of a knowledge of classical literature,
+mathematics, history, natural philosophy, chemistry, geology, mineralogy,
+botany, &tc. On the same principle those who had learnt to dance, to sing, or to
+fence for their amusement might more or less imperfectly teach dancing, singing,
+or fencing for money.
+
+In short, if we include under the denomination of wealth all the qualities of
+the mind and body which are susceptible of being hired, we shall find that, by
+the restriction of the term wealth to that which has exchangeable value, we have
+advanced but little towards removing the confusion and uncertainty attendant
+upon the former definition; and all idea of estimating the increase of wealth in
+any country, or making any moderate approaches to it must be absolutely
+hopeless.
+
+“On the other hand, if we confine the definition of wealth to those objects
+which either have been exchanged, or are specifically intended to be exchanged,
+we shall attempt to draw a broad line of demarcation between things which in
+regard to their qualities are precisely similar; and further exclude from the
+category of wealth a great mass of articles which have been included, and most
+correctly so, by Adam Smith and by almost every person who makes use of the
+term, either in writing or conversation.
+
+“The various information acquired by private study, and destined for private use
+and enjoyment, may be of exactly the same kind as that which is intended to be
+let out if anybody will hire it, yet the first, in this classification, is not
+to be called wealth, and the other is. The person who buys instruction buys an
+amount of wealth which it must be presumed is equal in value to what he has paid
+for it, while the self-taught person, who is in possession of much superior
+knowledge, has acquired no wealth. According to this definition, wealth cannot
+be given; it can only be bought. The instructions of the school-master are
+wealth; the same instructions given by a friend, or father, are not wealth. This
+is sufficiently inconsistent; but this is not all. By this definition of wealth
+a very large and most important portion of material commodities is excluded from
+the denomination. In the business of agriculture, a considerable share of the
+produce is always destined to be consumed on the spot without being exchanged.
+The common farmer calculates how much of what he produces must go to the support
+of his own family and working cattle, before he can determine how much he will
+have to sell. The gentleman farmer supports perhaps a large private
+establishment upon his farm, lives hospitably, receives numerous guests, and
+sells comparatively very little. Our feudal ancestors pursued this course to a
+much greater degree. In fact it was the only way in which they could spend the
+principal part of the products of their large possessions. The great Earl of
+Warwick is said to have supported thirty thousand people daily on his different
+manors; and at an earlier period, the elder Spenser in his petition to
+Parliament complains of the ravages made by the Barons on his estates, and
+enumerates 28,000 sheep, 1,000 oxen and heifers, 12,000 cows with their breed
+for two years, 500 cart horses, 2,000 hogs, 10 tons of cider, together with 600
+bacons, 80 carcasses of beef, and 600 muttons in the larder. From this
+enumeration, Hume observes, “the plain inference is, that the greater part of
+Spenser’s vast estates, as well as the estates of the other nobility, was farmed
+by the landlord himself, managed by his stewards or bailiffs, and cultivated by
+his villains.” Little or none of it was let on lease to husbandmen. Its produce
+was consumed in rustic hospitality by the baron or his officers.
+
+Now this large mass of material commodities, increased as it would be by the
+flax and wool raised, spun, and wove for home consumption, few, it is conceived,
+would venture to exclude from the denomination of wealth; and yet this produce
+has neither actually been exchanged for money or other goods, nor has it been
+raised with the intention of being so exchanged, and, therefore, according to
+the last definition, it ought not to be considered as wealth.
+
+“It must be allowed, nevertheless, that it has exchangeable value; and here one
+of the great characteristic differences between material objects and objects
+which are not material appears in a striking point of view. Of the quantity and
+quality of the material commodities here noticed it would not be difficult to
+make an inventory. Many household books, indeed, furnish one; and, knowing
+pretty nearly the quantity and quality of such articles, a fair approximation to
+their value might be attained by estimating them according to the market prices
+of the district at the time. But in regard to immaterial objects the difficulty
+seems to be insurmountable. Where is an inventory to be found, or how is one to
+be made of the quantity and quality of that large mass of knowledge and talents
+reserved for the use and consumption of the individual possessors and their
+friends? Or, supposing it were possible to form such an inventory, how could we
+make any moderate approaches towards a valuation of the articles it contained?
+
+Consequently, if by objects which have value in exchange we mean objects which
+are susceptible of being exchanged, we shall include such a mass of the mental
+and physical qualities of mankind as to make the term wealth convey no tolerably
+distinct and useful meaning.
+
+“And if by objects which have value in exchange we mean only those objects which
+have actually been, or are specifically intended to be exchanged, we shall
+exclude from the denomination of wealth a large mass of material commodities
+which have always, and most justly, been classed under that head.
+
+“To get rid of these obvious embarrassments, it has sometimes been the practice
+to consider the labour which is hired, as the wealth which is purchased without
+reference to its results. But it seems very strange and incorrect to consider
+mere labour as wealth. No one would give anything for it, if he were sure that
+it would yield no gratifying result. It is in the expectation of this result
+alone that labour is employed. The sick man employs a physician, not because he
+is pleased with the trouble which he gives him, but because he expects that his
+health may be benefited by the advice which he receives. The lawyer is consulted
+and fee'd, only because his client expects to derive some advantage from the
+opinion to be given, or the cause to be pleaded. And even the menial servant is
+not hired on account of the desire to see a man work, but on account of the
+trouble which he will save his master in performing certain offices for him, or
+the gratification afforded to his vanity by the show of having a person at his
+command.”
+
+
+The natural consequence of these difficulties is that the ablest writers who
+have deserted matter in their definition of wealth, have fallen almost
+inevitably into contradictions and inconsistencies.”
+
+Malthus then points out the amazing self-contradictions of J. B. Say on the
+subject of Wealth. As these are fully explained in the chapter on Credit, we
+need not set them out here. That Say has contradicted himself in the most
+extraordinary way is true, but we cannot admit that that is in any way the
+consequence of admitting immaterial and incorporeal quantities into Economics.
+
+He then continues — “The fact really is, that if we once desert matter in the
+definition of wealth, there is no subsequent line of demarcation which has any
+tolerable degree of distinctness, or can be maintained with any tolerable
+consistency, till we have included such a mass of immaterial objects as utterly
+to confuse the meaning of the term, and render it impossible to speak with any
+approach towards precision, either of the wealth of different individuals, or
+different nations.
+
+“If then we wish with M. Say to make political economy a positive science,
+founded on experience, and capable of making known its results, we must be
+particularly careful in defining its principal term, to embrace only those
+objects, the increase or decrease of which is capable of being estimated; and
+the line which it seems most natural and useful to draw is that which separates
+material from immaterial objects.
+
+“Adam Smith has nowhere given a very regular and formal definition of wealth;
+but that the meaning which he attaches to the term is confined to material
+objects is throughout his work sufficiently manifest. His prevailing description
+of wealth may be said to be ‘the annual produce of the land and labour.’ The
+objections to it as a definition are, that it refers to the sources of wealth
+before we are told what wealth is, and that it is not sufficiently discriminate,
+as it would include all the useless and unappropriated products of the earth, as
+well as those which are appropriated and enjoyed by man.
+
+“To avoid these objections and to keep at an equal distance from a too confined
+or a too indiscriminate sense of the term, I should define wealth to be ‘the
+material objects necessary, useful, or agreeable to man, which are voluntarily
+appropriated by individuals or nations.’ The definition thus limited includes
+nearly all the objects which usually enter into our conceptions when we speak of
+wealth or riches — an advantage of considerable importance as long as we retain
+these terms both in common use, and in the vocabulary of political economy.
+
+“A country will therefore be rich or poor according to the abundance or scarcity
+with which these material objects are supplied, compared with the extent of
+territory: and the people will be rich or poor, according to the abundance or
+scarcity with which they are supplied.”
+
+In a note to this passage he says: — “In my little work on the Definitions in
+Political Economy, published in 1827, I defined wealth to be ‘The material
+objects necessary, useful, or agreeable to man, which have required some portion
+of human industry to appropriate or produce.’ The latter part was added in order
+to exclude air, light, rain, &tc., but there is some objection to the
+introduction of the term industry, or labour, into the definition, because an
+object might be considered as wealth which has had no labour employed on it. A
+diamond, accidentally found on the sea shore, might have a high value; and the
+fruit at the top of a tree must be considered by the savage as necessary or
+agreeable to him before he will make the exertions required to obtain it.”
+
+We have placed this long extract before the reader in order that he might see
+everything that can be urged on the subject; we are not aware of any arguments
+which have ever been used on that side of the question besides the above.
+
+Before replying to them we must observe that we have already shown that Malthus
+is completely mistaken in alleging that Smith confines the term wealth to
+products; we have shown that he expressly includes intellectual qualities and
+credit under the title of capital. We have next to observe that in his latter
+definition given above, he has seen the necessity of eliminating the idea of
+labour from the term of wealth. This is a great step in advance. But from both
+of his definitions he has entirely omitted exchangeability — the very quality in
+which all writers, ancient and modern, have made the essence of wealth.
+
+Now with respect to Malthus’s arguments against admitting immaterial quantities
+into Economics, they appear to us to be unsound, and founded on a complete
+misconception of the nature of Economic Science. They are against all the
+analogy of Physical Science, and against the authority of all preceding writers,
+except the Economists.
+
+We may say, in the first place, that there is no difficulty in deciding what is
+Wealth and what is not, because as Economic Science deals with nothing but
+exchanges, all immaterial products which are made the subject of exchange are
+within its pale, and those which are not made the subject of exchange are not.
+Moreover, their value is capable of as exact measurement as that of material
+substances. If the market price of so much instruction of any sort is a guinea,
+its value is measured with exactly the same precision as that of any material
+product whose value is a guinea. The distinction between persons who merely
+exercise their vocal and instrumental powers for the pleasure of themselves and
+their friends, and those who earn an income by them, is perfectly plain and
+distinct. The one is not a subject of taxation, the other is.
+
+To say that we cannot make a catalogue of all the immaterial products in a
+country shows an entire misapprehension of the nature of Economic Science. No
+Economist ever yet thought of taking an inventory of the pots and pans in a
+gentleman’s kitchen, or of his furniture, or of the coats and waistcoats in his
+wardrobe. No work on Economics ever yet attempted to give a valuation or
+catalogue of all the things in a country.
+
+To suppose that it is necessary for Economics to enumerate all the things in a
+country is as baseless as to suppose that it is necessary for the Science of
+Mechanics to enumerate all the steam engines and other machines in a country; or
+for the Science of Medicine to enumerate all the medical cases in a country; or
+for Zoology to enumerate all the animals in a country; or for the Science of
+Chemistry to ascertain the quantity of chemical elements in a country; or for
+the Science of Optics to enumerate all the telescopes in a country. These are
+the statistics of their several subjects, and may have their interest and their
+use, but they form no part of the science of the subject.
+
+If the arguments of Malthus were true, there could not be a Science of Economics
+until all things in a country had been catalogued, a doctrine as irrational as
+to say that there could not be a Science of Mechanics until all the machines in
+a country were numbered, nor a Science of Natural History until all animals were
+numbered, nor a Science of Optics until all the telescopes were numbered — a
+doctrine which is obviously untenable.
+
+It appears to us that the plainest principles of common sense are against the
+doctrines of Malthus. Economics treats of Exchanges. Now it is certain that, in
+this country at least, nineteen-twentieths of the Exchanges which take place are
+of immaterial and incorporeal quantities. Now it certainly appears to be
+repugnant to the plainest principles of science to exclude from the Science of
+Exchanges at least nineteen-twentieths of the Exchanges that actually occur.
+
+On the Common Difficulty Felt in Admitting Immaterial and Incorporeal Elements into Economics.
+
+16. The real difficulty which impedes the true comprehension of the subject is
+    very similar to that which for a considerable time obstructed the reception
+    of the Newtonian doctrine of gravity on the Continent. It had been laid down
+    as a dogma from the days of the Greek Philosophers that a body cannot act
+    where it is not. When, therefore, the Newtonian doctrine of central forces
+    was published, showing that the motions of the planets might be all
+    accounted for by certain forces emanating from the sun and themselves, the
+    opponents of the system maintained that it violated the fundamental
+    principle that a body cannot act where it is not, and many of the most
+    distinguished philosophers on the Continent, such as Leibniz, Huygens, and
+    J. Bernoulli, refused to receive it on that account.
+
+A very much more specious dogma, however, is at the root of the common
+unwillingness among uninstructed writers to admit Immaterial and Incorporeal
+elements into Economics. From the days of Anaxagoras and Epicurus it has been
+handed down from age to age by succeeding generations of physicists that Nothing
+can come out of Nothing, and that Nothing can go back into Nothing. The
+fundamental dogma of Lucretius, the hierophant of the Epicurean Philosophy, is
+that Nothing can come out of Nothing, I. 151:
+
+“Nullam rem e nilo gigni divinitus unquam.
+* * *
+Nil igitur fieri de nilo posse fatendumst.”
+
+Moreover, that Nothing can go back into Nothing, I. 216, &tc.:
+
+“Huc accedit uti quicque in sua corpora rursum
+Dissolvat natura neque ad nihilum interemat res.
+* * *
+Nullius exitium patitur natura videri.
+* * *
+Immortali sunt natura praedita certo.
+Haud igitur possunt ad nihilum quaeque reverti.
+* * *
+Haud igitur redit ad nihilum res ulla, sed omnes
+Discidio redeunt in corpora materiai.
+* * *
+Haud igitur penitus pereunt quaecumque videntur,
+Quando alid ex alio reficit natura nec ullam
+Rem gigni patitur nisi morte adiuta aliena.”
+
+And this is the constant refrain of the Lucretian Philosophy, that Nothing can
+be produced from Nothing, and nothing that is produced can go back into Nothing,
+I. 265, &tc.:
+
+“Nunc age, res quoniam docui non posse creari
+De nihilo neque item genitas ad nil revocari.
+* * *
+At quoniam supra docui nil posse creari
+De nihilo neque quod genitumst ad nil revocari,
+Esse immortali primordia corpore debent.”
+
+And this is the identical doctrine which physicists maintain to the present day.
+Chemists delight to expatiate to their audience on the indestructibility of all
+things. How seeming destruction is merely the dissolution of atoms under their
+present combinations, to re-appear in new forms and new combinations in
+perpetual succession.
+
+But Economics and Law confound the best settled doctrines of the sages of old.
+It is true that many Economists have declared that man can call nothing into
+existence, and that all wealth comes from the earth; that wealth is but the
+particles of matter, and that all that man can do is to re-arrange them, or
+place them in a new position, and let Nature do the rest. But their own
+doctrines, their own books, their own definitions confound all such notions.
+Economists, with scarcely an exception, are now agreed that whatever can be
+exchanged, whatever can be bought and sold, is Wealth. Twenty-two centuries ago
+the author of the Eryxias irrefragably proved that Knowledge is Wealth.
+Aristotle defines wealth to be everything whose value can be measured in money.
+Smith, Say, Whately, Senior, and Mill all admit the intellectual qualities and
+talents of the people to be Wealth.
+
+Knowledge, therefore, by the very generality of the definition, and the consent
+of every modern Economist of note — is Wealth. And where does knowledge come
+from? And what is it formed out of? Does it come from the earth, and is it
+formed out of the materials of the globe? We should imagine that few would
+maintain that. All that we know is that knowledge originates in the mind.
+Knowledge is formed in the mind, by great Labour very often; but is it formed
+out of materials of the mind? And if so, what is the mind composed of? Does it
+come from the earth? Are we to have an atomic theory of knowledge, or of the
+mind? Will some metaphysical Dalton tell us that knowledge or the human mind is
+composed of indestructible primordial atoms?
+
+πολλὰ τὰ δεινά, κοὐδὲν ἀνθρώπου δεινότερον πέλει
+
+But this same knowledge — Whence cometh it? What is it? Whither goeth it?
+
+We know not — Do our readers?
+
+Nathless it is Wealth: and, therefore, it is within the domain of the Economist.
+It may be bought and sold: it may be valued; it may be accumulated; it may be
+handed down from age to age like any material product whatever. It is the
+produce of Labour just as much as any material product: every one of the great
+sciences is the product of the labour of innumerable toilers. The acquisition of
+knowledge is the acquisition of Wealth: and the loss of knowledge is the
+destruction of Wealth. And is the loss or destruction of knowledge the
+dissolution of indestructible primordial atoms? Here, then, are vast masses of
+Wealth; and the question is where does it come from? And what is it composed of?
+And there can be but two answers to the question. Either knowledge is composed
+of indestructible primordial atoms, or it is not. If it be so, then of course
+the formation of knowledge is not the creation of Wealth out of nothing. But
+unless we are prepared to admit that — and who is? — the formation of knowledge
+must be the creation of Wealth out of nothing. And the loss or destruction of
+knowledge must be the DECREATION, or the return of Wealth into Nothing!
+
+As one example of this out of thousands, we may take a case that was some years
+ago before the Scotch Courts. In the beginning of the 17th century, a man named
+Anderson discovered a way of making pills which soon became very popular. The
+secret of making these pills has been handed down from generation to generation,
+and has been a constant source of wealth to the possessors of it. Some years ago
+the owner of it became bankrupt, and his creditors claimed the right of having
+it given up to them, as part of the bankrupt’s property. The pills have been
+analysed in vain by chemists, and the secret of their composition has never been
+able to be discovered. Now here is a manifest case of a trade secret — knowledge
+— being Wealth — and where did this wealth come from? And what is it composed
+of? Did it come from the earth? And is it composed of the materials of the
+globe? And yet it has been handed down as an heirloom from age to age. If the
+owner of the secret died without divulging it, there would be a manifest loss of
+Wealth. And what would become of it in that case? And this is only a particular
+example out of countless others. Trade secrets are expressly held in Law to be
+partnership assets.
+
+
+Here, then, we have enormous masses of what every Economist nowadays admits to
+be wealth, which overthrows the doctrine of the Physical Philosophers, that
+Nothing can come out of Nothing, and that Nothing can go back into Nothing. The
+doctrines of many Economists are equally overthrown, who say that all wealth
+comes from the earth, and that man cannot create wealth. For here we have great
+masses of wealth, which manifestly do not come from the earth, and are created
+by man. Hence it is manifest that there is another source of wealth besides the
+Earth, namely — the Human Mind.
+
+But the third species of Economic Quantities do not originate in the Earth, nor
+yet in the Mind. And here again we may observe that Lucretius is at fault. For
+he says that there is nothing besides the void which is separated from something
+corporeal. I., 420, &tc.:—
+
+Omnis ut est igitur, per se natura duabus
+consistit rebus; nam corpora sunt, et inane.
+* * *
+Praeterea, nihil est, quod possis dicere ab omni
+corpore sejunctum, secretumque esse ab inani.
+* * *
+Et facere et fungi sine corpore nulla potest res.
+Ergo praeter inane et corpora, tertia per se
+nulla potest rerum in numero natura relinqui.
+
+From these lines it is clear that Lucretius did not live in the days of Public
+Debts, Bills of Exchange, and Bank Notes, Copyrights, Shares, and other
+Incorporeal Property, or he would have found it necessary to modify this part of
+his Philosophy. We have already shown that the Roman Lawyers divided property
+into Corporeal and Incorporeal, and that the latter, consisting of pure abstract
+rights, was classed as Wealth, just as much as the former. If Lucretius had
+applied to the Roman Lawyers of his day, they would have told him that there
+were abundance of Res Incorpocales, which “faciebant” and “fungebantur” without
+any corpus at all. If he had got his friend Cicero to explain to him the system
+of Roman Banking, he would have found in it the overthrow of the fundamental
+dogma of his philosophy. And in every system of Law the same distinction of
+property exists. Now, Bank Notes, Bills of Exchange, &c., are separate,
+independent, exchangeable property, and, therefore, ex vi termini, and also by
+the express declaration of Roman Law — Wealth. And what are they? Simply credit
+— Debts. And where do these Debts come from? Do they come from the materials
+of the globe? Are they, too, formed of indestructible primordial atoms? When a
+debt is created, is it the combination of material atoms? And when it is
+extinguished, is it the dissolution of certain material particles to reappear
+under another form? Are debts even the products of Labour and the Human Mind?
+
+How is a debt created? By the mutual consent of two minds. By the mere fiat of
+the Human Will. And how is a debt extinguished? By the mere fiat of the Human
+Will.
+
+Now, when two persons have agreed to create a debt — whence does it come? And
+what is it composed of? Is it extracted from the materials of the globe? Does it
+come even from the mind? No! it is a valuable product, created out of Absolute
+Nothing, by the mere fiat of the Human Will. And when it is extinguished, it is
+a valuable product Decreated into Nothing by the fiat of the Human Will.
+
+But besides Debts, there is an enormous mass of valuable property of a similar
+nature created by the mere Will of the Legislature, such as Copyrights, Patents,
+&c. It is true that the Legislature cannot make a Copyright a valuable thing;
+its value must proceed from a different source. But it can create the Right, and
+prevent it from being destroyed. Now the Copyrights held by a publisher are part
+of his fixed Capital. They are part of his Wealth, just as much as so much land.
+Whence do they come? From the materials of the globe? Or even from the human
+mind? It is clear that Copyrights are the pure creation of the Will of the
+Legislature. Suppose that the Legislature were to abolish Copyrights: would not
+that be an actual annihilation of Wealth, and not merely the dissolution of
+material atoms?
+
+Precisely the same considerations apply to vast amounts of Property of a similar
+nature: such as policies of insurance, leases, and annuities of all sorts, such
+as public debts and others. They are all Property created by the mere fiat of
+the Human Will. And who can form the most distant conception of the value of all
+the Incorporeal Property in Great Britain?
+
+Hence we observe that there is a third source of Wealth besides the Earth, and
+the Human mind, namely, the Human Will. By far the largest portion of Economic
+Quantities are merely the creations of the Human Will.
+
+We may observe that Credit in Economics is very much analogous to Gravity in
+Mechanics. Gravity is Force pure and simple, dissociated from any material
+agency, and for some time some physical philosophers felt a difficulty in
+believing in it for that reason. Now Credit is Exchangeability pure and simple,
+dissociated from Labour and Materiality, and, therefore, some persons even yet
+find a difficulty in believing it to be Wealth. But argument and authority
+equally declare it to be so.
+
+And now we see the advantage of removing all notions of Labour and Materiality
+from the definition of Wealth: and defining it to be exclusively an Exchangeable
+Right. We have shown conclusively from facts, and the doctrines of the most
+eminent authorities, ancient and modern, and not from vain dogmas, that man can
+Create Wealth. We do not of course mean that he can create matter, but that he
+can create Rights, which may be bought and sold; and notwithstanding all the
+dogmas of philosophers founded in this instance on imperfect induction, the
+Lawyer, the Economist, the Merchant, and the Statesman must understand that the
+enormously greater proportion of Wealth, in a highly civilized and commercial
+country like Great Britain, is the pure creation of man.
+
+On the Application of the Positive and Negative Signs to Property.
+
+17. We have seen that Economic Quantities, or Economic Rights, are of three
+    species: — 1st, Property in some material substance which has already been
+    acquired: 2nd, Property in ourselves, our talents and services: and 3rd,
+    Property in something which is only to be acquired or enjoyed at some future
+    time.
+
+Now we can absolutely part with, and divest ourselves of the Property in
+material substances, or the first species of Economic Quantities; in exchange
+for some reward, we can transfer to some one else the right to make use of our
+intellectual qualities or services, for a limited period or a special occasion.
+But though we may receive a reward for exercising our faculties in some person’s
+service, we do not part with them: we may sell our knowledge, but it is not gone
+away from us. Like a candle which communicates light to others, it does not
+diminish our own light; a man may sell his instruction, but it does not diminish
+his own store. The third species of Economic Quantities are intangible and
+invisible like the second species, but they are transferable like the first, and
+when we exchange or sell them, we divest ourselves absolutely of our property in
+them, as we do of the first species.
+
+Now we observe that the two species of Property of which we can absolutely
+divest ourselves, are inverse to each other. Property, like land, has two faces,
+placed back to back. It regards the past and the future, and is therefore of
+opposite qualities. Now, in all Physical and Mathematical Science, it is
+invariably the custom to denote similar quantities, but of opposite qualities,
+by opposite signs. Hence, as a matter of simple convenience, and following the
+usual custom in Physical Science, if we denote one of these Properties as
+Positive, we may, as a distinguishing mark, denote the other as Negative.
+
+We shall not here examine the important consequences which flow from this
+notation. We simply say at present, that if we denote Property in a product that
+is acquired as Positive, it is perfectly consonant with the universal practice
+in Physical Philosophy, to denote Property in a product that is to be acquired
+as Negative.
+
+Now Property in a thing that has been acquired is Corporeal Property; and
+Property in a thing that is to be acquired is Incorporeal Property. Hence, if we
+denote Corporeal Property by the Positive Sign, it is strictly in accordance
+with all Physical Philosophy, to denote Incorporeal Property by the Negative
+Sign.
+
+And as in all Mathematical and Physical Sciences, the whole Science comprehends
+both Positive and Negative Quantities, so the whole Science of Economics
+comprehends both Positive Economic Quantities and Negative Economic Quantities,
+or Corporeal Property and Incorporeal Property.
+
+On the Classification of Property.
+
+18. We shall now show the practical convenience which arises from this
+    distinction of Economic Quantities, as Positive and Negative, for many
+    species of Property are of a mixed nature; that is, the entire Property in
+    them consists partly of Corporeal Quantities, and partly of Incorporeal
+    Quantities.
+
+Property in Land is the highest property of all: and to understand the nature of
+Property in Land is the grammar of Property in general.
+
+Things differ in their use according to their nature: some perish in the use:
+some perish from causes independent of their use: some are in a state of
+complete existence, and do not perish, and they give the means of complete
+enjoyment, as statues, gems, &tc.
+
+But Land is indestructible in its nature; its use is unlimited in duration, and
+constant and uniform in its quality.
+
+Now suppose that we purchase an estate in land for the sum of £100,000: where is
+the value for our money? Does it consist in things which have a present
+existence? The veriest tyro would answer — Certainly not. Where, then, is the
+equivalent for the purchase money?
+
+When we purchase an estate in land, we purchase the Right to the actually
+existing products of the land and labour, such as the houses, the timber, the
+crops on the ground, together with the Right to receive its annual profits, or
+produce, for ever. That is to say, we purchase the Property to receive actually
+existing material products, together with a series of products which will only
+come into existence at definite intervals of time for ever. Thus Property in
+Land consists of two perfectly distinct parts, Property in the products of the
+past, and the Property in the produce of the future — say £3,000 a year for
+ever.
+
+This Property in Land may be conveniently denoted thus: — Existing produce of
+the land, together with + £3,000 + £3,000 + £3,000 for ever; where the Negative
+Sign means that the profits will come into existence at future intervals of
+time.
+
+But though the yearly produce of the land will only come into existence at
+future intervals of time, the Property, or Right, to receive it as it does come
+into existence is present, and may be bought and sold like a table, or a book,
+or corn. That is to say, each of these annual profits for ever has a Present
+Value, and the purchase money of the land is simply the sum of the present
+values of this series of future payments for ever.
+
+Now the Right to receive any, or any number of these future profits is an estate
+in land, and as the entirety of the estates may belong to different persons, we
+have the whole legal doctrines of estates in remainder, in fee, in tail, in
+reversion, &tc., with all their complications.
+
+Again, although this series of future payments is infinite, a simple Algebraical
+formula shows that it has a finite limit, and what that limit is depends partly
+upon the current rate of interest, as well as circumstances affecting each
+locality. Property in some parts of the country may be depressed below such a
+value by various local circumstances, and Property in other parts of the country
+may be increased in value above the usual rate from other local circumstances.
+
+When the usual rate of interest is 3 per cent, it is found that the total
+property in land is worth about 33 times its annual profits, and consequently 32
+parts out of 33 of the total property in land is Incorporeal, the remaining part
+only being Corporeal.
+
+Now when a purchaser has paid for the land, it may be said without any very
+great metaphor, that it owes him a series of annual payments for ever, as he
+bought it merely on the belief that he would receive them, hence we may call
+this Right to receive the future produce of the land the Credit of the land. And
+it is by the notation we have adopted, a Negative Economic Quantity.
+
+When a trader of any sort has established a business of reputation, it may be
+calculated after a certain time what the profits may be expected to be; and the
+Right to receive these future profits is a recognized article of commerce, and
+is called the Goodwill of the business. It is the emptio spei, or the emptio rei
+speratae of Roman Law. This property is the result of the trader’s Labour and
+Talents, and is manifestly incorporeal, and lies wholly in the future, and is
+therefore negative.
+
+That the goodwill of a business is a valuable property is so well known to every
+trader, lawyer, and man of business, that it may seem almost superfluous to
+mention it. Yet J. B. Say is the only Economist, that we are aware of, who
+recognizes the existence of such property; and even he seems to forget it in
+many of his doctrines.
+
+We may cite an instance which may interest our readers. Boswell says that
+Thrale, the great brewer, appointed Johnson one of his executors. In that
+capacity it became his duty to sell the business. When the sale was going on —
+“Johnson appeared bustling about, with an inkhorn and pen in his buttonhole,
+like an exciseman; and on being asked what he really considered to be the value
+of the property which was to be disposed of, answered, “We are not here to sell
+a parcel of boilers and vats, but the Potentiality of growing rich beyond the
+dreams of avarice.” This latter phrase was merely a
+
+
+Johnsonian expression for the goodwill of the business. The price realized on
+this occasion was, we are told elsewhere, £135,000. Now this sum was not given
+for the boilers and vats only, the result of past labour: but it
+comprehended: 1st, a sum for the actual space of ground on which the brewery
+stood, which space of ground was not the result of labour at all, and whose
+value was in no way due to labour; 2nd, the price of the houses and buildings,
+the boilers and the vats, the result of past labour; and 3rd, the price of the
+incorporeal potentiality (the emptio rei speratae), which lay wholly in the
+future, and was therefore Negative by our notation. Now this potentiality was
+the result of labour, but it was not corporeal; but it could be bought and sold:
+it could not be handled or seen, but its value could be measured in money; and,
+therefore, it was wealth.
+
+A third species of Incorporeal Property of a similar nature to the preceding is
+the PRACTICE of a professional man. When a professional man, such as a doctor or
+an attorney, has established a good reputation, the expectation of the future
+profits is a valuable property which may be sold, and is called a PRACTICE.
+Nothing is more common than for a young doctor or attorney to buy a practice.
+This is also the emptio spei: and is only another name for the goodwill of a
+business. It clearly lies wholly in the future, and is therefore Negative.
+
+A fourth species of Incorporeal Property is the COPYRIGHT of a work of
+literature or art. When an author or an artist has produced a great work, the
+laws of all civilized countries give him the exclusive right to multiply copies
+of such a work by printing, engraving, &tc., and receive the profits of their
+sale. This exclusive right is termed Copyright, and lasts for a longer or a
+shorter time in different countries. The books or engravings already printed are
+the corporeal results of past labour, but the Right to receive the future
+profits is incorporeal: this also is emptio spei: it lies wholly in the future,
+and is therefore Negative.
+
+A fifth species of Incorporeal Property, which in recent times has attained
+colossal magnitude, is the SHARES in commercial companies of all sorts.
+
+When persons unite to form a Joint Stock Company, they each contribute a sum of
+money which is the result of past labour, and is called the Capital of the
+Company. In exchange for this money, the subscriber receives a certificate that
+he has contributed so much capital, which gives him the right to share in the
+future profits to be made by trading in the proportion in which he contributed
+to the paid-up Capital.
+
+And here it may not be amiss to say a few words as to the nature of shares in
+commercial companies. It might perhaps appear that the stock, or shares, in a
+Company, were identical with and represented the very money paid in as Capital.
+This, however, is an important error. In the first place it is clear that if the
+shares were merely one property with the actual capital, they never could exceed
+it in value. For if a man has merely the right to receive back the identical
+quantity of money he paid in, of course the share cannot exceed it in value.
+
+But when a shareholder pays in money to form the capital of a company, the
+property in the money is gone from him in his individual capacity, and is passed
+to the company, which is a distinct entity from its individual members, and
+except in the extreme case of the dissolution of the company, a shareholder has
+no right to demand back any part of the original capital. The Share is nothing
+but the right to a proportionate share of the future profits.
+
+Hence, we see that the shares in a company are purely incorporeal property: and
+that the money paid in and the shares, are two separate and distinct properties.
+The capital is corporeal, the shares are incorporeal, and therefore Negative.
+
+A sixth species of Incorporeal Property is a PATENT, which bears the same
+relation to a mechanical invention that copyright does to a work of literature
+and art. The machines actually made are the produce of past labour, the Patent
+is the exclusive right to receive the profits to be earned by constructing and
+selling machines in the future.
+
+There are several other species of Incorporeal Property, such as TITHES, which
+were the right to receive a certain portion of the produce of the earth, an
+estate in land, now commuted into a rent charge; GROUND RENTS, the right of
+receiving a sum of money for the occupation of a certain space of ground; TOLLS,
+FERRIES, the right of demanding a payment for using them. These are all Rights
+to future products, and therefore Negative.
+
+We now come to a species of Incorporeal Property of the greatest importance. It
+has already been seen that the total property in land consists of two distinct
+parts, the property in the past produce, together with the property in the
+future produce.
+
+Now, a man exercising any profitable profession or business, is an Economic
+Quantity which bears in many respects a strong analogy to land. He may have
+accumulated a quantity of money the fruits of his past industry, but over and
+above his accumulated money he possesses his abilities, his character, &tc., or
+his capacity to earn profits for the future. And of course he has a Property in
+the expected future products of his industry. Thus, the value of a man as an
+Economic Quantity consists in the Property in the products of his past industry,
+together with the Property in the products of his future industry, which, of
+course, are inverse and opposite to each other. And, as in the previous cases,
+if we choose for the sake of convenience to designate the one, money, as
+Positive, we may for the sake of distinction designate the other as Negative.
+
+And there are two ways in which he may trade. He may buy goods by exchanging
+some of his property in money or the fruits of his past industry, or he may
+purchase goods, by giving the Right or Property to demand money at a future
+time, to be made by his future industry. This Property or Right to demand money
+at a future time is a species of incorporeal property called CREDIT or DEBT.
+
+Now, as far as we have gone we have found the adaptation of the simple Negative
+Sign sufficient to explain the classification of Property. No one who has
+studied the Theory of the Negative Sign, as developed in comparatively recent
+years, can fail to see that the designation of Property in the future by the
+Negative Sign, for the purpose of contra-distinguishing it from Property in the
+past, is perfectly analogous to its use in Physical and Mathematical Science. A
+man’s property in the future earnings of his industry is as clearly a part of
+his property as his right to reap the future produce of his land. And he may
+sell and transfer the one as well as the other. But when a man comes to trade
+with this property, considerations of a more complex nature arise, and we must
+describe the facts in order to see how they are to be classified.
+
+When a man purchases goods with his credit, or his promise to pay, the goods
+become his absolute property, just as if he had bought them with money. But
+exactly at the same instant that these goods become the property of the trader
+there is created in the person of the seller the Property or the RIGHT TO DEMAND
+payment for them at a fixed time, and also at the very same instant there is
+created in the person of the buyer the Duty to Pay for them at the fixed time.
+
+By this operation a Nexus or Contract is created between these two persons. And
+this Contract contains within itself two distinct things, the Right to Demand
+and the Duty to Pay, and these two are manifestly inverse or opposite to each
+other, so that if the Right to Demand be Positive, the Duty to Pay is Negative.
+A Duty may manifestly be called a Negative Right, just as a retarding force may
+be called a negative accelerating force. And here at last we have found what it
+is that Mathematicians mean by calling a Debt a Negative Quantity, which we
+shall have to investigate at much greater length in a future chapter. A
+contract, therefore, comprehends two opposite quantities, the Right to Demand
+and the Duty to Pay, and as these are created simultaneously, and cannot exist
+separately, and can only be extinguished simultaneously, they bear an analogy to
+Polar Forces.
+
+The RIGHT residing in the person of the creditor is always termed the CREDIT.
+
+The Duty residing in the person of the debtor is always called an OBLIGATION.
+
+The word Debt is applied both to the Right to Demand and the Duty to Pay, though
+it would certainly appear to be better to restrict it to the Duty to Pay.
+
+When this contract is written on paper it is called indifferently an Obligation,
+a Credit, or a Debt.
+
+Now the Duty to Pay must evidently always remain fixed in the person of the
+Debtor. But the Right to Demand, or the Credit, is the absolute property of the
+Creditor, and he may sell or transfer it, like any other property whatever, and
+whenever it is so transferred, a Nexus or Contract takes place between the
+transferee of the Right or the Credit, and the original debtor, and it can only
+be extinguished by the revesting of the Right, or the Credit, in the person of
+the debtor whence it originally emanated.
+
+The preceding remarks will be sufficient to give an outline of the nature of
+this property which in modern times has been developed into a colossal
+magnitude. The creation, circulation, and extinction of these credits is the
+most gigantic branch of modern commerce, and is fully examined in a future
+chapter.
+
+The last species of Incorporeal Property is also of great magnitude in this
+country, and is of the same nature as the last. Not only may each individual
+purchase with the right to demand money, but the nation itself in its corporate
+capacity may buy money by giving in exchange for it a Right to demand future
+payments. These Rights are called the Funds, Stocks, or Public Debts, or Public
+Credit. We shall also have to examine the system of Public Debts hereafter.
+
+On the Definition of Value.
+
+19. Economic Quantities are, as we have seen, of three distinct species, each of
+    which may at any time be exchanged for any of the others, giving rise to six
+    different species of exchanges.
+
+Now if at any time any Economic Quantity A can be exchanged for any other
+Economic Quantity B, then the quantity A is termed the Value of the quantity B;
+and B is likewise termed the Value of A. Now as each of the three species of
+Economic Quantities may be exchanged for either of the others, any quantity may
+have value in terms of the others. Suppose that at any time 1 oz. of gold will
+exchange for 15 oz. of silver, then it is said that 1 oz. of gold is of the
+value of 15 oz. of silver, which is simply the following equation: —
+
+1 oz. gold = 15 oz. silver.
+
+Hence value may be said to be the sign of equality between any two Economic
+Quantities, as Aristotle said, Nicomachean Ethics, IV., c. 3: —
+
+ἡ δ' ἀξία λέγεται πρὸς τὰ ἐκτὸς ἀγαθά.
+(Now the term Value is used in reference to External Goods.)
+
+So Digest, 36, 1, 1, 16. — Res tanti valet quanti vendi potest.
+(The Value of a thing is what it can be sold for.)
+
+We have then this definition: —
+
+The Value of any Economic Quantity is any other Economic Quantity for which it
+can be exchanged.
+
+Hence any Economic Quantity has as many values as quantities it can be exchanged
+for; and of course, if it can be exchanged for nothing, it has no value. This
+shows that there is no such thing as absolute value, or universal value, because
+there is nothing, probably, which can be exchanged universally throughout the
+world.
+
+Now, without anticipating the General Theory of Value, which we shall have to
+investigate fully in the next chapter, we may observe that since a thing which
+cannot be exchanged has no value, it is not the person who offers a thing for
+sale who confers value on it, but the person who buys it. Hence, if a person
+wishes ever so much to exchange away his product, if no one will give him
+anything for it, it has no value; if an exchange takes place it can only do so
+from the reciprocal desire of two persons for some product or property of the
+other. Hence it is clear that Value necessarily requires the concurrence of two
+minds.
+
+Value, therefore, by the very definition, like distance, or an equation,
+requires two objects. We cannot speak of absolute, or intrinsic distance, or
+equality. An isolated object cannot have distance, or equality. If we are told
+that an object is distant, or equal, — we immediately ask — Distant from what?
+or Equal to what? So it is equally clear that a single object cannot have value.
+If we hear of an object having value we must always inquire Value in what? And
+it is clear that as it is absurd to speak of a single object having absolute, or
+intrinsic distance, or being an absolute or intrinsic equality, so it is equally
+absurd to speak of absolute, or intrinsic value. And as no single body can be a
+standard of distance, or equality, so no single object can possibly be a
+standard of value.
+
+On the Definition of Money, Currency, Credit, Circulating Medium, Circulation.
+
+20. There is one species of Economic Quantity of such great importance that we
+    must devote some special attention to it — and that is Money and Credit.
+
+In the primitive ages of the world we have abundant evidence that there was no
+such thing as money. When persons traded they exchanged the products directly
+with one another. Thus we have, Iliad, vii., 468: —
+
+
+νῆες δ᾽ ἐκ Λήμνοιο παρέστασαν οἶνον ἄγουσαι
+* * *
+ἔνθεν ἄρ᾽ οἰνίζοντο κάρη κομόωντες Ἀχαιοί,
+ἄλλοι μὲν χαλκῷ, ἄλλοι δ᾽ αἴθωνι σιδήρῳ,
+ἄλλοι δὲ ῥινοῖς, ἄλλοι δ᾽ αὐτῇσι βόεσσιν,
+ἄλλοι δ᾽ ἀνδραπόδεσσι·
+
+From Lemnos’ isle a numerous fleet had come
+Freighted with wine; * *
+* * * All the other Greeks
+Hastened to purchase, some with brass, and some
+With gleaming iron; some with hides,
+Cattle or slaves.
+
+The inconveniences of this method of trading are palpable. What haggling and
+bargaining it would require to determine how much leather should be given for
+how much wine; how many oxen for how many slaves! Some ingenious person would
+then discover that it would greatly facilitate traffic, if the things to be
+exchanged could be referred to some common measure of value. There are several
+passages in the Iliad and Odyssey which show that, even while traffic had not
+advanced beyond barter, such a standard of reference was used. We find that
+various things were frequently estimated as being worth so many oxen. Thus, in
+Il. II., 448, Minerva’s shield, the Aegis, had 100 tassels, each of the value
+of 100 oxen. In Il. VI., 234, Homer laughs at the folly of Glaucus, who
+exchanged his golden armour, worth 100 oxen, for the bronze armour of Diomede,
+worth nine oxen. In Il. XXIII., 703, Achilles offers as a prize to the conqueror
+in the funeral games in honour of Patroclus, a large tripod, which the Greeks
+valued among themselves at twelve oxen; and to the loser a female slave, which
+they valued at four oxen. And in the same book, 885, Achilles stakes a spear and
+a caldron worth an ox. But it must be observed that these oxen did not pass from
+hand to hand like money. The state of barter still continued, as it is quite
+common at the present day, when the precious metals are used as money, to
+exchange goods according to their value in money. Such a state of things in no
+way implied money or currency, or circulating medium.
+
+The necessity for money arose from a somewhat different cause. So long as the
+things exchanged were equal in value, there would be no need for money. If it
+happened that whenever one man required the services of another, that other at
+the same time required an equivalent amount of service to be rendered in return,
+such transactions could take place with great facility, and the amount of
+services on each side being equal, there would be an end of the business. But it
+would often happen that when one man required the services of his neighbour,
+that neighbour would not require an equal amount of service at the same time, or
+even perhaps any at all. If, then, such a transaction took place between them,
+with such an unequal result, there would remain due a certain amount of
+difference, or amount of service due from the first to the second, and this
+would constitute a Debt — that is to say, a Right, or Property, would be created
+in the person of the creditor to demand something at some future time from the
+debtor, and at the same time a Duty would be created in the person of the
+debtor, to pay that something.
+
+The second would require, however, at some future time to have the balance of
+service due to him performed, and the debt discharged. Moreover, for his own
+security he would like to have some evidence, or memorial, to prove the debt,
+and accordingly he might require the debtor to give him some sign or token of
+the fact. A statement in writing acknowledging the debt, and promising to render
+the service due whenever called upon to do so, would be a natural form of such
+evidence.
+
+We may now suppose that the second person has dealings with a third, and
+requires his services, but that the third has no immediate use for the services
+of the second, but requires those of the first. Now if the parties were so
+circumstanced, what would be more natural than for the second to transfer to the
+third the debt due to him from the first? A similar operation might be repeated
+an indefinite number of times, and so this written obligation, or this evidence
+of a debt, enabling the possessor of it to demand some service to be rendered by
+the debtor, would pass from hand to hand, or be current; and from this use of it
+the thing itself has, by a confusion of ideas, come in recent times to be called
+a Currency.*
+
+This Currency is nothing more than the evidence of service having been rendered
+for which an equivalent has not been received, but which may be demanded
+immediately or at some fixed time. It is obvious that, as soon as it has been
+rendered, the evidence of its being due must be given up to the debtor to be
+destroyed, as he has now discharged his duty, and as the right and the duty were
+created simultaneously, so they are extinguished simultaneously: and so this
+evidence will be no longer current. And if any man renders services to his
+neighbours he must in return receive either other services, or the evidence of
+their being due: and if he renders more services than he immediately requires in
+return, he will accumulate a store of this evidence for his future wants.
+
+These simple considerations at once show the fundamental nature of a Currency.
+It is quite clear that its primary use is to measure and record debts, and to
+facilitate their transfer from one person to another; and whatever means be
+adopted for this purpose, whether it be gold, silver, paper, or anything else,
+is a currency. We may therefore lay down as our Fundamental Conception that
+Currency and Transferable Debt are convertible terms; whatever represents
+transferable debt of any sort is Currency; and whatever material the Currency
+may consist of, it represents transferable debt, and nothing else.
+
+The preceding considerations show us that the idea of "Currency" is quite
+independent of that of "Money" which gives rise to new ideas, which we shall
+investigate very soon. It is quite possible to have a Currency, even though its
+most useful and general form, Money, had never been thought of. If transactions
+take place between individuals, it is scarcely possible to imagine that there
+should not be debts, or balances of services arising from unequal exchanges
+between them, and this is the basis of a Currency. But it does not necessarily
+follow that there must be money. If the way of conducting commerce by means of
+money had never been invented, a grocer and a wine merchant might trade with
+each other. If they agreed that a bottle of wine and a pound of tea should be
+considered as equivalents, the grocer might want so many bottles of wine, and if
+the wine merchant did not want so many pounds of tea, he might let the grocer
+have the wine, on his giving his promise, or pledge, to pay the tea when
+demanded. And this promise or pledge might pass through a hundred hands before
+the owner of it demanded the tea. It would perform exactly the same function as
+money in circulating goods.
+
+Now this form of Currency is by no means so imaginary as might be supposed. It
+is said* that in the Ionian Islands it is customary in the oil trade for grocers
+to grant oil bills, or notes, promising to deliver at a fixed term a stated
+quantity of oil at a certain price. So during the late civil war in America gold
+and silver specie disappeared from circulation, and private tickets of all sorts
+took its place. Instead of money, people had their pockets filled with bread
+tickets, milk tickets, and railroad tickets. If a man went to have his hair cut,
+and tendered a dollar, he could not get change, but he received so many tickets
+promising to cut his hair so many times. In one case we noticed in an American
+paper, payment was made in tickets promising to pay strawberries when the season
+came on. Thus the true nature of a Currency is revealed when gold and silver
+money disappear.
+
+The very same thing is very commonly exemplified in this country. When the Post
+Office sells postage stamps for money, it promises to render a service in
+exchange for the money. These postage stamps are very commonly used as small
+change. Almost every one has occasion to send letters by the post, and therefore
+they are willing to receive them in exchange for small amounts of goods. Postage
+stamps are therefore a form of currency.
+
+That this is the true nature of a currency is clear, but this was not the
+earliest form that it assumed. All nations, from a very early period, have felt
+the necessity of having something to represent and measure the debt that would
+arise from an unequal exchange; and they have invariably fixed on some material
+substance for this purpose.
+
+Different nations have used different substances for this purpose. The Hebrews
+we know used silver; although no money was used at the period of the Homeric
+poems, copper skewers were sometimes afterwards employed as money in Greece,
+which were superseded by the silver coinage of Pheidon. The Ethiopians used
+carved pebbles, and the Carthaginians leather discs, with some mysterious
+substance sewed up in them. Throughout the islands of the Eastern Ocean, and
+many parts of Africa and India, shells are still used. In Tibet, and in some
+parts of China, little blocks of compressed tea serve as money. Salt is used in
+Abyssinia; and in the oases of Africa a certain measure of dates, called a
+habia, serves as a currency. In the last century dried cod was used in
+Newfoundland; sugar in the West Indies; and tobacco in Virginia served as money.
+Adam Smith says that in his day a village in Scotland used nails. In some of the
+American colonies powder and shot; in Campeachy logwood; and among the Indians
+of the North American continent belts of wampum served the purpose of a
+currency. It is said that in 1715 the proprietors in Virginia were reduced to
+such necessity as to use dried squirrel skins as currency. And no doubt many
+other things have been used by other nations.
+
+But when we consider the purposes for which money is intended, it is easily seen
+that no substance possesses so many advantages as metal. The use of money being
+to preserve the record of services being due to the owner of it for any future
+time, it is clear that it should not be liable to alter by time. A money of
+dried cod would not be likely to keep very long, nor would it be easily
+divisible. One of the first requisites of money is that it should be divisible
+into very small fragments, so that its owner should be able to get any amount of
+services at any time he pleases. Taking these requisites into consideration, it
+is manifest that there is no substance which combines these qualifications so
+well as metal. It is uniform in its texture, and it can be divided into any
+number of fragments, each of which shall be equal in value to another fragment
+of equal weight; and if required, these fragments can always be reunited and
+form a whole again of the aggregate value of all its parts. By this means, if we
+can establish a relation between the quantity of the metal and the amount of the
+debt, then whatever that relation be, or whatever quantity of metal be taken to
+represent any amount of debt, then any fragment of such metal will always
+represent a proportionate amount of the debt.
+
+That this is the true nature of money has been seen by many writers; thus
+Aristotle says, Nicomachean Ethics, B. v. c. 5:
+
+Ὑπὲρ δὲ τῆς μελλούσης ἀλλαγῆς (εἰ νῦν μηδὲν δεῖται, ὅτι ἔσται ἐὰν δεηθῇ) τὸ
+νόμισμα οἷον ἐγγυητής ἐστιν ἡμῖν· δεῖ γὰρ τοῦτο φέροντι εἶναι λαβεῖν.
+(But with regard to a future exchange [if we want nothing at present, that it
+may take place when we do want something] money is as it were our security. For
+it is necessary that he who brings it should be able to get what he wants.)
+
+So an old pamphleteer in 1710 saw the same truth. He says* — "Trade found itself
+unsufferably straitened and perplexed for want of a general species of a
+complete intrinsic worth as the medium to supply the defect of exchanging, and
+to make good the balance, where a nation, or a market, or a merchant demanded of
+another a greater quantity of goods than either the buyer had goods to answer,
+or the seller had occasion to take back."
+
+So Baudeau, the Economist, whom we have already quoted, says† — "This coined
+money in circulation is nothing, as I have said elsewhere, but effective titles
+on the general mass of useful and agreeable enjoyments which cause the
+well-being and propagation of the human race.
+
+"It is a kind of a Bill of Exchange, or Order, payable at the will of the
+bearer.
+
+"Instead of taking his share in kind of all matters of subsistence, and all raw
+produce annually growing, the sovereign demands it in money, the effective
+title, the Order, the Bill of Exchange."
+
+So Smith says‡ — "A guinea may be considered as a bill for a certain quantity of
+necessaries and conveniences upon all the tradesmen in the neighbourhood."
+
+So Mr. Henry Thornton says§ — "Money of every kind is an order for goods. It is
+so considered by the labourer when he receives it, and is almost instantly
+turned into money's worth. It is merely the instrument by which the purchasable
+stock of the country is distributed with convenience and advantage among the
+several members of the community."
+
+This great fundamental truth was also very clearly seen by Bastiat. He says** —
+"This is now the time to analyse the true function of money, leaving out of
+consideration the miners and importation"
+
+
+“You have a crown piece.* What does it mean in your hands? It is, as it were,
+the witness and the proof, that you have at some time performed some work, which
+instead of profiting by, you have allowed society to enjoy, in the person of
+your client. This crown piece witnesses that you have rendered a service to
+society, and moreover it states the value of it. It witnesses besides, that you
+have not received back from society a real equivalent service, as was your
+right. To put it in your power to exercise this right when and how you please,
+society, by the hands of your client, has given you an Acknowledgment, a Title,
+an Order of the State, a Token, a Crown piece in short, which does not differ
+from titles of credit, except that it carries its value in itself, and if you
+can read with the eye of the mind the inscription it bears, you can distinctly
+see these words: 'Pay to the bearer a service equivalent to that which he has
+rendered to society; value received and stated, proved, and measured by that
+which is on me'
+
+“After that you cede your crown piece to me. Either it is a present, or it is in
+exchange for something else. If you give it to me as the price of a service, see
+what follows: your account as regards the real satisfaction with society is
+satisfied, balanced, closed. You rendered it a service in exchange for a crown
+piece, you now restore to it the crown piece in exchange for a service: so far
+as regards you the account is settled. But I am now just in the position you
+were before. It is I now who have done a service to society in your person. It
+is I who have become its creditor for the value of the work which I have done
+for you, and which I could devote to myself. It is into my hands therefore that
+this title of credit should pass, the witness and the proof of this social debt.
+You cannot say that I am richer, because if I have to receive something, it is
+because I have given something.”*
+
+So again he says†:—"It is enough for a man to have rendered services, and so to
+have the right to draw upon society, by the means of exchange, for equivalent
+services. That which I call the means of exchange is money, bills of exchange,
+bank notes, and also bankers. Whoever has rendered a service, and has not
+received an equal satisfaction, is the bearer of a warrant, either possessed of
+value, like money, or of credit, like bank notes, which gives him the right to
+draw from society, when he likes, where he likes, and under what form he will,
+an equivalent service.”
+
+So again he says‡:—"I take the case of a private student. What is he doing at
+Paris? How does he live there? It cannot be denied that Society places at his
+disposal food, clothing, lodging, amusements, books, means of instruction, a
+multitude of things in short, of which the production would demand a long time
+to be explained, and still more to be effected. And in return for all these
+things which have required so much labour, toil, fatigue, physical and
+intellectual efforts, so many transports, inventions, commercial operations,
+what services has this student rendered to society? None: he is only preparing
+to render some. Why then have these millions of men who have performed actual
+services, effectual and productive, abandoned to him their fruits? This is the
+explanation:—The father of this student, who was an advocate, a physician, or a
+merchant, had formerly rendered services—it may be to the people of China—and
+had received, not direct services, but Rights to demand services, at the time,
+in the place, and under the form which might suit him the best. It is for these
+distant and anterior services that society is paying to-day; and, wonderful it
+is! if we follow in thought the infinite course of operations which must have
+taken place to attain this result, we shall see that every one has been
+remunerated for his pains: and that these Rights have passed from hand to hand,
+sometimes in small portions, sometimes combined, until in the consumption of
+this student the whole has been balanced. Is not this a strange phenomenon?
+
+“We should shut our eyes to the light if we refused to acknowledge that society
+cannot present such complicated transactions, in which the civil and penal laws
+have so little part, without obeying a wonderfully ingenious mechanism. This
+mechanism is the object of Political Economy.
+
+Another thing worthy of remark is, that in this incalculable number of
+operations, which have combined to allow the student to live for a day, there is
+not, perhaps, the millionth part which have done so directly. The numberless
+things which he enjoys to-day are the work of men who long ago disappeared from
+the earth. And yet they were remunerated as they expected to be, although he who
+now profits by their labour has done nothing for them. He did not know them—he
+never will know them. He who reads this page, at the very moment he is reading
+it has the power, although perhaps he does not know it, to put in motion men of
+every country, and, I had almost said, of every time—white, black, red, and
+yellow. He makes generations already extinct contribute to his satisfaction, as
+well as generations yet unborn; and he owes this extraordinary power to the
+services his father had formerly rendered to other men, who, to all appearance,
+have nothing in common with those whose labour is now made use of to-day.
+Nevertheless, such a balance has been struck in time and space that each one has
+been paid, and received what he calculates he ought to receive.”
+
+It will be seen that these ideas of the nature of money are absolutely identical
+with the fundamental conception given by us. Now, let us ask, Why do people take
+a piece of money in exchange for services or products? They can neither eat it,
+nor drink it, nor clothe themselves with it. They can make no direct use of it.
+The only use they can make of it is to exchange it away again for something else
+they want. And the only reason why they take it is that they believe, or have
+confidence, that they can do so whenever they please. It is, therefore, what is
+called CREDIT. As Edmund Burke says of gold and silver§: “The two great
+recognized species that represent the lasting conventional Credit of mankind.”
+
+Hence we obtain the fundamental definition or conception of Credit: —
+
+CREDIT is anything which is of no direct use, but which is taken in exchange for
+something else, in the belief or confidence that we have the right to exchange
+it away again.
+
+Credit is, therefore, the Right or Property of demanding something else when we
+require it. It is the right to a future payment: and we must observe that Credit
+is not the transfer of something else, but it is the Name of a certain species
+of Property or Right.
+
+Thus Ortolan says**: — “With respect to the first point of view, the personal
+Right is called by us Créance; by the Romans, Nomen, and less usually Creditum."
+
+A metallic currency possesses a great advantage over the one we described at
+first, which derived its current value from the belief and confidence of the
+persons who received it, that the debtor could perform his promise. That
+confidence would naturally exist only among his own neighbours, and at most
+among a comparatively small number of persons who had full opportunity of
+knowing the circumstances of the individual; and if the persons who took it had
+dealings with strangers or foreigners, who had no knowledge of the debtor, they
+would not receive such an obligation. The service denoted by such an obligation
+could only be demanded from the individual who gave it, and people in general
+would not be willing to give their services when they could demand services in
+return from only one person. That person, too, might die, or become insolvent,
+which, of course, would destroy the value of his obligations. A metallic
+currency is free from these objections. Its utility was so evident to all
+persons who had commercial dealings, that they universally agreed to receive it
+in return for services. So that when a person receives an obligation expressed
+in metallic currency, he is able to command the services, not only of the
+original debtor, but also those of the whole industrial community.
+
+There is clearly, then, no difference in principle between a metallic and a
+paper currency. A metallic currency is subject to its own peculiar
+disadvantages, because, by its constant wear and tear as it passes from hand to
+hand, it suffers considerably by abrasion, not to mention any bad practices that
+may be resorted to to lessen its weight; and as we have seen that the quantity
+or weight of the metal represents the amount of service the owner can command,
+as the metal decreases in weight, so does the amount of service it represents
+gradually and correspondingly diminish. Paper is not subject to this loss of
+material, so that if it were possible to have a paper currency based upon the
+same credit, and which should be as generally received as a metallic one, it
+would be a preferable form.
+
+The paper currency we have described would in its simplest form have the
+particular service or product it was intended to command stated on the face of
+it, as we have seen was done in the American War. This, however, would
+manifestly limit its utility, so by universal consent it is almost invariably
+the custom to make the paper currency of a country represent a certain portion
+of the metallic currency, which is the generally received power of commanding
+all services and products. Paper currency, therefore, in modern practice,
+instead of promising that the debtor will render any amount of particular
+service, almost always expresses that he will give a certain amount of metallic
+currency, either on demand or at some fixed time.
+
+The preceding considerations suggest to us a principle which will be found to be
+of fundamental importance in Economics, and it will be seen that it is
+essentially requisite to bear it in mind in all questions relating to money. It
+is this — WHERE THERE IS NO DEBT, THERE CAN BE NO CURRENCY. The debt represented
+the precise inequality of the exchange, and when there is no exchange, the debt
+must equal in value the service rendered. Hence, it is perfectly clear that the
+use of currency is to supply the defect of the exchange, or rather, in most
+cases, to do away with the necessity for an exchange or barter.
+
+It is hardly necessary to say that this is not the conception of the nature of
+money most usual among writers on Economics. The idea most prominently dwelt
+upon by most writers both on the Continent and in England is that money is the
+“instrument of exchange,” or is the “medium of exchange.” The principal
+writers on Economics consider money as an intermediate merchandise used for the
+purpose of effecting indirect exchanges. This was the conception established by
+the Physiocrates, and generally adopted by Economists since then. J. B. Say
+calls a transaction effected by money a demi-exchange. So M. Joseph Garnier††
+says that direct barter ceases as soon as nations emerge from the infancy of
+civilization. In civilized countries such cases are rare, and often impossible.
+Thus a bookseller who has nothing but books can but rarely pay his baker or his
+shoemaker with books. A certain peculiar species of merchandise has, therefore,
+been devised called money, which the buyers of books give to the bookseller, and
+which he can give again to those who sell to him. Thus, he says, barter is
+complicated by an intermediate exchange. This money, men have agreed to make of
+silver and of gold; and in civilized countries, the shoemaker exchanges his
+shoes for their equivalent in money, for the purpose of again exchanging this
+money for a hat, it may be. The operations of the latter are similar, and they
+may be represented thus: —
+
+  - The shoemaker first exchanges his shoes for money, then exchanges the money
+    for a hat, which is equivalent to exchanging the shoes for a hat.
+  - The hatter first exchanges a hat for money, then the money for shoes, which
+    reduces the operation to an exchange of a hat for shoes.
+
+Such is the view of the matter hitherto generally adopted, and it may perhaps
+seem somewhat cautious to reject a conception sanctioned by so great a
+concurrence of authority. Moreover, allowing that either conception is correct,
+it may seem to many indifferent which ought to be adopted. We think, however,
+that a careful consideration of the two proposed conceptions will show that the
+one we have adopted is manifestly the more rigidly accurate of the two. But the
+true reason why we give the preference to it over a conception so long
+established is one which has prevailed in many other sciences, and has
+conclusively shown which is the true fundamental conception of the science. It
+is this — that although the simple phenomena of monetary science may be
+explained equally well by adopting either conception, yet when we come to the
+higher and more complicated phenomena, they are wholly inexplicable if we adopt
+the conception of money as being an intermediate merchandise as the fundamental
+and primary one. If there never had been any but a metallic currency, the old
+conception would have been sufficient, and it is capable of explaining all
+phenomena in which metallic currency only is concerned. But in modern times an
+engine of much more complicated nature has been devised, namely, Credit or Paper
+Currency. Now, our reason for rejecting the common conception of money as the
+primary and fundamental one is, that it is wholly incapable of solving the more
+intricate and important problems in paper currency. But by adopting the
+conception of money we have proposed as the primary and fundamental one, the
+whole theory of Credit and Paper Currency can be constructed, and all their
+phenomena be explained. A very good proof of the correctness of these remarks
+is, that no writer who has adopted the older conception has ever attempted to
+solve the more intricate problems in the theory of paper currency, or even seems
+to be aware of their existence. The most stupendous calamities have been brought
+about by founding a paper currency in contradiction to our fundamental
+conception, as will be shown in a future chapter.
+
+The force of this reasoning will be apparent to any one who considers several
+analogous cases in other sciences. Thus the definition of an angle given by
+Euclid serves well enough for the purposes of geometry, but is quite inadequate
+for those of trigonometry. Consequently the conception of an angle in
+trigonometry is quite different from the one hitherto adopted in geometry. The
+fundamental conception of the central position of the earth was capable of
+explaining many of the simpler phenomena of astronomy, but being inadequate to
+explain the more complicated ones, it was rejected in favor of the heliocentric
+one. So the corpuscular theory of light was superseded by the undulatory theory
+for the very same reason. Exactly the same course of reasoning leads us to
+prefer the fundamental conception of money as being the Representative of Debt
+to that of its being the Medium of Exchange.
+
+And we have shown that many writers have observed this already, but they have
+not appreciated the full value of the conception. They have not sufficiently
+seen that Money and Credit are homogeneous quantities, and that Money is only
+the highest and most general form of Credit. A Right to demand something from an
+individual has only particular value; as the individual may not be able to
+render that something, its value is precarious; but as money is exchangeable
+among all persons, at all times, and in all places of the same country, its
+value is permanent and general.
+
+Of CURRENCY, or Circulating Medium.
+
+21. Having thus examined the function of Money and Credit, and shown that the
+    latter is a species of exchangeable property, of the same nature as, but
+    inferior in degree to, money, we have now to consider the words “Currency”
+    and “Circulating Medium,” which have given rise to protracted controversies
+    in comparatively recent times; and we take them together, because all
+    writers use them as absolutely equivalent.
+
+To call money by the name of currency is one of the most extraordinary abuses of
+language that has ever occurred. In old times men used to speak of money being
+current, as it passed from hand to hand. Hence arose the expression the currency
+of money. So late as the case of Miller v. Race in 1750, Lord Mansfield says of
+money that it cannot be recovered after it has "passed in currency," but before
+money has passed "in currency" an action might be brought for it. He says the
+same of a bank note: an action could not be brought for it after it was paid
+away in currency. Hence the word currency was manifestly applied to a certain
+peculiarity of money — namely, its passing from hand to hand. But about the
+beginning of the last century, by a most extraordinary confusion of ideas, and,
+as far as we have been able to discover, it arose in our American colonies, the
+money itself was called currency. This name occurs but rarely in Smith, but
+since his time has become very common.
+
+
+To show the extreme absurdity of this name, we have only to consider a few
+similar cases. Nothing is more common than to say that such an opinion, or such
+a report, is current, and we speak of the currency of such an opinion, or such a
+report. But who ever dreamt of calling the opinion, or the report, itself,
+currency? It is very common to speak of the currency of the Session of
+Parliament—but who ever dreamt of calling the Session itself currency?
+
+Now, how can it be more rational in a scientific sense to call money currency,
+than to call a report, or an opinion, or the Session of Parliament, currency?
+
+Such as it is, however, this yankeeism is far too firmly fixed in common use to
+be abolished: and hence we must now accept it, and show how it arose, and
+ascertain what in a scientific sense it includes.
+
+The word “current” came to be applied to money from the following peculiarity of
+English Law.
+
+If a person steals any of my goods, such as books, furniture, a horse, &tc., and
+sells them to another person who buys them innocently without knowing that they
+have been stolen, the thief can transfer no property in the goods, unless the
+sale be made in market overt. That is, if I find my goods in any other person’s
+possession, I may reclaim them, even although that person bought them for a fair
+price, and did not know they were stolen, unless they were sold in market overt.
+But if they were bought in market overt, then the buyer may retain them against
+the true owner even though they were stolen.
+
+But to this rule of English Law money was always an exception. If the true owner
+of money which has been stolen finds it in the hands of a thief he may recover
+it, but if the thief has purchased things in a shop with it, the shopkeeper who
+takes it honestly in the course of his trade may retain it against the original
+owner, that is, as Lord Mansfield said, money cannot be recovered after it has
+been paid away in currency.
+
+The true peculiarity of money, then, which was denoted by the word currency, was
+that the property in it passed by delivery.
+
+And when the substitutes and representatives of money, such as Bills of Exchange
+and Bank Notes, came into use, it was found necessary for the benefit of
+commerce to apply the same doctrine to them. The custom of negotiating Bills of
+Exchange grew up and flourished among merchants for upwards of three centuries,
+before any case arising out of them came before a Court of Law. In course of
+time the Common Law adopted the Lex Mercatoria, or custom of merchants, and by
+it Bills of Exchange were treated like money, in so far as this, that the
+property in them passed like that of money. Thus, if they were stolen, though
+the true owner might recover them if he found them in the hands of the thief,
+yet if the thief had passed them away for value to an innocent holder in the
+course of business, that innocent holder acquired the property in them, and
+might retain them against the true owner, and enforce payment from all the
+parties liable. Thus, Bills of Exchange were assimilated to money in this
+important respect, that, even though stolen, when they had once been passed away
+in currency, the property in them belonged to the person who had innocently
+purchased them.
+
+The same rule holds good with regard to all commercial paper. Hence the word
+“currency” is applicable to money, and all instruments of credit: and until
+very recent times, money and all forms of credit were included under the word
+currency. A difference of opinion, however, on this point has sprung up in
+modern times which has had very important legislative consequences, which will
+demand our most serious attention hereafter.
+
+The expression Circulating Medium came into use about the last decade of the
+last century, and is a far more correct expression. The circulating medium is
+manifestly the medium by which the circulation of commodities is effected, and
+clearly, by the very force of the definition, includes money and credit of all
+sorts. The metallic currency is termed money, and the paper currency of all
+sorts is termed security for money. These securities for money, or the paper
+currency, are divided into two general species: first, promises to pay money,
+called Promissory Notes; and secondly, orders to pay money, called Bills of
+Exchange. Each of those general divisions has several varieties, which are
+treated of in a subsequent chapter.
+
+The paper currency represents a pledge for a future payment, exactly as money
+does. The latter, however, is always a pledge payable on demand. In the case of
+paper, this pledge is frequently not payable on demand, but at a fixed period
+after its creation. Now, it is clear that, though the period of payment is
+deferred, it cannot alter the fundamental nature of the instrument. It may
+affect its value, and its negotiability, or facility of transfer, but it cannot
+affect its essence. A pledge to pay in three months’ time is clearly of the same
+nature as a pledge to pay on demand, nor does it in any way signify whether it
+is recorded on paper, or exists merely in the abstract form of a debt.
+
+The word currency itself is a complex term implying two simple ideas. From its
+first representing a debt, its fundamental idea was something that denoted power
+of demanding services, and secondly, it also passed from hand to hand itself. Of
+these two ideas it must be especially observed that the former is the
+fundamental one, but it has received its name from the latter. Resolved into
+these ideas it denotes —
+
+1.  That which circulates commodities, i.e., which causes commodities to
+    circulate, where circulate is an active verb.
+2.  That which circulates itself, where circulate is a neuter verb.
+
+From the first of these ideas is derived the term Circulating Medium, and from
+the second Currency.
+
+The term Circulating Medium does not occur in Adam Smith; nor is it used in a
+pamphlet published in 1793 on the commercial crisis of that year, where it would
+naturally have been employed if it had been in common use. The first instance we
+have been able to discover of its having found its way into print is in the
+year 1797, when we find Mr. Fox complaining* that “circulating medium” was a
+novel term, whose meaning was not very well settled.
+
+We have observed above that the word "circulate," like many other verbs, has
+both an active and a neuter sense. Smith uses it in both senses in different
+places. Thus he says: “Their (gold and silver) use consists in circulating
+commodities.” So also he says afterwards: — “The great wheel of circulation is
+altogether different from the goods which are circulated by means of it. The
+revenue of the society consists altogether in these goods, and not in the wheel
+which circulates them.” A little further on he speaks of the different sorts of
+paper money, but he says the circulating notes of banks and bankers are the
+species which is best known. In these two sentences the word circulate is used
+in two different senses. In another place he says, “The only use of money is to
+circulate goods.” In the following sentence both senses occur: — “Let us
+suppose, for example, that the whole circulating money of some particular
+country amounted at a particular time to one million sterling, that sum being
+then sufficient for circulating the whole annual produce of their land and
+labour.” And so in this sentence: “When we compute the quantity of industry
+which the circulating capital of any society can employ, we must always have
+regard to those parts of it only which consist in provisions, materials, and
+finished work; the other, which consists in money and which serves only to
+circulate those three, must always be deducted.” — “What is the proportion which
+the circulating money of any country bears to the whole value of the annual
+produce circulated by means of it, it is perhaps impossible to determine.”
+Hence, we observe that the word "to circulate" was used in both senses by Adam
+Smith, though he does not use the expression circulating medium.
+
+In the pamphlet of 1793, though we do not find the words in actual conjunction
+so as to form one expression, we yet have the idea. Thus, the writer speaking of
+the enormous trade of Great Britain says, “The medium by which this extensive
+trade has been conducted is paper credit; a medium which alone is equal to the
+emergency of so quick and so remote an intercourse.” In a subsequent sentence he
+says, “The enormous but unsubstantial capital by which the productions of the
+world were so expeditiously transferred from region to region sinks in a moment
+to a few hard guineas.” Now, it is quite evident that the expression
+“circulating medium” is merely the essence of these two sentences.
+
+But the ordinary meaning of words in scientific language leaves no possible
+doubt as to which of the two senses of “circulate” is the true one in the
+expression “circulating medium.” A medium in scientific language invariably
+means some middle thing, by or through which something else is done. Thus, we
+speak of a medium of communication, being some one, or some thing, through whom
+or through which, something is communicated from some one to some one else. So a
+circulating medium must mean a medium of circulation, through or by means of
+which something else is circulated. If we are to interpret the word circulating
+as that which circulates itself, we may substitute some other words of
+equivalent meaning in the expression, and it comes to this that the circulating
+medium means the “travelling middle,” which reduces the expression to absolute
+nonsense. In a philosophical sense, then, it is perfectly certain that the
+expression “circulating medium” does not mean the itinerating medium, or the
+medium which necessarily circulates, but the medium that circulates commodities.
+And this puts beyond all doubt the meaning attributed to it at the time it, at the time it originated.
+
+The amount of the currency, or circulating medium, in any country is the
+aggregate amount of it belonging to every individual. Now whatever represents
+the amount of debt due to any individual, over and above his possessions in
+commodities, in whatever form that debt may be recorded, whether metal or paper,
+or whether it exists simply as a debt, is the amount of currency belonging to
+him. Adopting this definition, we may enumerate the different species of
+currency as follows: —
+
+1.  Coined money: gold, silver, and copper.
+2.  The paper currency; i.e., promissory notes and bills of exchange, with all
+    their varieties.
+3.  Simple debts of all sorts; such as credits in bankers’ books, called
+    deposits, book debts of traders, and private debts between individuals.
+
+It is obvious that there is no distinction in principle between the two latter
+species. They each denote that a transfer of some sort has taken place, and are
+a title to future payment. As a matter of convenience, some of these are
+recorded on pieces of paper. It is certainly true that some of these
+descriptions of currency are more eligible and secure than others, and perform
+the same duties with different degrees of advantage. The metallic currency rests
+upon the credit of the State, that it is of the proper weight and fineness, and
+the universal readiness of people to receive it in return for services. Paper
+currency, in this country at least, rests entirely upon private credit, and is
+of all degrees of security, from a Bank of England note down to a private I O U.
+These different species of currency, therefore, though they possess different
+degrees of circulating power, though they may be more or less eligible or
+secure, represent but one fundamental idea — Debt. From these considerations it
+follows that the amount of currency, or circulating medium, in any country is
+the sum total of all the debts due to every individual in it.
+
+We shall, therefore, use the terms “currency” and “circulating medium” in this
+work as absolutely identical and co-extensive, the latter being founded upon its
+fundamental conception of circulating itself. It is true that the former is
+considerably the older term, and is derived from that portion of the circulating
+medium which was most frequently thought of. Some persons, too, might be a
+little startled at first at seeing such an extension given to the word
+“currency.” But it is merely an instance of what has repeatedly happened in
+other sciences, that names have been given to substances from some particular
+quality in them, which first attracted attention, and it has been afterwards
+discovered that that was not their fundamental idea, and the class has been
+extended, through the exigencies of science, to include other things which have
+no trace of the quality whence it derives its name. We may mention as familiar
+instances, two cases in geology and chemistry. In geology the term “oolite” was
+first applied to rocks which resembled the roe of a fish, but the necessities of
+science compelled geologists to class certain other formations which have no
+resemblance to roe under the term of oolite, and such classification is
+universally adopted. So also “white chalk may be yellow, green, or black, and
+is actually of these colors in some places, but notwithstanding these stains
+upon its character, it is still called “white” by courtesy." So the term
+“combustion” was applied to certain phenomena in chemistry, on account of heat
+being developed during the process. But a deeper knowledge in chemistry
+disclosed that it was merely the process of oxygen combining with some other
+substance, and the quality of the evolution of heat was accidental, and that
+there are cases of the combination of oxygen with substances where no heat is
+developed. And yet these are classed under the term combustion. Thus, the
+rusting of iron is merely the process of oxygen combining with it chemically,
+and is classed as combustion, though no heat is developed. So the word acid has
+received an extension which includes many things which are not sour. To say,
+then, that private debts are to be classed under the term currency, can be no
+stumbling-block for an instant to any one who considers these analogous cases.
+It is merely an example of what has repeatedly happened in other sciences, when
+more correct views were entertained of the proper classification of their
+objects.
+
+It would be quite easy to multiply instances of a similar necessity which have
+occurred in many other sciences, but the ones we have given are sufficient for
+the purposes. “Descriptive names,” says Dr. Whewell,‡ “although they might be supposed to be the best, have, in fact, rarely been fortunate. The reason of this is obvious: — the mark which has been selected for description may easily fail to be essential, and the obvious connection of natural facts may overleap the
+arbitrary definition... The signification may assist the memory, but must not be
+allowed to subjugate the faculty of natural classification.”
+
+It is most particularly to be observed that it is the essential quality of
+currency, that it is a general charge of debt upon the person of the debtor, or
+obligant; and is not a title to any specific or particular articles. In all
+cases whatever it involves the idea of personal liability. Thus, in page 188,
+where the wine merchant is supposed to take the grocer’s promise to pay a half
+pound of tea when required in return for the wine he lets him have, it must be
+distinctly remembered that this is a general power to demand so much tea from
+him, and is not a particular appropriation of any specific quantity of tea. The
+whole of the grocer’s stock of tea remains his own property until the demand is
+made upon him for payment. Consequently he can sell or dispose of it all if he
+pleases, which he could not do if any particular part was set aside as the
+property of another person, and he was merely the keeper of it.
+
+
+This distinction is of the utmost importance, and it serves to show that the
+transferability from hand to hand is not the fundamental conception of a
+currency. There are certain commercial documents which bear a resemblance to
+Bills of Exchange in respect of their being transferable from hand to hand, and
+are supposed to be of the same nature. These are Dock Warrants and Bills of
+Lading. When property is deposited in the docks, the owner of the dock grants a
+receipt for it, and this, for the convenience of commerce, is assignable at
+will, and whoever is the holder of it is the owner of the property. So, when a
+ship is loaded for a foreign port, the shipmaster grants receipts for the goods
+on board of her, and these "Bills of Lading" may be sold fifty times, before the
+actual property is demanded. Both Dock Warrants and Bills of Lading are merely
+the titles to certain specific goods, warehoused in the dock or on board ship,
+and involve no liability or debt. On the other hand, a Bill of Exchange is
+purely a charge of debt upon some particular person. It is expressly contrary to
+the fundamental conception of a Bill of Exchange that it should be an
+appropriation of any specific funds. If a document purporting to be a Bill of
+Exchange is a specific appropriation of any particular funds, it immediately
+ceases to be a Bill of Exchange.
+
+The great importance of distinguishing between the fundamental conception of
+Bills of Exchange, and that of Bills of Lading and Dock Warrants, may probably
+not be apparent at present; but it will fully appear hereafter. Some most
+dangerous and fatal ideas on the subject of Credit are founded upon confounding
+the two things. One thing only we will note at present,—that Bills of Lading and
+Dock Warrants can never exceed in quantity the property they represent, but that
+Bills of Exchange greatly exceed the quantity of coin they profess to represent,
+because they do not represent any particular coin, but they are only an
+engagement that a person shall have the money at some given time, and it is
+quite possible that the same coin may discharge a hundred Bills of Exchange in
+succession.
+
+It is of such great importance to fix the preceding classification and
+distinctions in the mind, that we will illustrate them further by quoting from
+Dr. Whewell* a conversation between Linnaeus and one of his pupils, Giseke,
+which presents an exact analogy to the views we are seeking to enforce. Giseke
+was much puzzled by being unable to see the intelligible grounds upon which
+Linnaeus proceeded in his collection of natural orders. He narrates a
+conversation which he held with the great teacher upon the subject, which
+presents the most striking points of similarity with the preceding paragraphs.
+Giseke began by assuming that an order must have that attribute from which its
+name is derived, that the Umbellatae must have their flower disposed in an
+umbel; the mighty master smiled, and told him not to look at names, but at
+nature.
+
+Giseke - "What is the use of the name if it does not mean what it professes to mean?
+
+"Linnaeus.—It is of small import what you call the order, if you take a proper
+series of plants, and give it some name, which is clearly understood to apply to
+the plants which you have associated. In such cases as you refer to, I followed
+the logical rule of borrowing a name a potiori from the principal member. Can you give me the character of any single order?
+
+"Giseke.—Surely the character of the Umbellatae is that they have an umbel?
+
+"Linnaeus.—Good, but there are plants which have an umbel and are not of the
+Umbellatae.
+
+"Giseke.—I remember; we must, therefore, add that they have two naked seeds.
+
+"Linnaeus.—Then Echinophora, which has only one seed, and Eryngium, which has
+not an umbel, will not be Umbellatae, and yet they are of the Order. Both are
+beyond dispute Umbellatae."
+
+Let the reader of this work thoroughly imbibe the spirit of the preceding
+conversation, and carefully observe that we must look beyond names to the nature
+of the objects we are treating about, for a proper classification of them. Just
+as there were plants which had no umbel, and yet were of the order Umbellatae;
+so, though private debts are not current, yet still they are Currency; and as
+there were plants which had umbels, and yet were not of the order Umbellatae; so
+also dock warrants and bills of lading, although they are current, are yet not
+currency.
+
+22. We must now demonstrate a proposition of the greatest importance in
+    Economics, and on which errors of the most serious nature are very
+    prevalent. It is this:—
+
+The quantity of money in any country bears no necessary relation whatever to the
+quantity of other goods, &tc., in it or to their price.
+
+Many writers on Economics have supposed that the quantity of money in a country
+bears some necessary relation to the quantity of commodities in it; many more
+think that the prices of commodities are determined by the proportion which the
+quantity of money bears to the quantity of commodities. That this is a very
+grievous error may very easily be shown. Let us suppose that A and B are
+reciprocally indebted to each other for the sale of goods. Let us suppose that A
+has bought goods from B to the amount of £10, and B has bought goods from A to
+the amount of £13. Then it is quite clear that there are three different ways of
+settling their dealings:
+
+1.  Each may send a clerk to the other to demand payment in full of his debt.
+    This method would require £23.
+2.  A may send £10 to B to discharge his debt, and B may send it back to A with
+    £3 more to discharge his debt. This method would require £13.
+3.  They may meet and set off their mutual debts against each other, and pay
+    only the difference in coin. This method would require only £3.
+
+Now it is quite clear that a very different quantity of money would be required
+to carry on any given amount of business, according as either of these three
+methods was adopted. Between the first and the third, there is a difference of
+£20, but there would be no difference in the prices of commodities. These £20
+would not influence prices, but be required to settle debts in a clumsy way. So
+it is clear that by a simple change in the method of doing business, £20 may be
+withdrawn from circulation altogether, and applied to new transactions.
+
+From these considerations it appears that there may be large quantities of money
+in a country which may exercise no influence on prices, and the proportion
+between money and commodities may vary greatly, according as one or
+other of these methods of doing business is adopted. Now if a country which
+habitually adopted the first method, were to change its custom and adopt the
+third, it is perfectly clear that a very large quantity of money would be
+disengaged from circulation, and may be applied to promote new operations, and
+therefore in all its practical effects it would be an addition to the previously
+existing quantity of money. Hence the various methods of economizing the use of
+money are to be considered as an increase of the resources of the nation. If by
+an improved method of doing business we can dispense with £500,000 in settling
+transactions, that is equivalent to adding that sum to the resources of the
+nation. It is one of the great functions of a bank to promote such a change of
+doing business, and to bring people together to balance their mutual debts
+without the intervention of money, and it will be shown in a subsequent chapter
+how greatly the skilful employment of such methods economizes and develops the
+national resources.
+
+On CIRCULATION.
+
+23. When commodities, &tc., are interchanged directly for one another it is
+    called Barter, or Exchange. When commodities are interchanged for money,
+    that money is only taken in order that it may be interchanged again for
+    something else. Hence, J. B. Say aptly said that when money is used, the
+    transaction is the half of an exchange, which is true. It is also called a
+    Sale. A Sale always denotes a transaction in which one of the quantities
+    exchanged is money or credit, that is, when one quantity is a useful
+    commodity, and the other only the right to demand one; that is, when the
+    interchange is of things of an unlike nature. An Exchange is always an
+    interchange of things of a like nature, either commodities for commodities,
+    or currency for currency. Thus we speak of the Foreign Exchanges, or the
+    value of the currency of one country in terms of the currency of another; or
+    we ask for the change (i.e., the 'change or exchange) of a £5 note or a
+    sovereign; so we speak of exchanging a picture for a statue, or one book for
+    another. When the interchange is of commodities for currency, the one who
+    gives currency is said to Buy the commodity, and the one who gives the
+    commodity is said to Sell it. Thus we buy a horse or a house with currency.
+    An officer buys a commission in the army, but he exchanges from one regiment
+    to another. So in Lear (Act v., Sc. 3), when Albany throws down his glove to
+    the traitor Edmund, the latter, throwing down his own, says, “There’s my
+    exchange,” meaning like for like. And, a little further on in the same
+    scene, Edgar says to his wicked brother Edmund, “Let’s exchange charity.” So
+    in Hamlet (Act v., Sc. 2), Laertes says —
+
+“Exchange forgiveness with me, noble Hamlet.”
+
+A transaction in which currency is given for commodities is, as just said, a
+Sale. The sum total of these sales is properly termed the Circulation. Hence a
+single piece of money may add considerably to the circulation, for every time it
+is transferred it is an addition to the circulation, though it is no increase to
+the currency. We must observe that the word Circulation is often used in a very
+corrupt sense, as being synonymous with money and bank notes, more particularly
+the latter. Thus the number of notes issued by the Bank of England, or any other
+bank, is frequently termed its Circulation, more especially by American writers,
+from whence we believe the absurdity of calling money currency originated. Of
+all the terms in common use this is one of the most objectionable. To call the
+notes which circulate "circulation," seems as great a confusion of ideas as to
+call a wheel a rotation. We shall accordingly never use the word circulation to
+mean the amount of issues of a bank; the correct expression evidently is to say,
+the number of its notes in Circulation. We shall always use the words currency
+and circulation to mean different things; the former to denote the substance
+itself, the second the amount of its transfers from hand to hand. It is also
+clear that the currency and the circulation do not bear any fixed relation to
+each other, for there may be a large amount of currency in a country, yet, if
+the industrial operations be few, there will be a small circulation. On the
+other hand, there may be a small amount of currency, but if the people be active
+and industrious, it will pass frequently from hand to hand, and there will be a
+large circulation.*
+
+As the use of the currency is to set industry in motion, and inasmuch as it has
+no use except so far as it does that, its beneficial effects are not to be
+measured by its actual amount, but by the quantity of industry which it
+generates. Money lying locked up in a box cannot increase of itself, and only
+represents latent power and not actual power. It may be called power, or wealth
+in the latent state, and resembles the steam engine of a mill which is not
+going, and is of no use unless it is set in motion: and as the produce of the
+mill is measured by the quantity of the motion of the engine, so is the useful
+effect of the currency measured by the quantity of its motion, which we have
+called the circulation. Now, as this circulation, which is the sole test of its
+useful effect, is the product of its amount multiplied into the velocity of its
+circulation, it is clear that if by any means we can increase the rapidity of
+the circulation of the existing currency, it will add greatly to its beneficial
+power; or if only a certain amount of business can be done, we may diminish the
+quantity of currency necessary to carry it on by increasing its rapidity of
+circulation. Engineers usually call the quantity of the motion of the engine its
+"duty"; so we may call the circulation of the currency its duty.
+
+It is so essential to have a clear conception of the useful effect produced by
+any given amount of currency, that we may add another illustration. The effect
+produced by any body in motion is determined, not only by its weight or mass,
+but also by its velocity, and is called its momentum. If the mass be diminished,
+yet by increasing the velocity, the result or momentum may still be the same.
+Thus, if a body of 100 pounds weight move with a velocity which we may call 1,
+its momentum will be 100; now, if we diminish the weight to 50, and can double
+the velocity, the effect or momentum will still be 100, the same as before. The
+operation of the currency is precisely analogous to this. Its useful effect is
+the result of its combined amount and rapidity of circulation, which we have
+called the CIRCULATION. If we can make £50 circulate with twice the rapidity
+that £100 did before, the useful effect, or circulation, will be the same. Thus,
+the circulation of the currency may be aptly compared to the momentum of a body;
+hence, we may say that the circulation is the momentum or duty of the Currency.
+
+As the useful effect, or the industrial operations promoted by the currency,
+does not depend solely on its amount, we may see how impossible it is to form
+any estimate of the wealth of a country by the amount of money, or gold and
+silver in it. One country may abound in gold and silver, and yet be poor; and
+another may have comparatively little, and yet be rich. Spain was a country in
+which, at one time, gold and silver were more plentiful than any other in
+Europe, and yet the more gold and silver were poured into it, the poorer it
+became. Adam Smith says that, except Poland, it was the poorest country in
+Europe. On the other hand, Scotland is the country which has the least amount of
+gold and silver currency, with the greatest comparative amount of wealth. The
+quantity of gold and silver currency in France is much greater than in England,
+and yet England is much the wealthier country of the two; and there are good
+grounds for believing that the proportion of money to industrial operations in
+England considerably exceeds that in Scotland. These examples show that the
+comparative amount of visible currency in different countries is no evidence
+whatever of the comparative wealth of those countries; on the contrary, it may
+be a proof of waste of wealth, that is, a waste of resources which might be
+better employed.
+
+
+The subtle question whether, if a fair exchange of goods were substituted for
+payment in money, it was to be considered as a sale, was warmly debated for 150
+years by the two famous sects of Roman lawyers, the Proculians and the
+Sabinians, from the time of Augustus to that of Hadrian. Both parties appealed
+to Homer in support of their views, but the opinion of Proculus finally
+prevailed, that a sale and an exchange are operations essentially distinct in
+their nature. This was confirmed by the Emperors Diocletian and Maximian, and
+was ratified by Justinian.* The conclusion was just, though the reason assigned
+for it is scarcely satisfactory, that "in the exchange of two things, it can
+never appear which has been sold and which has been given as the price of the
+thing sold, and it is contrary to reason that each should appear to have been
+sold, and that each should appear to have been given as the price of the other."
+It would rather appear that when we exchange one commodity for another, we
+exchange one whose useful qualities are known, for another whose useful
+qualities are also known; that is, we exchange two things which are acknowledged
+to be equivalents. But the currency represents an abstract quality or right. In
+changing a commodity for currency we commute a known useful quality for an
+abstract right; that is, we give a commodity and receive in return only the
+power of obtaining an equivalent; or we exchange something that is definite for
+another that is indefinite, two operations which are essentially distinct, and
+it is better to appropriate different expressions to operations of a different
+nature.
+
+On PRICE, DISCOUNT, and INTEREST.
+
+24. When one Economic Quantity is exchanged for another, each is termed the
+    value of the other. But when one of the Economic Quantities exchanged is
+    money or credit, the sum of money or credit receives a peculiar name. It is
+    called the PRICE of the other. From the considerations presented in § 19, it
+    appears that price is the same thing as value in money, or credit. But, as
+    it is extraordinarily the custom in modern times to estimate the value of
+    every commodity by its value in money or credit only, or its price, and not
+    by its value as regards other commodities, the words value and price have
+    become almost identical and interchangeable expressions, though no doubt we
+    must remember the technical difference between them. The price of any
+    commodity is therefore the quantity of money, or credit, given in exchange
+    for it, at any moment.
+
+Now, as the value of the money is the commodity received in exchange for it, it
+is manifest that the greater the quantity of the commodity received for it, the
+greater is the value of money. Or if the quantity of the commodity be fixed, the
+value of money is greater, as less money is given for the commodity. Hence it is
+clear that the value of money varies inversely as price.
+
+The value of the property called debt, or credit, is however estimated in a
+peculiar way. We have taken the sum of £100 payable one year hence as the unit
+of debt. The negotiation of debts is a branch of modern commerce of supreme
+importance. Now a debt of £100 payable one year hence, being a saleable
+commodity like a quarter of corn, the sum given for it is its price, just as we
+speak of the price of anything else. And of course the value of money rises as
+the price diminishes. Now as money naturally produces a profit, it is clear that
+the price given for a debt payable a year hence must be less than the amount of
+the debt. The difference between the price of the debt and the amount of the
+debt is called DISCOUNT. Therefore, clearly the price together with the discount
+equals the amount of the debt; and as the price decreases the discount
+increases. Hence, as the discount increases, the value of money, or the price,
+increases also. Now in estimating the value of debts it is universally the
+custom in commerce to mention the discount, and not the price; and to buy or
+purchase a debt is always in commerce termed to discount it. Now, if a banker
+buys a debt of £100 payable a year hence for £95, it is manifest that the
+discount is £5, and he is said to discount it at 5 per cent. per annum. Should
+the price of debts fall, the discount rises; and since the value of money varies
+inversely as price, it varies directly as discount.
+
+Hence we have this: —
+
+The Value of Money varies inversely as Price, and directly as Discount.
+
+To discount a bill of exchange at 5 per cent. means to give a price for a debt
+in the proportion of £95 for every £100 of its amount payable one year hence.
+
+The expression, however, that the value of money varies directly as discount is
+sometimes misinterpreted. Thus it is often said that if the price of debts has
+fallen from £96 to £93, and therefore the discount rises from £3 to £6, the
+value of money has doubled. This, however, is erroneous. Debts which formerly
+sold for £96 now sell for £93; and, therefore, it is clear that the value of
+money has risen in the proportion only of 93 to 96, and not doubled.
+
+When a person advances money to another, and agrees to defer receiving the
+profit until the end of the year, the profit is termed Interest. If he lends, as
+it is called, £100 at 5 per cent. interest, he in fact pays £100 down for the
+purchase of a debt of £105, payable at the end of the year, and the £5 is the
+interest.
+
+This method of making profits, though not uncommon among private persons, is
+never used in banking. Bankers invariably subtract the profit agreed upon at the
+time of the advance. Thus they always make profits in advance. In this case the
+profit is termed Discount. Thus, if a banker discounts a bill of £100 at 5 per
+cent., he only pays his customer £95, and retains the £5 at the time of the
+advance, as profit. In reality he pays £95 down for the purchase of a debt of
+£100, payable a year after date; and the £5, or the difference between the
+price of the debt and its amount, is the discount, and his profit.
+
+It is manifest that this latter method of trading is the more profitable,
+because in the former case he makes £5 profit on the actual advance of £100; in
+the latter case he makes £5 profit on the actual advance of only £95; and
+besides that, he has the £5 in his hands to trade with immediately, instead of
+waiting till the end of the year. In the large amounts of money which banks deal
+with, this makes a very sensible difference in their profits, especially when
+the rate of discount is high.
+
+On Rate of Interest and Rate of Profit.
+
+25. We have now to call attention to the definition of an expression which has
+    been the cause of immense confusion in Economics. Every one knows what Rate
+    of Interest means. When people speak of interest at 5 per cent., they always
+    mean that £5 is given for the use of £100 for some given time — as a year.
+    It is perfectly clear that we can have no conception of what rate interest
+    is, unless we are told in what time it accrues.
+
+By a most extraordinary oversight, however, this has been quite overlooked in
+the definition of Rate of Profit. It will scarcely be believed that no Economist
+has seen that Time is a necessary element in the definition of rate of profit.
+Thus McCulloch says, “The rate of profit is the proportion which the amount of
+profit derived from an undertaking bears to the capital employed in it.” The
+whole of Ricardo’s doctrines of wages and profits are full of fallacy arising
+from this obvious omission. So Malthus defines rate of profit to be the
+percentage proportion which the value of the profits upon any capital bears to
+the value of such capital. Even Mr. Mill has not seen the defect in the
+definition; he says, B. II., c. xv., "The cost of labour, then, is, in the
+language of mathematics, a function of three variables; the efficiency of
+labour; the wages of labour (meaning thereby the real reward of the labourer);
+and the greater or less cost at which the articles composing that real reward
+can be produced or furnished. It is plain that the cost of labour to the
+capitalist must be influenced by each of these three circumstances, and cannot
+be affected by any other. These, therefore, are also the circumstances which
+determine the rate of profit; and it cannot be affected except through one or
+other of them."
+
+What? is not the rate of profit affected by the time in which it is made?
+Suppose a given amount of profit to be made on a given amount of capital, is it
+the same rate of profit whether it be made in a year or a day? According to the
+definition in general use among Economists, a profit of £10 made upon £100 is
+exactly at the same rate if it be made in a year, a month, a week, or a day!
+Nay, according to Mr. Mill, the rate of profit cannot be affected by the time in
+which it is made!
+
+This definition is so manifestly erroneous that it is only necessary to call
+attention to it to be at once admitted. It is quite clear that time is a
+necessary element in the definition of rate of profit. In fact it is simply
+unintelligible without it. If we were told that a trader had made a profit of
+£10 on £100, it would be as impossible to conjecture what the rate of profit
+had been, as it would be to determine a horse’s rate of speed if we were only
+told that it had galloped 20 miles.
+
+It often happens that the rate of profit is the greatest when the actual profit
+is the least. If a trader were to make 50 per cent. profit on one transaction,
+that would be a high profit; but if he only made one transaction in the year, he
+would not increase his opulence. His rate of profit would be 50 per cent. But
+suppose that he only makes a profit of 5 per cent. on a transaction, but makes
+that profit in one day, then the rate of that profit is upwards of 1,500 per
+cent. per annum, and if he could make a transaction at that profit each day, his
+actual profits would be upward of 1,500 per cent. Hence the rate of profit would
+be high, while the actual profit is low. And if the trader reinvested the
+profits as they occurred, as capital, his rate of profit on his original capital
+would increase at compound interest, and be enormously greater.
+
+Bacon saw clearly what has been far too much overlooked by Economical writers,
+that the frequency of returns is of far more consequence than the magnitude of
+each case of profit. He says, “The proverb is true that light gains make heavy
+purses, for light gains come thick, whereas great come but now and then;” and
+this is entirely in accordance with what modern experience demonstrates as the
+true axiom of trade — small profits and quick returns.
+
+The rectification of this error in the definition of rate of profit, which must
+be admitted as soon as stated, clears up a vast deal of obscurity which involved
+the subject of profit. Thus, when profits are said to be reduced to 10 per
+cent., it seems somewhat paradoxical to say that interest can be paid at 15 per
+cent. It is, nevertheless, true, and constantly happens; the apparent paradox
+only arises from the difference of estimating rate of interest and rate of
+profit in common language. When traders pay interest, it is always calculated at
+the rate per annum, but it is too common to measure profits by the actual
+transaction, without reference to the time. Thus, if a trader pays interest at
+the rate of 15 per cent. per annum, he makes profits, perhaps, at the rate of 10
+per cent. per week, or per day, which is at the rate of 520 or 3,130 per cent.
+per annum, allowing for the number of working days in the year. This at once
+dissipates the apparent paradox, and explains how trade can be carried on at
+rates of interest which would seem incredible. In ordinary times in London, the
+second-class bill-brokers charge their customers one shilling in the pound on
+three months’ bills, which is, in reality, discount at the rate of 20 per cent.,
+or interest at the rate of 25 per cent. per annum. In ancient times, and in the
+middle ages, and in America at the present day, the rate of interest is even
+higher than that.
+
+These rates are, however, as nothing compared to the rates paid by petty
+provision dealers, and may serve to show the utter absurdity of the Usury Laws
+which were so long in force in England, and are so still in France, though they
+will probably be abolished there very shortly. Gerard Malynes, a writer in the
+days of Charles I., observed that the petty provision trade of London was
+carried on with money borrowed at the rate of 400 per cent. per annum. In the
+days of Turgot, penalties of the most terrible severity were enacted against the
+infringers of the Usury Laws. To show their absurdity, Turgot instances the
+advances which money-lenders at Paris made to the petty dealers, who bought
+victuals in the market, to retail them in different parts of the capital. The
+charge was 2 sous a week for the loan of a crown of 3 francs, which was equal to
+interest at the rate of 173 per cent. per annum. The whole of the small
+provision trade of Paris was carried on by means of these loans.
+
+“Nevertheless,” says Turgot, “the borrowers do not complain of the terms of this
+loan, without which they could not carry on the trade by which they live. And
+the lenders do not get very rich, because the exorbitant interest is only the
+compensation for the risk their capital runs. In fact, the insolvency of a
+single borrower sweeps away all the profit which the lender can make out of
+thirty of them.”
+
+The idea that trade could flourish upon money borrowed at 173 per cent. seems
+somewhat startling until we analyse the operation. No doubt the borrower paid
+two sous a week for the loan of a crown, but then the probability is that what
+he paid a crown for in the morning he sold again the same afternoon for three
+francs and a half, or more. Now if he repeated this operation once every day, it
+is clear that he would have gained at the end of the year 3,130 sous, omitting
+Sundays. That is, with a capital at no time exceeding 60 sous he would gain a
+profit of 3,130 sous in the year, which would be at the rate of 5,216 per cent.
+per annum, and out of this he would only pay 173 sous for the loan of the money.
+
+M. Gustave de Puynode, quoting from the speech of a Member of the last
+Legislative Assembly of France, gives an instance which is even more startling
+than the last. He said, “Every morning the small provision dealers received
+a 5-franc piece to buy the objects, which they re-sold with a profit of 3
+francs. In the evening they repay the 5-franc piece, and give 25 centimes in
+addition. They make no complaint of interest, which is yet at the rate of 1,800
+per cent.” Nor had they any reason to do so, for by borrowing this 5-franc piece
+they made 3 francs of profit, out of which they only paid 1/4 for
+interest. If, therefore, the rate of interest was 1,800 per cent. per annum, the
+rate of profit, assuming the gain to be, as stated, 3 francs per day, was at the
+rate of 21,600 per cent. per annum. And the interest, which is only one-twelfth
+part of the profit, is not unreasonable. And yet by the law of France it is
+still a crime to take more than 6 per cent.
+
+On Securities for Money and Convertible Securities.
+
+26. The expressions Securities for Money and Convertible Securities frequently
+    occur in Economics, and we must now explain them.
+
+A Security for Money always means an obligation, or security for the payment of
+a definite sum of money from a definite person at a definite time. There is,
+therefore, always some obligor, or some person who is bound to pay it. There are
+different forms of such securities, such as Bank Notes, Promissory Notes, Bills
+of Exchange, Exchequer Bills, Navy Bills, and debts of all sorts.
+
+Convertible Securities are securities which no particular person is bound to
+pay, but for which, under usual circumstances, a purchaser can readily be found
+in the open market. Thus, any property which can be readily sold is called a
+convertible security. This species of Property includes the Public Funds, Shares
+in all sorts of commercial companies, and all title deeds to property of a
+moveable description of which the property passes by simple delivery, such as
+dock warrants and bills of lading. The fundamental distinction between these
+latter and instruments of credit will be clearly explained in a future chapter.
+Now as convertible securities mean property which is readily convertible into
+money, of course there are all degrees of convertibility. There is no absolute
+distinction in principle between these species of property. But of all species
+of property the Funds are the most readily convertible: and the
+
+
+land, or real property, the least readily convertible, mainly in consequence of
+the difficulty in its transfer.
+
+Thus securities for money never represent any specific money, but are always a
+claim on the person. Convertible securities are never a claim on a person, and
+certain kinds of them are always a title to certain specific goods. Sometimes a
+security for money may be changed into a convertible security. This is done in
+what is technically called funding the unfunded debt. The Government often
+raises money on its bills like an individual, and is of course bound to pay them
+at maturity. These Exchequer Bills, therefore, as they are called, are like any
+other bills of exchange, securities for money. Sometimes when those bills amount
+to a large sum, it is very inconvenient for the Exchequer to pay them in full,
+and it gets its creditors to agree not to demand repayment of the whole debt,
+but to receive only the interest on it in perpetuity. When this is done the
+creditor loses the right to demand the principal sum from the Government, but he
+may sell the right to receive the annuity to any one else in the open market. It
+then becomes a convertible security, and is called the Public Funds, or Stock.
+This operation is funding the unfunded debt. In a similar manner Railway
+companies have been allowed to borrow money on their bonds, termed Debentures;
+but finding it inconvenient to be obliged to repay these large sums have formed
+them into Debenture Stock, upon which they are only bound to pay the interest,
+like the Public Funds.
+
+On the Definition of Capital.
+
+27. The word Capital is one of the great fundamental conceptions of Economics,
+    and we must frame a definition of it in accordance with the canons we have
+    already laid down.
+
+Any Economic Quantity whatever may be employed in two different ways. The
+proprietor may either use it himself for his own personal enjoyment, or he may
+use it to produce a profit. When an Economic Quantity is thus used productively,
+i.e. so as to produce a profit, it is termed Capital. Senior says very justly —
+“Economists are agreed that whatever gives a profit is properly termed
+CAPITAL.” And Stephens in his Thesaurus defines the word thus: —
+
+Κεφάλαιον. Caput unde fructus et reditus manat. Capital, the source whence any
+profit or rent flows.
+
+It is clearly to be understood that there is no such thing as absolute Capital.
+Whether any Economic Quantity is to be termed Capital or not depends not upon
+the nature of the thing itself, but exclusively on the Method in which it is
+employed. We have already seen that Economic Quantities are of three distinct
+orders, and as any of these may be used so as to produce a profit, it follows
+that Capital may be of three distinct kinds. Thus if I have a sum of money which
+I spend in purchasing things for my own use and enjoyment, it is not Capital;
+but if I use it so as to produce a profit in any way, it then becomes Capital.
+Thus if I lend it out at interest; or buy goods with it to sell again with a
+profit; or invest it in a commercial enterprise of any sort; or in the funds: or
+if I spend it in acquiring the knowledge necessary to exercise a profession,
+such money is capital. And the things or commodities purchased for the purpose
+of producing the profit, are termed Capital as well: because though the money
+was originally employed in acquiring them, they are again employed in purchasing
+money, and there is no profit unless they sell for a greater sum than was spent
+in purchasing them.
+
+So any material thing may be capital. The land belonging to a landlord is
+Capital to him if it produces him a profit. Several great noblemen possess
+immense tracts upon which great part of London is built, which yield them an
+enormous revenue: that land is Capital to them.
+
+So many natural advantages may be Capital. If a person has a natural waterfall
+in his grounds and he makes no use of it, but considers it as a mere ornament,
+it is not Capital; but if he uses it to turn a mill then it becomes Capital. So
+if he has a spring of mineral water which acquires a reputation for curing
+diseases, and so causes visitors to flock to the place, and live there for the
+benefit of the waters, thereby giving great value to the land and producing him
+a good revenue, it is Capital to him.
+
+It is sometimes said that air, sunshine, etc., are not wealth, because they
+cannot be appropriated; but in many cases the climate is bona fide Capital to a
+country. The climate, it is true, cannot be exchanged away, but it may attract
+strangers to come and settle there for the benefit of their health, who would
+not have done so otherwise, and so brings wealth to the place. The climate is
+real Capital to Madeira, the Riviera, and many other places.
+
+So if I have musical or histrionic talents, and use them merely for the
+amusement of myself and my friends, these talents so used are not Capital; but
+if I adopt the stage as a profession, or earn an income by giving lessons in
+music, or drawing, then these talents become Capital. So with all the
+professions, clerical, legal, medical, military and naval, engineering, civil
+service, etc. So if I dig in my garden for my own amusement, my labour is not
+Capital, but if I dig, or plough, or do any other work for hire, then my labour
+becomes Capital; and indeed to the great majority of the labouring classes,
+their labour is their only Capital.
+
+So trade secrets, so long as they can be kept secret, and persons can use them
+for the purpose of profit, are a very valuable kind of Capital.
+
+So Economic Quantities of the third order may be Capital also. If an author
+writes a successful work, the copyright of it is Capital to him; or if he sells
+it to a publisher, it is Capital to the publisher. If a man buys into the Funds,
+they become Capital to him. There is a class of traders whose business it is to
+buy and sell the Funds, or Shares in Commercial Companies. They are called
+Stockjobbers, and they keep a stock of this property on hand, just as other
+traders keep a stock of material goods. The business of a banker is to buy
+commercial debts. He buys them from his customers before they are due for a
+lower price than their amount, and sells them when they are due to the debtors
+at their amount. These debts are to a banker, exactly the same as a stock of
+goods to a shopkeeper. They are Capital to him; and as he invariably purchases
+them with his own credit, his credit is Capital to him.
+
+One of the most important branches of this species of Capital is when traders
+use their Moral Capital as purchasing power. They buy goods with their promise
+to pay instead of actual money; and these promises to pay, or Rights to demand
+payment, circulate in commerce and perform the functions of money, and are
+themselves the objects of a gigantic commerce.
+
+28. Now, there are two fundamentally distinct ways in which Capital may
+    increase: —
+
+ 1. By a direct and actual increase of quantity; Thus flocks, and herds, cattle,
+    corn, and all fruits of the earth increase by adding to their numbers or
+    quantity.
+
+ 2. By Exchange: that is by exchanging something that has a low value in a
+    place, for something which has a higher value.
+
+Now it is clear that money produces a profit, and, therefore, becomes capital,
+by the second of those methods. We do not sow sovereigns in the ground like
+corn, nor do they produce a crop of half-sovereigns. But money becomes capital
+by exchanging it for some goods, and which may be sold or exchanged again for a
+greater sum than they cost. And it is also clear that any Economic Quantity
+whatever which is used as a substitute for money to purchase goods and for the
+purpose of profit is capital as well as money, by the force of the very
+definition which Senior says all Economists are agreed upon.
+
+Smith says:— “A capital may be employed in four different ways; either, first,
+in procuring the rude produce annually required for the use and consumption of
+the society; or, secondly, in manufacturing and preparing that rude produce for
+immediate use and consumption; or, thirdly, in transporting either the rude or
+manufactured produce from the places where they abound to those where they are
+wanted; or, lastly, in dividing particular portions of either into such small
+parcels as suit the occasional demands of those who want them.”* Now it is clear
+that the last two ways are identical in principle, and include the business of
+the foreign merchant, the wholesale and the retail dealer — that is the whole
+operations of commerce or exchange. Hence we may say that Smith enumerates three
+distinct methods of employing a capital productively — agriculture,
+manufactures, and commerce, to which we must add, as Smith himself admits
+afterwards, money spent in acquiring the knowledge and skill necessary to
+exercise a profession. Now, without inquiring yet what the technical Economic
+definition of Production is, which is done a little further on, we see at once
+that Smith enumerates exchange, or purchase, as one species of production. Now
+Mill says,† "anything which is susceptible of being exchanged for other things,
+is capable of contributing to production in the same degree” as money, and
+also — “bank notes, bills of exchange and cheques circulate as money, and
+perform all the functions of it.”
+
+Now money becomes productive capital by being employed to purchase things to be
+sold again at a profit. And if a man can purchase things by means of his credit,
+that is, if he can purchase them by giving his promise to pay at a future time,
+and by so doing sells the goods at a higher price, and so has a profit after
+paying and discharging his debt, it is quite clear that his credit has been
+capital to him in exactly the same way that money would have been.
+
+Let us take a very simple example. Suppose a tailor wants to make clothes for a
+customer. He pays, say £10 in cash to the cloth merchant, and after making up
+the cloth he sells them perhaps for £15. Then he has used his money as capital.
+He has £10 at the beginning of the operation, and £15 at the end of it; or he
+has made a profit of £5.
+
+Suppose the tailor has no money to buy the cloth with, then if he cannot buy it
+on credit, he cannot make the clothes, and he cannot have any profit.
+
+Suppose, however, the cloth merchant, believing in his honesty and capacity to
+pay, sells him the cloth in exchange for his promise to pay money three months
+after the time. As the payment is deferred, and as of course there is some risk
+of loss, he will, by way of insurance, charge the tailor a somewhat higher price
+than the cash price. Suppose he sells his cloth in exchange for the tailor’s
+promise to pay £11 three months after the time. Now this is as much a sale as if
+the price had been paid in money. The property in the cloth is gone to the
+tailor, and what the cloth merchant has received in exchange for it is, the
+Right, or Property, to demand £11 three months after date. And this Property is
+called a Credit or a Debt.
+
+The tailor having purchased the cloth by creating a debt against himself of £11,
+payable in three months’ time, makes up the clothes as before, and is paid £15
+by his customer. At the end of the three months he pays £11 out of this to the
+cloth merchant, and has, of course, remaining for himself a profit of £4.
+
+Now, by the cash operation, he is better off at the end by £5: and by the credit
+operation he is better off by £4, than he was at the beginning. It is true he
+has not made so great a profit by credit as by cash. But still he has made a
+profit by his credit, which he could not have made without it. Hence, by the
+very definition, his credit has been capital to him, and has produced exactly
+the same circulation of commodities, and employed the same quantity of labour
+that cash would have done. Hence, we see that credit is productive capital in
+exactly the same way, and in the same sense, that money is.
+
+This very simple example must suffice here to illustrate the doctrine that
+credit is capital, which has been strenuously denied in recent years. The credit
+system will demand a very full examination and exposition in a future chapter,
+as by means of it almost all modern commerce is carried on. The general belief
+and confidence that a man creates of his trustworthiness may be called Moral
+Capital. But this is not subject to the science of Economics until he brings it
+into commerce, and effects purchases by means of his Promise to pay. When this
+is done this becomes an actual definite Right or Property, and is Incorporeal
+Property, which may be bought and sold like any Material Property.
+
+The General Definition of Capital then is: — Capital is any Economic Quantity
+used for the purpose of Profit.
+
+Having then obtained this general conception of Capital, which is clear, simple,
+and comprehensive, and satisfies the canons we have laid down, we should have
+proceeded with the exposition of the subject, only unfortunately considerable
+confusion and error has been caused by employing definitions of Capital which
+are too limited, and confined by unphilosophical restrictions, and we must give
+a little time to clear away this confusion.
+
+29. The word Capital comes to us from the Greek Κεφάλαιον, a capital, or
+    principal sum, placed out at interest.
+
+Thus Plato; De Leg., V. 742: —
+
+Μή ἀποδιδόναι τῷ δανεισαμένῳ μήτε τόκον μήτε κεφάλαιον.
+(Not to return to the lender either the interest or the capital.)
+
+And in Acts xxii., 28: —
+
+Ἐγὼ πολλοῦ κεφαλαίου τὴν πολιτείαν ταύτην ἐκτησάμην
+(I bought this freedom for a great sum.)
+
+Suidas says: —
+
+Κεφάλαια, τά χρήματα— Capital, money.
+
+We have not found any passage in which the word κεφάλαιον in Greek is used
+metaphorically for a source or fountain in general. But in Latin the word Caput
+is constantly used not only as a sum of money put out to interest, but as the
+source or fountain whence things spring.
+
+Thus in Livy, vi. 15: —
+
+De capite deducito quod usuris pernumeratur.
+(Take away from the Capital what is counted as Interest.)
+
+Also, vi. 36: —
+
+Promulgaturos legem de aere alieno, ut deducto eo de capite, quod usuris
+pernumeratum esset.
+(They published a law of debt that all that was reckoned as interest should be
+deducted from the capital.)
+
+So Horace, Sat., I. 2., 14: —
+
+Quinas hic capiti mercedes exsecat.
+(He squeezes out five times the usual rate of interest for his caput.)
+
+
+In these passages, caput is used strictly as a sum of money put out at interest.
+But it is also frequently used as the source or fountain of anything. Columella
+uses it for capital in general; XI. 1, 28 — Ut et jacturam capitis amissi
+restituat.
+
+(So as to restore the waste of lost capital.)
+
+In classical Latin we do not find that the word capitale was used in this sense,
+but it was in mediaeval Latin. Thus we read in Ducange —
+
+Capitale. — Debitae pecuniae caput. Papias, capitale, caput pecuniae: and it is
+said to be equivalent to sortes, a usual Latin word for the capital of a sum lent: and he quotes several instances in which the word is used by mediaeval writers in this sense.
+
+In process of time this word was shortened into captale, which was particularly
+applied to flocks and herds, because that was the principal wealth. Hence, by
+corruption, come our words cattle, applied to animals, and chattels applied to
+things.
+
+So the word Capital in Italian and French was applied to the sum of money
+invested in business, or put out at a profit. Now a sum of money put out to
+interest is only a special application of a general idea; and if we want to
+generalize it we may say that it is any Economic Quantity used for the purpose
+of profit; or the source whence a profit springs.
+
+When the word Capital was first used by the Economists, they first applied it to
+a sum of money put out at interest; afterwards, Turgot gave it a more extended
+meaning*:—
+
+“Whoever, either by the income of his land, or by the wages of his labour, or
+his industry, earns every year more values than he spends, can place in reserve
+this superfluity and accumulate it: these accumulated values are what we call a
+Capital.” He then shows how this capital in money may be invested in anything,
+such as “an estate in land,”† — “it is absolutely indifferent whether this sum
+of values, or this capital, consists in a mass of metal, or in anything else,
+because money represents every species of value, as every species of value
+represents money.” Thus Turgot introduced the notion of capital being the fruit
+of the accumulation of past labour: primarily money, and then any other things,
+such as farms, or merchandise‡:—
+
+“We have seen that money counts for almost nothing in the sum total of existing
+capitals, but it counts for a great deal in the formation of capitals. In fact,
+almost all savings are made in money; it is in money that incomes are paid to
+proprietors, that advances and profits return to undertakers of all sorts: it
+is, therefore, money that they save, and the annual increase of capitals is made
+in money. But the undertakers make no use of it but to change it immediately for
+other sorts of things, in which their enterprises turn: so this money returns
+into circulation; and the greatest part of capital only exists in things of
+different kinds.”
+
+Thus Capital was extended to mean anything which gave a profit, but it was held
+to be the result of anterior labour. Adam Smith says§:—
+
+“When the stock which a man possesses is no more than sufficient to maintain him
+for a few days, or a few weeks, he seldom thinks of deriving any revenue from
+it. He consumes it as sparingly as he can, and endeavours by his labour to
+acquire something which may supply its place before it be consumed altogether.
+His revenue is in this case derived from his labour only. This is the state of
+the labouring poor in all countries.
+
+But when he possesses stock sufficient to maintain him for months or years, he
+naturally endeavours to derive a revenue from the greater part of it, reserving
+only so much for his immediate consumption as may maintain him till the revenue
+begins to come in. His whole stock, therefore, is divided into two parts. That
+part which he expects to afford him this revenue is called his Capital. The
+other is that which supplies his immediate consumption, and which consists
+either, first, in that portion of his whole stock which was originally reserved
+for this purpose; or, secondly, in his revenue, from whatever source derived, as
+it gradually comes in; or, thirdly, in such things as had been purchased by
+either of these in former years, and which are yet not entirely consumed, such
+as a stock of clothes, household furniture, and the like.”
+
+Thus Smith shows that he considers Capital to be an Economic Quantity employed
+in a particular way, and his description certainly implies the necessity of
+anterior accumulation.
+
+Smith, however, could not help perceiving that a trader may derive profits from
+something else besides his stock. He says*:—
+
+“Trade can be extended as stock increases, and the credit of a frugal and
+thriving man increases much faster than his stock. His trade is extended in
+proportion to the amount of both, and the sum or amount of his profits is in
+proportion to the extent of his trade; and his annual accumulation in proportion
+to the amount of his profits.” Thus Smith sees here that Credit is a source of
+profit just in the same way that stock is, and as we shall see very shortly,
+Smith enumerates paper currency of all kinds under the head of Floating Capital.
+He also enumerates the intellectual qualities and talents of the people as
+capital because they make a profit by them.
+
+So J. B. Say, after enumerating in several places the various things of which
+capital consists, includes in it the various sciences and professions, and in
+fine, everything which is employed in a productive operation — “That is why from
+the moment in which this value resides in objects employed in a productive
+operation, I call it a Capital, whatever be the objects in which it resides.”†
+
+The qualification “the result of past labour” has been added by nearly all
+English writers to the definition of Capital. Ricardo says‡:—
+
+“Even in that early state to which Adam Smith refers, some capital, though
+possibly made and accumulated by the hunter himself, would be necessary to
+enable him to kill his game”; but we find no explanation of this word Capital
+till p. 89 — “Capital is that part of the Wealth of a country which is employed
+in production, and consists of food, clothing, tools, raw materials, machinery,
+&tc., necessary to give effect to labour.” But Ricardo has not told us what he
+means by Wealth or Production, so that we are really left in the dark on the
+subject.
+
+Senior says§:—
+
+“The term Capital has been so variously employed that it may be doubted whether
+it has any received meaning. We think, however, in popular acceptation, and in
+that of Economists themselves when they are not reminded of their definitions,
+that word signifies an article of wealth, the result of human exertion, employed
+in the production or distribution of wealth. We say the result of human exertion
+in order to exclude those productive instruments to which we have given the name
+of natural agents, and which afford not profit, in the scientific sense of that
+word, but rent.”
+
+This definition of Capital, however, does not agree with what Senior said
+elsewhere, which we have already quoted, that Economists are agreed that
+whatever gives a profit is properly termed Capital.
+
+Mr. J. S. Mill says**:—
+
+“It has been seen in the preceding chapters that besides the primary and
+universal requisites of production, labour and natural agents, there is another
+requisite without which no productive operations beyond the rude and scanty
+beginnings of primitive industry are possible: namely, a stock previously
+accumulated of the products of former labour. This accumulated stock of the
+produce of labour is termed Capital. The function of Capital in production, it
+is of the utmost importance thoroughly to understand, since a number of the
+erroneous notions with which our subject is infested originate in an imperfect
+and confused apprehension of this point.
+
+Capital, by persons wholly unused to reflect on the subject, is supposed to be
+synonymous with money. To expose this misapprehension would be to repeat what
+has been said in the introductory chapter. Money is no more synonymous with
+capital than it is with wealth. Money cannot in itself perform any part of the
+office of capital since it can afford no assistance to production. To do this it
+must be exchanged for other things, and anything which is susceptible of being
+exchanged for other things is capable of contributing to production in the same
+degree. What Capital does for production is to afford the shelter, protection,
+tools and materials which the work requires, and to feed and otherwise maintain
+the labourers during the process. These are the services which present labour
+requires from past, and from the produce of past, labour. Whatever things are
+destined for this use—destined to supply productive labour with these various
+prerequisites—are Capital. * * *
+
+The distinction, then, between Capital and not Capital, does not lie in the kind
+of commodities, but in the mind of the capitalist — in his will to employ them
+for one purpose rather than for another; and all property, however ill adapted
+in itself for the use of labourers, is a part of capital as soon as it, or the
+value to be received from it, is set apart for productive employment.”
+
+Thus Mr. Mill fully agrees in the distinction that capital is not any particular
+thing, but that whether any article is capital or not, entirely depends on the
+method in which it is employed; and he also says that anything which can be
+exchanged, and all property set apart for production, may be capital —
+admissions we shall find hereafter to be of the most important consequence.
+
+We need not quote any more writers, as they say nothing different, but we may
+gather that, with few exceptions, they acknowledge that nothing is absolutely
+capital, but that whether it is so or not, depends upon the method of its use,
+or employment.
+
+This would be perfectly satisfactory as a general definition, but it will be
+seen, they all clog the definition with the limitation that it is the fruit of
+past labour. Thus we think the spirit of these definitions may be expressed
+thus:—
+
+Capital is wealth accumulated from past labour, and employed in a particular
+way.
+
+Now this definition violates the first canon we laid down regarding the
+formation of conceptions; it is not general, it is limited, for it is not wealth
+in general, but wealth the fruit of past human labour.
+
+The question is to consider whether this limitation is necessary and essential,
+or whether it is accidental and may be rejected.
+
+Now we observe that though it is true that a great portion of existing capital
+may be the result of human labour, it is perfectly manifest that the first
+capital men possessed, was not the result of human labour.
+
+When man was first placed upon the earth, it is undoubtedly certain that he
+found the means of support already prepared for him. This is a conclusion that
+all must agree in. The most ardent sticklers for the literal interpretation of
+the first chapter of Genesis, and the most sceptical of geologists, are
+unanimously of opinion, that, however, or whenever, man appeared on the earth,
+he found fruits and corn, and cattle, and fish, already on the earth prepared
+for his use. No one can allege that the first cattle, the first fruits, or the
+first corn were the result of human labour.
+
+Mankind, therefore, employing part of these for immediate use, and setting aside
+and reserving another portion for increase, for reproduction, for producing
+something for future use, immediately turned them into CAPITAL, which was not
+the result of human labour.
+
+Moreover, though flocks and herds may be appropriated and tended, and may be
+kept for the purpose of increase, it seems to us to be a most violent abuse of
+language to say that cattle, a species of capital,—in fact, a corruption of the
+word—are the fruits of accumulated human labour.
+
+We may say the same of fruit-bearing trees; they are capital, but cannot
+properly, as we think, be called the fruits of human labour. The same is true of
+corn, though there is more human labour employed about that: it seems to us to
+be an incorrect use of language to call corn the result of human labour. Man
+indeed may plant and water, but is it man who makes the corn grow? Paul may
+plant and Apollos may water, but it is God that giveth the increase.
+
+Now no doubt it is undeniably true that a great quantity of capital is the
+result of accumulated human labour: but as we have shown that all original
+capital, and a great portion of existing capital, is not the result of human
+labour, it manifestly follows that the limitation “the accumulation of past
+human labour,” is not the essence, but the accident of capital, and must be
+rejected.
+
+
+from the general definition. It is a very strong instance of the great general
+law in Inductive Logic, that in framing conceptions and axioms the negative
+instance is the stronger of the two.
+
+In fact it is quite clear that to insert the qualification, “the produce of past
+human labour,” is to give a description of how it was got: and many authors
+content themselves with telling us what things they consider to be Capital. Now,
+we do not want a description of how capital is got, nor an enumeration of what
+things are Capital, but we want a Conception, or Definition, of what Capital is.
+
+We conclude, therefore, that the definition of Capital must be disembarrassed of
+the condition with which it is clogged; it is the intrusive idea which must be
+eliminated, and we have as the general conception of Capital, that it is any
+Economic Quantity used for the purpose of profit.
+
+We shall find that it is of the greatest importance to the right comprehension
+of the whole of Economics to have this clearly understood, and we shall see that
+a great deal of confusion and misapprehension has been caused in the science by
+this erroneous limitation. Mr. J. S. Mill says that anything which may be
+exchanged may be capital in the same way that money is, and in several places he
+says that bank notes may be capital; and how are bank notes, or credit, of which
+they are one form, the accumulation of past human labour? There are abundance of
+things which may be exchanged, and which give a profit which are in no way the
+result of past human labour.
+
+Examination of Mr. Mill’s Four Fundamental Propositions respecting Capital.
+
+30. Having thus obtained a general conception of Capital, we should have
+    proceeded with the exposition of the subject, but Mr. Mill has laid down*
+    what he calls four fundamental propositions respecting Capital, which we
+    must examine.
+
+These four fundamental propositions are: —
+
+1.  That industry is limited by Capital.
+2.  That all Capital is the result of saving.
+3.  That although saved, and the result of saving, all Capital is nevertheless
+    consumed, i.e., destroyed.
+4.  That what supports and employs Productive Labour is the Capital expended in
+    setting it to work, and not the demand of purchasers for the produce of the
+    labour when completed. Demand for commodities is not demand for labour.
+
+Mr. Mill’s first proposition that industry is limited by Capital is taken from
+Smith, who says:† — “The general industry of the society never can exceed what
+the capital of the society can employ. As the number of workmen that can be kept
+in employment by any particular person must bear a certain proportion to his
+Capital, so the number of those that can be continually employed by all the
+members of a great society must bear a certain proportion to the whole Capital
+of that society, and never can exceed that proportion. No regulation of commerce
+can increase the quantity of industry in any society beyond what its capital can
+maintain.” To this we may observe that Smith expressly says, as we have seen,
+that trade can be extended in proportion to the stock and the credit of the
+trader, and he classes paper currency under Capital. Now in modern times
+nineteen-twentieths, or probably it would be far nearer the truth to say that
+ninety-nine hundredths of industry is carried on by credit. Unless Credit be
+admitted to be Capital, this proposition is entirely false.
+
+With respect to the second proposition, that all Capital is the result of
+saving, it has been already disproved. It is only some Capital that is the
+result of saving. Besides many other things that might be named, the infinitely
+greater proportion of modern commerce is carried on by means of Credit, which we
+shall abundantly show every Economist, including Mr. Mill, declares to be
+Capital. Now how is Credit the result of saving? This proposition is, therefore,
+not only not fundamental, but absolutely erroneous.
+
+The third proposition, that although saved, and the result of saving, all
+Capital is nevertheless consumed (i.e., destroyed), is if possible even far more
+erroneous.
+
+The Duke of Bedford and the Marquis of Westminster are the proprietors of vast
+districts of ground on which London is built. This ground yields them enormous
+revenues; it is therefore capital to them. How is it consumed?
+
+The great Joint Stock Banks of England and Scotland trade by means of their
+credit; every writer in the world who knew what he was writing about has fully
+understood and said that the Credit of a Bank is capital to it, because it makes
+all its purchases and all its profits by means of its Credit. How is its credit
+consumed?
+
+A great author writes a work. The copyright of it is capital to him, the result
+of labour; or he sells the copyright of it to a publisher, and it becomes the
+publisher’s Capital. It may no doubt be destroyed by an act of the Legislature;
+but how is it consumed?
+
+A person by his skill discovers some valuable trade secret which brings him in
+great profits. This trade secret is partnership assets and capital. How is it
+consumed?
+
+A professional man or a trader buys the practice or the goodwill of a business;
+this is capital to him: how is it consumed?
+
+The street crossings in London are valuable property, or estates, just like
+land. They are bought and sold; they are bequeathed; they form the subject of
+marriage portions, just like other estates in land. How are they the result of
+saving; how are they consumed?
+
+The proprietor of land discovers a mineral spring on his land. This spring is
+found to be beneficial in many diseases. People crowd to it, a great demand for
+houses springs up, and the land produces a large revenue to its owner. It is
+therefore capital. How is it the result of saving? The spring flows on for ever;
+how is it consumed?
+
+A Dock, a Canal, or a Railway Company collect subscriptions from their
+Shareholders; this is their capital: they then expend that capital in excavating
+the dock, or the canal, or in forming the railway. The dock, the canal, and the
+railway then become their capital, and no doubt require a certain sum to be
+expended in maintaining them in repair. But how are they consumed?
+
+We might give several more instances, if necessary, to show that it is wholly
+erroneous to say that it is a fundamental proposition respecting capital that
+all capital is consumed. But the above are quite sufficient to show that it is
+only a partial truth.
+
+Mr. Mill’s fourth fundamental proposition respecting capital is stated thus‡: —
+“We now pass to a fourth fundamental theorem respecting Capital which is,
+perhaps, oftener overlooked or misconceived than even any of the foregoing. What
+supports and employs productive labour is the capital expended in setting it to
+work, and not the demand of purchasers for the produce of the labour when
+completed. Demand for commodities is not demand for labour.” As the discussion
+which the consideration of this proposition gives rise to seems to us to belong
+more properly to the remuneration of labour, we shall defer it till the Chapter
+on Wages.
+
+On Fixed and Floating Capital.
+
+31. The true definition of Capital, then, is any Economic Quantity whatsoever
+    used for the purpose of profit. But capital itself may be used in two
+    different ways so as to produce a profit. It may either remain in the
+    owner’s possession — and then it is usually called Fixed Capital — or he
+    may part with the possession of it, and it may be replaced to him with a
+    profit; in this case it is called Floating or Circulating Capital.
+
+Smith, B. II., c. 1, enumerates four species of fixed capital. 1st, Useful
+machines and instruments of trade; 2ndly. Buildings used in all sorts of
+trade; 3rdly. Improvements of land; 4thly. The acquired and useful abilities of
+the members of the Society.
+
+He also enumerates four species of floating capital. 1st. The money by means of
+which the other three are circulated and distributed to their proper
+consumers; 2ndly. The stock of provisions in the hands of various
+dealers; 3rdly. The materials in the hands of different work-people to be made
+up; 4thly. The same materials when made up into finished products and ready for
+sale.
+
+It is clear that this enumeration is very far from being complete, because there
+are many species of property omitted, which yet are capital. But under the term
+floating capital he enumerates money. And under the term money, he always
+includes paper money of all sorts and descriptions. Since Smith’s day a
+distinction has arisen between “paper money” and “paper currency,” but he always
+includes every species of paper under the term money, or the wheel of
+circulation, which he terms floating capital. Now this paper currency is simply
+Credit. And hence we see that Smith expressly enumerates credit under the title
+of capital.
+
+It is clear that if the return be made in one operation, it must include the
+whole sum necessary to replace the article, as well as the intended profits. But
+if the return be made by instalments at fixed periods, say a year, each
+instalment must consist of a sum partly to replace the deterioration of the
+article itself during that period, and partly to form the excess, or profit, of
+the capitalist, so at the end of the term, when the article is worn out, the sum
+of all those instalments should be sufficient to replace the original article
+together with the profits.
+
+It is clearly to be understood, that it is according to the intention of the
+person who produces an article, and the purpose for which it is produced, that
+it receives either of these names, and not according to the nature of the
+article itself. The same article may receive different names, according as it
+passes to different owners, who produce it, or cause it to be produced for
+different purposes. The same article may be floating capital in the hands of one
+man, and fixed capital in the hands of its next possessor, if the first produces
+it for the purpose of selling it, and the second purchases it for the purpose of
+deriving an income from its use.
+
+This distinction may also be stated thus: That if the whole price of the article
+is paid out of the current income of the country, it is floating capital; but if
+only the interest, or revenue derived from its use, then it is fixed capital.
+This distinction is often overlooked, and the term fixed capital is applied to
+articles of a certain nature, and floating capital to articles of another
+nature. Thus, houses and lands, machinery, railways, and ships are frequently
+termed fixed capital. But this is extremely erroneous. If a person employs his
+capital in building houses for the purpose of selling them immediately, they are
+floating capital in his hands, for their price is paid in one operation. But if
+another man buys them for the purpose of letting them out to tenants, and so
+only deriving a revenue from his capital, they become fixed capital in his
+hands. Many persons buy land on speculation, for the purpose of selling it again
+at a profit. The land in the hands of these jobbers is floating capital, but if
+another buys that land for the purpose of letting it out to farmers, or
+cultivating it himself, and so only making a revenue of it, it becomes capital
+to him. So with machinery; to the machine maker, who makes it for the purpose of
+selling it to the manufacturer, it is floating capital. In the hands of the
+manufacturer, who buys it for the purpose of increasing the quantity of his
+productions by its use, and so only making a profit of it, it becomes fixed
+capital. Hence, we may state generally, that all articles, whatever be their
+nature, while they are in the hands of a person who deals in them, that is who
+produces or buys them for the purpose of selling them again, as soon as he can,
+are floating capital. As soon as they pass into the hands of a person who only
+makes a profit by interest derivable from their use, they are fixed capital.
+
+The articles we have just mentioned are, it is true, generally produced with the
+intention of their ultimately becoming fixed capital, but we have shown that
+they may, or they may not, be fixed capital, when they are produced, according
+to different circumstances; and, unless we know what those circumstances are, it
+is impossible to decide which name is to be given to them. It may also be easily
+shown how articles which are usually classed as floating capital may become
+fixed capital. Furniture and clothes would usually be termed floating capital,
+because they are generally made for the purpose of being sold. But if a person
+made them for the purpose of only letting them out for hire, they would become
+fixed capital in his hands. An ordinary tailor usually makes clothes to be sold
+to his customers, so they are floating capital to him. But in the hands of
+Nathan, who lets out uniforms and dresses for particular occasions, they become
+fixed capital, just as much as a house or a mill. So, if a cabinet-maker makes
+furniture, for the purpose of letting it out for hire, that furniture is as much
+fixed capital as any railway.
+
+We thus see how improper it is to apply the term either of floating or fixed
+capital to any object, whatever be its nature, unless we know the intention of
+its owner in using it. And unless an article is incapable of being applied to
+more than one of these purposes, it is not correct to call it by either name.
+There are very few articles to which the name of fixed capital may be invariably
+applied, the only one to which it is necessarily applied is the knowledge,
+skill, and capacity of an individual. Those to which it may be applied with the
+least risk of error are Railways, Canals, Docks, and agricultural improvements.
+The instances are very rare in which such things as Railways, &tc., are made for
+the purpose of being sold. If that did happen, they would have to be called
+floating capital, in the hands of such a person or company. So that we may
+safely say that there are no articles which are necessarily fixed capital. Nor
+are there any which are necessarily floating capital. The mode of expending
+capital, which is almost invariably floating capital, is the wages of labour. In
+all ordinary cases in this country, the wages of labour are floating capital.
+But in slave countries the case is different. There the slaves are fixed
+capital. The same thing occurs in this country, where people sometimes enter, as
+it were, into a species of modified servitude. Sometimes people hire themselves
+out to others for a certain period, who are allowed to let them out for
+particular occasions, and receive the money for their performances. Thus, it is
+not unusual for the most eminent singers and musicians to agree to serve the
+large music-sellers for a definite period, during which their employer has the
+right to let them out on occasions, just like instruments or plate.
+
+
+To the capitalist, who lives merely on the profits of his capital, it may make
+very little difference whether he reaps that profit in one operation or in many,
+as the result must always be the same to him in the end. But to the class of
+persons who live by their daily labour — the workmen in his business— the
+difference in the mode of employing capital is of vital importance. Thus, if the
+builder of a ship intends to sell it immediately, and be paid the whole price of
+it at once, he will employ that money in building another ship, and the full
+amount of the price of the ship, deducting the part which goes to support
+himself, will be expended in the wages of the shipwrights, and on the producers
+of the materials for the new ship. In this case it is floating capital. But if
+the builder of the ship means only to let it out for hire, and receive a
+periodical instalment for its use, he can only employ the part of that
+instalment which represents its deterioration in building a new ship;
+consequently, if he changes the nature of his business very suddenly, that is,
+if he suddenly turns his floating into fixed capital, the fund applicable to the
+promotion of labour will be greatly diminished, and it must infallibly cause
+great distress among the persons who were dependent on him for their support. By
+seeking other employments they may, perhaps, ultimately be as well off as before; but it is quite clear that if a large number of persons have been accustomed to have a particular kind of labour found for them, any sudden change by which the system is disorganized, must produce at least temporary distress. It might be said that the capital of the purchaser of the ship, instead of going to the builder of the ship, and being spent among that class of workmen, might be employed in encouraging other species of industry, so that the result to the whole community would be the same. But the overthrow of any system upon which a great number of people depend, must be followed by much suffering. It appears then, that the conversion of floating into fixed capital, requires to be done with great caution, and only in certain quantities, to avoid its being injurious to the interests of large classes of persons. And if a large class of the public are seized with a sudden mania to convert an unusual quantity of their floating into fixed capital, it must inevitably be followed by at least temporary distress.
+
+32. We have observed that, if the owner of an article disposes of its use for
+    ever, or sells it, the price should be sufficient to replace the article,
+    together with the profits. When he only lets it, the rent or hire is
+    composed of one part for the deterioration of the article, and the other for
+    the necessary profits. From this it follows, that the more permanent the
+    article is, the lower will be the rent, or hire, compared to the price,
+    because, assuming the profits to be the same, the deterioration is less
+    during any given time. If it be of a perishable nature, the hire will be
+    high compared to the price, because the deterioration will be great. A few
+    cases will verify this remark. The rent of land is very low, compared with
+    its price, usually not more than 3 or 4 per cent., because, among other
+    reasons, the deterioration is very small. The rent of houses is much greater
+    compared to their price, usually 7½ or 8 per cent., because the
+    deterioration is greater; the hire of furniture is considerably more,
+    usually 15 or 20 per cent., because the deterioration is greater still, and
+    so on, so that the hire must always be greater as the deterioration
+    increases. From this it follows, that the hire of any article is by no means
+    proportional to its value. Some important questions connected with these
+    considerations will occur hereafter.
+
+33. The words Production and Consumption are two of the leading fundamental
+    conceptions of Economics, and are always used as correlatives. It is said
+    that Consumption is the end of all Production. But unfortunately the meaning
+    of neither word is settled, so that it is impossible to affix any meaning to
+    the proposition, and both words are often used in senses which are
+    manifestly inadmissible.
+
+We have already seen that by Production, the Physiocrates meant the obtaining
+all sorts of produce from the earth, and bringing it into commerce. After
+passing through various stages which they called Distribution, it passed into
+the hands of the final purchaser, who bought it for use and enjoyment. This
+final purchase the Physiocrates called the Acheteur-Consommateur.
+
+But as the Physiocrates maintained that all products are ultimately exchanged
+against products, the Acheteur-Consommateur of one product must have some
+product of his own to offer in exchange for it. The complete exchange of one
+product against another product they called Commerce, or Exchange.
+
+They held that money is of no use but to facilitate the exchange of products:
+being itself only an intermediate pledge between buying and selling. That
+commerce by the intervention of money is incomplete: in an exchange, things are
+consumed (consommés) on each side; they are what people wish to enjoy. In a sale
+it is only the purchaser who fulfills his object, but all is not finished for
+the seller: the money he receives is not a bien capable of being enjoyed: he
+must in his turn become a buyer. All Exchange arrives directly at its object
+which is consumption (consommation); but a contract in which money intervenes is
+not consummated, or completed, or perfected (consommé), because the seller must
+become a buyer. To arrive at the consummation, or completion (consommation),
+there are required four terms and three contractors.
+
+Consumption is the measure of reproduction, because products which remain
+without consumption degenerate into superfluities without value.
+
+We therefore see clearly what the Physiocrates meant by Production and
+Consumption, and an Exchange or Commerce: Commerce being the complete passage of
+a product from the place of production to the place of consumption; from the
+first seller to the last buyer-consumer (acheteur-consommateur).
+
+The Physiocrates held all labour, except only agricultural, to be sterile and
+unproductive, because it did not increase the quantity of material products: and
+that neither labour nor commerce enrich a state.
+
+But Beccaria (1769) and Verri (1772) in Italy; Smith (1776) in England; and
+Condillac (1776) in France rose up against the doctrine that manufactures and
+commerce are not productive of wealth.
+
+Now it is clear that the words Production and Consumption, as hitherto used, are
+complex terms, involving several ideas; and we must now, in accordance with the
+canons we laid down concerning the formation of General Conceptions, ascertain
+the single general idea which each of them represents.
+
+On PRODUCTION.
+
+Smith says that Capital may be employed productively in four different ways, and
+that all persons who are engaged in these operations are productive labourers.
+But, unfortunately, though he enumerates several methods of employing capital
+productively, and several classes of persons whom he denominates productive
+labourers, he gives no definition of what Production is, and we shall have to
+show hereafter that he is very inconsistent with himself on the subject of
+Productive Labour.
+
+J. B. Say rightly adopted the extended meaning of productive labour given by
+Smith and Condillac, and felt it necessary to enlarge the original definition of
+the word. He says*:— 'Man cannot create objects: the mass of matter of which the
+world is composed can neither be increased nor diminished. All that we can do is
+to reproduce those matters under another form, which makes them fit for some
+purpose which they had not before. Hence there is creation, not of matter, but
+of utility, and as this utility gives them value, there is Production of Wealth.
+
+'This is the meaning of Production in Political Economy, and in this work.
+Production is not the creation of matter, but the creation of utility. It is not
+measured by the length, the volume, or the weight of the product, but by the
+utility which has been conferred. There is then truly Production of Wealth,
+where there is creation or increase of utility.'
+
+242 PRINCIPLES OF ECONOMICS. [Chap. IV.
+
+Say also adopts Smith's enumeration of productive labourers, agricultural,
+manufacturing, and commercial: and he says that commercial industry contributes
+to production by raising the value of a product by its transport from one place
+to another.
+
+So again he says† that Production is to give a recognized value to anything
+which makes it capable of procuring something else in exchange of equal value;
+and that commercial production is the creation of a value obtained by the
+transport or the distribution to consumers of products already existing.
+
+So again he says‡:— 'We cannot bring out of nothing a single particle of matter;
+we cannot even send back a single particle into nothing; but we can call out of
+nothing the qualities which make matter, which had no value previously, acquire
+a value, and become wealth. It is in this that Production consists in Political
+Economy. There is the miracle of human industry; and the things to which value
+is thus given are termed Products.
+
+To create products, not being able to create matter, the action of industry is
+necessarily confined to separating, combining, and transporting the molecules of
+which it is composed. It changes the state of matter, and that is all: and by
+this change of state it makes it fit to serve us.'
+
+§ 33.] ON PRODUCTION. 243
+
+Now so far as regards matter and material products, this is undoubtedly true:
+but J. B. Say himself makes immaterial products an integral part of Economics,
+and treats them as Wealth and Capital, just in the same manner as material
+products. He says that the sciences, and talents of professional men, are
+capital which give a revenue, and how are these sciences and talents formed out
+of the particles of matter? They are the pure products of thought. But those who
+provide them when they are wanted, are evidently as much producers as the
+producers of material products.
+
+Say also admits Rights, such as Commercial Obligations of all sorts, Copyrights,
+&tc., to be Wealth: but how are these Rights formed out of particles of matter?
+
+Mr. Mill says: 'The production of wealth: the extraction of the instruments of
+human subsistence and enjoyment from the materials of the globe.' And though the
+first book of his work is devoted to Production, he gives no farther definition
+of it. In it he enumerates the different kinds of labourers whom he considers to
+be productive. However, in a subsequent part of his work he admits that
+transport in commerce is one species of production — He says§: 'Improvements in
+production; understanding the last expression in its widest sense to include the
+process of procuring commodities from a distance, as well as that of producing
+them.'
+
+So Malthus defines Production to be: 'The creation of objects which constitute
+wealth.'
+
+So Destutt de Tracy says**:— 'Not only can we never create anything, but it is
+impossible for us to conceive what it is to create or to annihilate, if we
+rigorously understand by the words to make something out of nothing, or to
+reduce something to nothing; for we have never seen anything come out of
+nothing, or return to it. Thence the axiom admitted by all antiquity — Nothing
+can come from nothing, and Nothing can go back into nothing. What, then, do we
+do by our labour, by our action on all the things which surround us? Never
+anything but effecting on those things changes of form, or place, which apply
+them to our use, and which make them useful to the satisfaction of our wants.
+That is what we must understand by Producing; it is to give things a utility
+they had not before. Whatever our labour may be, if it does not result in a
+utility it is unfruitful; if it results in one it is productive.'
+
+244 PRINCIPLES OF ECONOMICS. [Chap. IV.
+
+We need not give any more extracts, because it is certain that those
+sufficiently represent the general use of the word Production by Economical
+writers. Now we observe that the general drift of all these discussions on
+production is to consider the process by which the product is obtained. Now if
+this were a true view of the Economic meaning of Production, it would follow
+that when we treated of the “Production of Wealth” in Economics, we should have
+to investigate the whole science and art of agriculture, of mining, and all the
+processes in manufactures of every description, and all trades, because all
+these things are the production of wealth according to the definition given
+above. But this is a complete error. Every Economist would at once say that this
+is a complete misconception of the subject. Economics has nothing to do with any
+of the processes of agriculture, mining, manufacturing, or the handicraft of any
+workman, but only with the value of the product when obtained. A product does
+not enter into the science of Economics until it enters into commerce, and seeks
+to be exchanged, and the sole purport and aim of Economics is to determine the
+relative quantities of other products it can be exchanged for. The earliest
+Economists over and over again said that the science has nothing to do with
+products which are obtained and enjoyed by their producers without being
+exchanged. And Whately, Bastiat, and Perry, already quoted, clearly enforce the
+same doctrine. By dwelling so much, therefore, on the process of obtaining
+products, these Economists have given a wrong direction to the ideas of their
+readers, so far as regards Economics, and we must now ascertain what is the true
+Economic meaning of Production.
+
+To ascertain this, we have only to look at the primary and original meaning of
+Producere in Latin: it is to lead or bring forth; and it is the technical word
+used for exposing for sale. Thus Terence, Eunuchus, Act I., sc. 2, l. 55, says:—
+
+
+"Pretium sperans illico producit: vendit."
+(Hoping for a good price, offers her there for sale; sells her.)
+
+Again in the Heauton Timorumenos, Act I., sc. 1, l. 90:
+
+"Ancillas, servos ... omnes produxi, ac vendidi."
+("All the slaves, male and female, I offered for sale, and sold.")
+
+So also Suetonius, De illustribus grammaticis, c. 4, says:— “Quum familia
+alicujus venalis produceretur” — when anyone's household slaves were offered for
+sale.
+
+And the original sense of Produce in English is exactly the same as in Latin. It
+is to draw forth, to cause to come near. Thus in Isaiah xli., 21, it is “Produce
+your cause, saith the Lord; bring forth your strong reasons, says the King of
+Jacob.” And the marginal note says, “Produce — cause to come near.”
+
+So Shakespeare says — Julius Caesar, Act III., sc. 1: —
+
+Antony. "That’s all I seek:
+And am moreover suitor that I may
+Produce his body to the market place."
+
+So in Lear, Act V., sc. 3: —
+
+
+And produce their bodies, be they alive or dead.
+
+So to produce a thing is simply to bring it forward, and place it where it is
+wanted. If a witness is told to produce a deed or other document in court, it
+means that he is to bring it into court and place it there. So a gaoler is
+ordered to produce the body of his prisoner in court, which means that he is to
+place him there: so a cause may be adjourned for the production of a witness or
+a document: and this meaning is so common that it requires no more examples to
+illustrate it.
+
+In the universal language of Commerce, the Producer is the person who offers any
+article for sale. When it is said that the turn of the market is in favour of,
+or against, the Producer, it means that it is for or against the seller.
+
+So also in French the primary and original meaning of Produire is Pousser en
+avant; and of Production is Action de produire, de mettre en avant.*
+
+And this is the true meaning of the words Produce and Production in Economics.
+They mean to bring into the market and offer for sale or exchange. Economics has
+nothing to do with any quantity whatever except so far as it is offered for
+sale; and any person who offers anything for sale is, in Economics, a Producer,
+no matter how he came by it; and whatever quantity is offered for sale is a
+product, whatever its nature.
+
+Thus Agriculturists, Miners, Fishermen, Hunters are producers, because, knowing
+that people require food, clothing, and fuel, they bestow their labour in
+obtaining corn, and cattle, and fish, and coals, iron, &tc., and offer those
+things in exchange for something else.
+
+So Manufacturers and Artisans of all sorts are Producers, because, knowing that
+the raw produce of the earth is scarcely ever fit for human use in its primitive
+state, they purchase this raw produce from the first Producers of it, and bestow
+their labour in manufacturing or fashioning it in all sorts of different ways;
+in grinding the corn into flour, or in baking the flour into bread, or in
+weaving the wool from the flock, or in any other of the countless processes of
+the arts, and then offer the manufactured or fashioned product in exchange for
+something else.
+
+So Merchants, Wholesale and Retail Dealers, are Producers, because, knowing that
+the people of one country want the products grown in other countries, or that
+people in one place want the things grown or manufactured or fashioned in
+another, they bestow their labour in transporting things from one country to
+another, or from one place to another, and offer the things they have thus
+brought in exchange for something else.
+
+Hence all production is summed up in placing an object where it is required. So
+far as regards the customer who wants the article, the tradesman in whose shop
+he finds it is the Producer. What difference can it make whether that tradesman
+paid wages to workmen in his direct employment, and carried the article from his
+workshop to his counter, or pays an independent manufacturer 300 miles off, and
+has it transported to his own shop?
+
+But man has many other wants besides physical ones which can be gratified with
+material substances. He wants services and enjoyments of many kinds, and he is
+willing to give something in exchange for, or to pay for these services and
+enjoyments; and those persons who can render these services or supply these
+enjoyments are equally Producers as those who produce material substances.
+
+Thus men want to be protected in their legal rights, and to have disputes among
+them settled, or to be healed of diseases, or services of many other
+descriptions too long to enumerate: and so some men bestow their labour in
+acquiring a knowledge of law, of medicine, of civil engineering, and all the
+other various professions and sciences, and are ready to produce or offer these
+services in exchange for something else.
+
+So people like the enjoyment of seeing acting and dancing, or hearing music, and
+therefore some men bestow their labour in acquiring skill in these things, and
+offer them in exchange for payment.
+
+Now the meaning of every term must be fixed and appropriated in every science in
+a manner which is suitable to that science, and nothing is more common than for
+the same word to have different technical senses in different sciences; and
+therefore we say that, though in treating of the art of agriculture, mining, and
+the various manufactures and trades, the word production may be very aptly
+applied to the various processes of the different trades, yet such a meaning is
+not suitable to the science of Economics; and that the only true meaning of
+Produce in Economics is to offer for sale; and that the true Economic meaning of
+“Production” is offering for sale.
+
+A great poet may produce a great poem; a great artist may produce a great
+picture; a great sculptor may produce a great statue; we may estimate their
+merits most highly — they may be classed among the brightest products of human
+genius: but how are we to estimate their money value? Now though the poem, the
+picture, the statue may be produced in nature, or called into existence, they
+are not produced in Economics until they are brought into the market and offered
+for sale.
+
+On CONSUMPTION.
+
+The word Consumption as hitherto used in Economics, is also a complex term, for
+while production was used to mean obtaining a product and bringing it into
+commerce, Consumption, or Consommation as the French word is, was used by the
+Physiocrates to mean purchasing a product, taking it out of commerce, and using
+or enjoying it. And as a considerable part of Economical products were the
+fruits of the earth, which are destroyed in their use and enjoyment, this
+secondary and accidental sense of destruction came to be considered as the
+primary one.
+
+Smith uses the words “consume,” “consumption” and “consumable goods,” but, as
+usual, gives no definition of what he means by them. The introduction to the
+Wealth of Nations opens thus — “The annual labour of every nation is the fund
+which originally supplies it with all the necessaries and conveniences of life
+which it annually consumes, and which consist always either in the immediate
+produce of that labour, or in what is purchased with that produce from other
+nations.
+
+According, therefore, as this produce, or what is purchased with it, bears a
+greater or smaller proportion to the number of those who are to consume it, the
+nation will be better or worse supplied with all the necessaries and
+conveniences for which it has occasion.”
+
+In Book II, ch. 1, he says that when a man possesses sufficient stock to
+maintain him for months, or years, he “naturally endeavours to derive a revenue
+from the greater part of it, reserving only so much for his immediate
+consumption as may maintain him till this revenue begins to come in.”
+
+He also says in the same chapter that as floating capital is to be classed
+“money, by means of which all the other three are circulated and distributed
+to their proper consumers.”
+
+In chap. ii. of the same Book he says: — “Though the weekly or yearly revenue of
+all the different inhabitants of every country in the same manner may be, and in
+reality frequently is, paid to them in money; their real riches, however, the
+real weekly or yearly revenue of all of them taken together, must always be
+great or small in proportion to the quantity of consumable goods which they can
+all of them purchase with this money. The whole revenue of all of them taken
+together is evidently not equal to both the money and the consumable goods, but
+only to one or other of these two values, and to the latter more properly than
+to the former.
+
+“Though we frequently, therefore, express a person’s revenue by the metal pieces
+which are annually paid to him, it is because the amount of these pieces
+regulates the extent of his power of purchasing, or the value of the goods which
+he can annually afford to consume. We still consider his revenue as consisting
+in this power of purchasing or consuming, and not in the pieces which convey
+it.”
+
+And further on in the same chapter, after showing that the use of money is to
+circulate and distribute these consumable goods to their proper owners, speaking
+of a banker's notes, he says that: — “The same exchanges may be made, the same
+quantity of consumable goods may be circulated and distributed to their proper
+consumers by means of his promissory notes to the value of £100,000, as by an
+equal value of gold and silver?”
+
+In Book IV. ch. 8, he says — “Consumption is the sole end and purpose of all
+Production; and the interest of the producer ought to be attended to only so far
+as it may be necessary for promoting that of the consumer. The maxim is so
+perfectly self-evident, that it would be absurd to attempt to prove it. But in
+the mercantile system, the interest of the consumer is almost constantly
+sacrificed to that of the producer; and it seems to consider production, and not
+consumption, as the ultimate end and object of all industry and commerce.” And
+in a great number of other passages, which we need not quote, Smith evidently
+means the purchaser by the word consumer.
+
+J. B. Say says†: — “The reader must understand that as Production is not the
+creation of matter, but the creation of utility, so consumption is not the
+destruction of matter, but the destruction of utility. The utility of a thing
+once destroyed, the first foundation of its value, which made it be sought for,
+which establishes the demand for it, is destroyed. Thenceforth it has no value;
+it is not a portion of wealth.
+
+“Hence, to consume (consommer), to destroy the value of things, to annihilate
+their value, are expressions whose meaning is absolutely the same, and
+corresponds to that of the words produce, give utility, create value, whose
+meaning is also the same.
+
+“All consumption, being the destruction of value, is not measured by the volume,
+the number, or the weight of the products consumed, but by their value,” and so
+on.
+
+Again he says‡: —
+
+Consommateur: Is he who destroys the value of a product, either to produce
+another, or to satisfy his tastes or wants.
+
+Consommation; Consommer: To consume (consommer) is to destroy the value of a
+thing, or a portion of its value, by destroying the utility which it had, or a
+portion of that utility.
+
+We cannot consume (consommer) that which cannot be destroyed. Thus we can
+consume the service of an industry, and not the industrial faculty which has
+rendered this service: the service of land, but not the land itself.
+
+“A value cannot be consumed twice; for to say that a thing is consumed is to say
+that it does not exist any more.
+
+“Everything which is produced is consumed; therefore every value created is
+destroyed, and was only created to be destroyed.”
+
+Again he says§ — “The most immediate effect of every kind of consumption
+(consommation) is the loss of value and therefore of wealth, which follows for
+the possessor of the product consumed (consommé). This effect is constant,
+inevitable, and we must never lose sight of it in reasoning on these matters. A
+product consumed (consommé) is a value lost for all the world and for ever.”
+
+And this meaning of consumption as destruction has been widely adopted by
+writers. Thus Malthus says**: — “Consumption: the destruction, wholly or in
+part, of any portions of wealth;” and “Consumption is the great purpose and end
+of all production.”
+
+So McCulloch says: — “By consumption is meant the annihilation of those
+qualities which render commodities useful or desirable. To consume the products
+of art and industry is to deprive the matter of which they consist of utility,
+and consequently of the exchangeable value communicated to it by labour.
+Consumption is, in fact, the end and object of human exertion; and when a
+commodity is in a fit state to be used, if its consumption be deferred, a loss
+is incurred.”††
+
+To this, Senior has well answered:‡‡ — “That almost all that is produced is
+destroyed, is true; but we cannot admit that it is produced for the purpose of
+being destroyed. It is produced for the purpose of being made use of. Its
+destruction is an incident to its use, not only not intended, but as far as
+possible avoided. In fact, there are some things which seem unsusceptible of
+destruction, except by accidental injury. A statue in a gallery, or a medal, or
+a gem in a cabinet may be preserved for centuries without apparent
+deterioration. There are others, such as food and fuel, which perish in the very
+act of using them, and hence as these are the most essential commodities, the
+word consumption has been applied universally as expressing the making use of
+anything. But the bulk of commodities are destroyed by those numerous gradual
+agents which we call collectively time, and the action of which we strive to
+retard. If it be true that consumption is the object of all production, the
+inhabitant of a house must be termed its consumer, but it would be strange to
+call him its destroyer; since it would unquestionably be destroyed much sooner
+if uninhabited. It would be an improvement in the language of Political Economy
+if the expression 'to use' could be substituted for that 'to consume.'”
+
+At p. 14 Senior observes that “Demand is sometimes used as synonymous with
+consumption.”
+
+In fact, it is astonishing that men of ability should maintain such a monstrous
+paradox as that everything which is produced is destroyed; that it is only
+produced for the purpose of being destroyed; and that if it is not destroyed, a
+loss is incurred.
+
+An architect builds a splendid Palace. He, the builders, and the workmen, are,
+in the language of Economists, producers; the palace is a product; are palaces
+produced for the purpose of being destroyed; and is a loss incurred if they are
+not destroyed immediately they are produced?
+
+
+An artist paints a great picture: does he produce it for the purpose of
+destroying it? And is a loss incurred if it is not destroyed as soon as
+produced?
+
+A sculptor carves a great statue: does he produce it for the purpose of its
+being destroyed? And is a loss incurred if it is not broken in pieces
+immediately that it is produced?
+
+J. B. Say says*: — “The English succeed in making very fine glass for mirrors,
+and could supply them at a very moderate price, if the enormous duties laid on
+the manufacture of glass in England did not raise the product to a price which
+many consumers (consommateurs) cannot afford.”
+
+Now did the Consumers of the mirrors smash them? Were the mirrors produced for
+the purpose of being smashed? And was a loss incurred if they were not smashed
+immediately they were produced?
+
+It is said in Gil Blas, B. iv., ch. 6 — “A book in great esteem among the
+students who have already consumed (consommé) four editions of it.” Now did the
+students buy these four editions for the purpose of destroying them?
+
+[Chap. IV. § 31, 33.] ON CONSUMPTION. 241
+
+Johnson, explaining the elementary principles of trade to Dr. Wetherell, Master
+of University College, Oxford, says† — “Here are three profits to be paid
+between the printer and the reader, or in the style of commerce, between the
+manufacturer and the consumer: and if any of these profits be too penuriously
+distributed, the process of commerce is interrupted.”
+
+Now do the consumers or readers of books purposely destroy them? Are books
+produced for the purpose of being destroyed? And is a loss incurred if they are
+not destroyed?
+
+There are vast quantities of furniture produced which seem absolutely
+indestructible except by violence, if properly protected. The Scythian war
+chariot, the unique glory of the Florentine Museum, seems to be made of wood
+which has attained the solidity of iron, and shows that wood may be as durable
+as marble. Now carpenters produce massive bookshelves and massive tables. Are
+these bookshelves and tables produced for the purpose of being destroyed? And is
+a loss incurred if they are not destroyed? So far from their being destroyed,
+there seems to be absolutely no limit to their durability. The Scythian war
+chariot is contemporary with Abraham, and it is as fresh as the day it was made.
+
+We need not multiply any more instances, as multitudes will occur to any one who
+thinks on the subject for an instant. But it clearly appears that if Consumption
+means destruction, the doctrine that consumption is the end of all production is
+manifestly false; and to say that a loss is incurred if things are not destroyed
+as soon as they are produced, is an absurdity so great that we can only marvel
+how men of ability could put such a thing into their books.
+
+In fact, this doctrine is only another example of that careless and hasty
+generalization which has caused so much mischief in Economics. It is true that
+some things, such as food and fuel, are produced for the purpose of being
+destroyed; destruction is essential to their use. But there are many other
+things of which destruction is only incidental to their use, such as clothes and
+many other things; and also a vast number of things do gradually waste away in
+the course of time, such as houses, watches, and innumerable other things; but,
+so far from being purposely destroyed, the greatest care is taken to preserve
+them and to keep them in repair; and there are multitudes of other things which
+are absolutely indestructible except by violence.
+
+242 PRINCIPLES OF ECONOMICS. [Chap. IV.
+
+But, even though it be said that the majority of things do wear away in the
+course of time, Economics has nothing to do with their destruction. As Economics
+has nothing to do with the various processes by which products are obtained, but
+a product only enters into Economics when it enters into commerce; so when it is
+purchased and passes out of commerce, it passes out of Economics; and Economics
+has nothing to do with the mode in which products are used or destroyed. The
+Economic phenomenon is nothing but the exchange.
+
+In the language of commerce, the Consumer means simply the buyer. When Say
+speaks of the consumers (consommateurs) of the mirrors, he means merely the
+buyers of them. He himself says‡ — “The Consumers (consommateurs) of products
+are their buyers.” When it was said in Gil Blas that four editions of the book
+were consumed, it only means that they were bought. When Dr. Johnson speaks also
+of the Consumer, he means only the buyer. In the language of Commerce, Producer
+and Consumer mean only seller and buyer; Production and Consumption together
+constitute exchange, which is the true field and limit of Economics, and it is
+by divagating from the true limits of the science that Economists have caused
+all the confusion. Bastiat well says§ — “In general we devote ourselves to a
+trade, a profession or a career; and it is not from that that we expect directly
+the object of our satisfaction. We render and we receive services; we offer and
+we demand values; we make purchases and sales: we labour for others, and others
+labour for us: in a word, we are Producers and Consumers.”
+
+By using the terms Production and Consumption in their true and strict
+commercial sense we are enabled to get rid of the term Distribution. The
+Physiocrates used commerce and exchange to mean the whole passage of a product
+from its first seller (producteur) through a series of exchanges to its last
+purchaser (acheteur-consommateur), the intermediate exchanges were denominated
+traffic. But as a matter of fact, each of these transactions is a separate and
+independent exchange, and an Economic phenomenon. The farmer grows the corn, and
+produces it, i.e., offers it for sale in the market. It then enters Commerce and
+Economics. The miller buys it from the farmer: he is the customer or consumer.
+That is one exchange, or Economic phenomenon. The miller grinds the corn, and
+produces, or offers it for sale to the baker, who is the customer, or purchaser,
+or consumer of the flour. That is another exchange, or Economic phenomenon. The
+baker bakes the flour into bread, and produces, or offers the bread for sale in
+his shop, and the public come and buy the bread in his shop. They are the
+buyers, customers, or consumers of the bread. There is a third exchange, or
+Economic phenomenon. Then the bread passes out of commerce and Economics, into
+use and enjoyment. Now here is a separate series of exchanges, each wholly
+independent of the others: each an Economic phenomenon; and all governed by the
+same great general law. And of course an analogous course of reasoning applies
+to all products. Thus the term Distribution is absorbed in Production and
+Consumption.
+
+Sometimes, however, Distribution is used in the same sense as Consumption. Thus,
+Turgot entitles his work Réflexions sur la Formation et la Distribution des
+Richesses. So Smith says**: — “The causes of this improvement in the productive
+powers of labour, and the order according to which its produce is naturally
+distributed among the different ranks and conditions of men in the society, make
+the subject of the First Book of this Inquiry.” Senior defines Political Economy
+to be the Nature, Production, and Distribution of Wealth.†† Now by Distribution
+these writers mean consumption, or purchase. Smith says‡‡ — “The metal pieces of
+which it (money) is composed, in the course of their annual circulation,
+distribute to every man the revenue which properly belongs to him.” And a little
+further on he says — “The same exchanges may be made, the same quantity of
+consumable goods may be circulated and distributed to their proper consumers” by
+paper as by money. When Economists spoke of Distribution they invariably meant
+Distribution by means of an exchange. For how is wealth distributed? By no other
+method than that of exchange. If a man wants to have bread distributed to him,
+he must have something to give in exchange for it, such as shoes or other
+things. And if a man wants shoes distributed to him, he must have something,
+such as bread, to give in exchange for them. Hence the shoemaker and the baker
+are each producers, and the reciprocal distribution, or consumption of each
+other’s produce is an exchange. Hence we see that the Production, Distribution,
+and Consumption of Wealth, the Production and Distribution of Wealth, and the
+Production and Consumption of Wealth are identical expressions, and absolutely
+equivalent to Exchange.
+
+Much of the confusion has no doubt arisen from writers neglecting to attend to
+the true and original meaning of the word. The technical words in English are no
+doubt Consumer and Consumption, which appear to infer destruction, but we have
+seen that consumer means buyer in commercial language. But the French have two
+words: Consommation from consumer, from the Latin consumere, meaning
+destruction; and Consommation from consommer, from the Latin consummare. Now the
+technical word invariably used in French Economics is Consommation, which comes
+from the Latin consummatio. Now the primary meaning given to consommer in
+Littré’s splendid French dictionary is achever, accomplir; and he quotes from
+La Fontaine — “En peu de jours il consomma l'affaire;” and from Pascal — “On va
+achever et consommer la démonstration.” Where consommer means to finish or
+complete.
+
+So an ingenious Frenchman who made an excellent translation of Wolfe’s beautiful
+Burial of Sir John Moore, and tried to palm it off upon the world as the
+original, written in French in honour of a Colonel de Beaumanoir, who is said to
+have been killed at the siege of Pondicherry in 1761, and from which the English
+poem was said to be plagiarized, thus renders the last stanza: —
+
+Et dans la fosse alors nous le mîmes lentement,
+Près du champ où sa gloire était consommée;
+Nous ne mîmes à l'endroit ni pierre ni monument,
+Le laissant seul à seul avec sa renommée.
+
+And exactly in the same sense Le Trosne says§§ — “Il y a cette différence entre
+l'échange et la vente, que dans l'échange tout est consommé pour chacune des
+parties: elles ont la chose qu’elles voudraient se procurer, et n’ont plus qu’à
+jouir. Dans la vente, au contraire, il n’y a que l'acheteur qui ait rempli son
+objet parce qu'il n'y a que lui qui soit à portée de jouir. Mais tout n'est pas
+terminé pour le vendeur.”
+
+And again*** — “L’échange arrive directement au but, qui est la consommation; il
+n’a que deux termes, et se termine par un seul contrat. Mais un contrat où
+l'argent intervient n’est pas consommé, puisqu’il faut que le vendeur devienne
+acheteur, ou par lui-même ou par l'interposition de celui auquel il transportera
+son argent. Il y a donc, pour aboutir à la consommation qui est l'objet
+ultérieur, au moins quatre termes et trois contractants, dont l'un intervient
+deux fois.”
+
+So Blanqui says††† — “Toutes les transactions devaient se consommer par forme
+d'échange.”
+
+So Consummation means primarily achèvement, accomplissement.
+
+So the technical word in Italian Economics is Consumazione, which like
+Consommation, is the Latin consummatio, completion, accomplishment.
+
+For who is the Consumer? He is the person who consummates, completes, or
+accomplishes the work of the producer. The producer brings forward something,
+and offers it for sale. But it is the purchaser who gives value to it; it is he
+who crowns the work, and consummates the desire of the producer, and completes
+the transaction, by purchasing the product and thereby giving it value. Le
+Trosne and the Physiocrates most justly said that only an exchange is complete.
+A shoemaker wants bread, and the baker wants shoes. They exchange their
+products; and the desire of each is accomplished, completed. But if a shoemaker
+sells his shoes for money, his desire is not accomplished, or completed. He
+still has to exchange away the money for bread. And the same is true of the
+baker, and of every other producer.
+
+Hence we perceive that the English word Consumption is liable to suggest wrong
+ideas, unless we carefully remember that the Consumer means nothing but the
+purchaser.
+
+The general result of this investigation is to show that there is no real
+difference at all between the second and the third school of Economists: when
+the one school says that Political Economy is the Science which treats of the
+Production, Distribution, and Consumption of Wealth, and the other says that it
+is the Science of Exchanges, they mean identically the same thing. But though
+when the terms are explained, they are proved to be identical, yet the great
+superiority of the latter definition over the former is apparent. Every one
+knows what an exchange is; and when it is said that Economics is the Science of
+Exchanges, and that anything which can be exchanged is an Economic Quantity,
+every one can at once perceive the nature, the objects, and the limits of the
+science. But when it is said that it is the science which treats of the
+Production, Distribution, and Consumption of Wealth, each of these words
+requires a long explanation of the technical meaning in which it is to be
+understood. And we have already pointed out how numerous transactions evidently
+are included in the science of exchanges, which are only with great difficulty
+and much explanation included under the Production, Distribution, and
+Consumption of Wealth.
+
+
+We therefore eliminate all ideas of destruction from the technical conception of
+Consumption in Economics, and leave only purchase as the true general meaning.
+We have seen that it is entirely erroneous to assert that everything is produced
+for the purpose of being destroyed; and that if Consumption means destruction,
+it is not true to say that Consumption is the end of all Production. Still less
+true is it to say that if Consumption be deferred, a loss is incurred. But when
+we see that Consumption is merely purchase, then it is true to say that
+Consumption is the end of all Production; because Production means offering
+something in exchange, and Consumption means taking it in exchange. So also it
+is true that the quicker Consumption is, the more profit there is, and the slower
+Consumption takes place, the less profit there is. We have shown under Rate of
+Profit that a profit made in a day is seven times a greater Rate of Profit than
+a Profit made in a week; and of course the longer it is deferred the less it
+becomes. So if his product is not consumed, or purchased at all, it is a total
+loss to the producer, who has lost the reward of his labour, as it is only
+consumption which constitutes his product wealth, and his labour is not
+consummated, or completed, until he has got a reward for it. A shoemaker does
+not want a thousand pairs of shoes; what he wants is something in exchange for
+them—bread, clothes, fuel, house-room, &tc., either directly, or the means of
+obtaining these things, which is money; and unless his shoes are consumed, or
+bought, he can get no satisfaction for his labour, which is thrown away, and not
+completed. So a baker does not want a thousand loaves of bread, but like the
+shoemaker, he wants the other necessaries, conveniences, and enjoyments of life,
+which he can get in exchange for them. So a wine merchant does not want his
+hogsheads of port and claret, or his butts of sherry; a cloth merchant does not
+want his miles of cloth; a farmer does not want his acres of corn, or his herds
+of cattle; a coal owner does not want his shiploads of coal: but each and all of
+them want the other necessaries and conveniences and amusements of life which
+they can get in exchange for them. A company of actors do not perform a play,
+nor a troupe of dancers execute a ballet, for their own delectation, but for
+what they can get in exchange for it; and their labour is productive just as it
+does or does not bring in returns. So no producer wants the things which he
+himself produces, but only what he can get in exchange for them, and the faster
+he can gain things in exchange for his products the faster he increases in
+wealth. Hence we see that, in this sense, which was the one given to it by those
+who originated it, it is true that Consumption is the end of all Production; and
+that the faster the consumption takes place the greater is the increase in
+opulence. And as Production and Consumption constitute exchange, it is rapidity
+of exchange which leads to national opulence.
+
+A country which abounds with gold and silver coin cannot properly be said to be
+Wealthy any more than one which abounds with machinery. So long as these stand
+idle the country must remain poor, like a manufacturing town in a strike. It is
+their motion or circulation which generates wealth, and the rapidity of that
+circulation which indicates the rate of increase or progress. This consideration
+will enable us to solve a question which was long agitated by Economists and statesmen. Which employment conduces most to national opulence. From
+the time of Colbert to the French Revolution, the question whether the
+towns or the country most conduced to national wealth was keenly disputed, and according as one side or the other prevailed, the one was encouraged and cockered, and the other depressed. Now, as the velocity of the circulation indicates the rate of progress, whatever employment causes currency to circulate with the greatest rapidity, most augments national opulence. Currency is the engine of circulation, and industry is its motive power; whichever species of industry drives the engine fastest, most rapidly augments the national wealth. Now it is well known that of all species of industry, agriculture causes the most languid circulation of the currency. By offering an extra stimulus of reward, the
+productions of human industry can be multiplied and quickened to an
+extraordinary extent, but the process of nature is slow, and cannot be
+accelerated at command. Different trading pursuits cause a brisker circulation
+in different degrees — all much faster than agriculture. Hence a purely
+agricultural country must increase slower in opulence than any other, and other
+countries very much in the proportion of their inhabitants engaged in
+agriculture, as compared to other pursuits. Experience amply verifies this
+remark. Poland and other countries, which have few resources but agriculture,
+are the poorest and most barbarous in Europe. Great Britain and Holland, in
+which the smallest proportion of the inhabitants are engaged in raising food for
+the rest, are the wealthiest, and other countries very much in similar
+proportions. The instances are not many in which people have made fortunes by
+agriculture, but there is scarcely probably a small country town, where some
+industrious and energetic individuals have not realized a competence by trading.
+
+On SUPPLY and DEMAND.
+
+34. Supply and Demand are sometimes supposed to be equivalent to Production and
+    Consumption. Senior, we have seen above, says that Consumption is sometimes
+    used as equivalent to Demand. Now Production and Supply are absolutely    
+    equivalent. The quantity offered for sale, the quantity produced, and
+    the quantity supplied are identical terms. But Demand is by no means 
+    equivalent to Consumption.
+
+Demand is a desire to possess something, but unless persons possess something to 
+give in exchange for what they want to obtain, they can give no effect to their
+desire: and unless they can do so, no Economic phenomenon takes place.
+
+It is easy to see that Demand is not the same thing as Consumption. Suppose, as
+very often happens in a country district, there is a certain quantity of milk,
+butter, eggs, poultry, &tc. produced. The country people are accustomed to buy
+or consume all this produce at a certain price. There is, therefore, a certain
+amount of Production and Consumption. But the place, perhaps, becomes
+fashionable: a number of rich persons crowd in, and prices rise immensely; but
+the same quantity of products are consumed. Now there is the same Production and
+the same Consumption. There is the same Supply, but not the same Demand. If rich
+people crowd in and outbid poor ones, and give a higher price than the country
+people can do, there is a greater Demand. When prices rise above a certain
+point, however persons may wish to possess the object, if they cannot give these
+prices they cease to buy, and therefore in an Economic sense they cease to
+Demand. Demand, therefore, in Economics must mean the desire and the power to
+purchase; and, of course, the more intense the desire and the greater the power
+to purchase, the greater is the Demand.
+
+Hence we may say that, while Production and Consumption constitute exchange, the
+relative numerical quantities in which the respective products will exchange are
+determined by Supply and Demand.
+
+And here we may observe is the great, radical and fundamental difference between
+the Second and Third Schools of Economists. We have shown that their Definitions
+of the Science are absolutely identical. But the real difference between them
+lies in their doctrine of the cause, or origin, of Value. The second school of
+Economists chiefly, and some exclusively, look to the Labour of the Producer as
+the cause or origin of Value. But the Physiocrates, the third school, Condillac,
+Bastiat, the Italian Economists, Verri, Beccaria, Genovesi, and ourselves look
+entirely to the Demand of the Consumer as the sole origin and source of Value,
+as is fully exhibited in the next chapter.
+
+PRODUCTIVE and UNPRODUCTIVE Labour.
+
+35. There is no part of Smith’s work which has been so unanimously condemned
+    even by his warmest admirers, or in which he is so contradictory to himself
+    and to common parlance, as in his doctrine of Productive and Unproductive
+    Labour.
+
+The Physiocrates restricted the term Productive Labour to obtaining an increase
+of quantity of the raw products of the earth. All other labourers, all
+artificers, all merchants and traders they classed as sterile or unproductive,
+because they said that in manufactures the increased value bestowed on them by
+labour only replaced the products consumed by the artisans during the work, and
+in commerce there was only an exchange of equal values; and, therefore, in
+neither case was there any increase of Wealth. This designation of so many and
+powerful classes of society as sterile or unproductive labourers raised a great
+clamour against them, as if they had meant it as an insult. But the Physiocrates
+very justly replied that they did not mean this term in a disparaging or
+humiliating sense, but purely as a matter of scientific classification. They
+acknowledged that the labour of these classes was honourable, useful, and indeed
+indispensable, but they did not term it Productive in a scientific sense. Their
+answer was perfectly just, but their scientific classification was soon
+demonstrated to be erroneous.
+
+Among others, Smith attacked it and says — “The third is the class of
+artificers, manufacturers, and merchants, whom they endeavour to degrade by the
+humiliating appellation of the barren or unproductive class.”* We shall soon see
+whether Smith has not fallen into exactly the same error as he charged upon the
+Physiocrates.
+
+He says:† — “There is one sort of labour which adds to the value of the subject
+upon which it is bestowed: there is another which has no such effect. The former
+as it produces a value may be called productive, the latter unproductive labour.
+Thus the labour of a manufacturer adds generally to the value of the materials
+which he works upon, that of his own maintenance, and of his master’s profits.”
+Smith then enlarges the term Productive Labour to include manufacturing and
+commercial labour of all sorts, as well as agricultural. But there he
+unaccountably stops, and bans all other labourers as unproductive, or in his own
+words, endeavours to degrade them by the humiliating appellation of barren or
+unproductive.
+
+In continuation of the passage just given, he says: — “The labour of a menial
+servant, on the contrary, adds to the value of nothing. Though the manufacturer
+has his wages advanced to him by his master, he in reality costs him no expense,
+the value of these wages being generally restored with a profit, in the improved
+value of the subject upon which his labour is bestowed; but the maintenance of a
+menial servant never is restored. A man grows rich by employing a multitude of
+manufacturers; he grows poor by maintaining a multitude of menial servants. The
+labour of the latter, however, has its value and deserves its reward as well, as
+that of the former; but the labour of the manufacturer fixes and realizes itself
+in some vendible commodity, which lasts for some time at least after that labour
+is past. It is, as it were, a certain quantity of labour stocked and stored up,
+to be employed, if necessary, upon some other occasion. That subject, or what is
+the same thing, the price of that subject, can afterwards, if necessary, put
+into motion a quantity of labour equal to that which had originally produced it.
+The labour of the menial servant, on the contrary, does not fix or realize
+itself in any particular subject or vendible commodity. His services generally
+perish in the very instant of their performance, and seldom leave any trace or
+value behind them for which an equal quantity of service could afterwards be
+procured.”
+
+Now according to Smith, the cook at an hotel is a productive labourer: she
+prepares, dresses, and cooks the various articles of food eaten by the guests.
+Her labour adds to their value, and is charged for in the bill; it is fixed and
+realized in a vendible commodity, which lasts for some time after that labour is
+passed; and her labour tends to the profit of the landlord; her wages are all
+repaid to him in his customers’ bills.
+
+But a cook in a gentleman’s family who performs exactly the same functions is a
+menial servant, and therefore, according to Smith, she is an unproductive
+labourer. Where is the sense of such a distinction? By Smith’s own doctrine, the
+various articles of food are more valuable after she has dressed and prepared
+them for the table than they were in a raw state. Her labour is fixed and
+realized in material commodities which last after that labour is passed. When
+these two perform exactly the same functions and are equally paid for their
+services, why is the one productive and the other unproductive? So that if the
+cook in an hotel takes a place in a gentleman’s family she is at once turned
+from a productive into an unproductive labourer! If a cook in a private family
+takes a place in an hotel, she from being an unproductive, becomes a productive
+labourer! It is obvious that such a distinction is mischievous, futile, and
+contrary to common sense.
+
+Again, Smith allows all the various persons engaged in extracting the coal from
+the mine, transporting it to distant places, and placing it in a gentleman’s
+cellar to be productive labourers; but the footman who carries it from the
+cellar to the drawing-room grate is a menial, and therefore an unproductive
+labourer. By Smith's own doctrine the labour of each of the series of persons
+who extract and transport the coal to the cellar adds to its value, and
+therefore for the same reason the labour of the footman who carries it from the
+cellar to the drawing-room adds to its value. The terminus a quo the coal starts
+is the mine, the terminus ad quem it is to arrive is the drawing-room grate; and
+why is the labourer who transports it from the mine to the cellar productive,
+and the labourer who transports it from the cellar to the grate unproductive?
+The labour of each is equally necessary, and equally paid for. It is obvious
+that such a distinction is mischievous, futile, and contrary to common sense.
+
+Now why does a gentleman pay for a cook in an hotel or in his own house to dress
+his dinner? Simply to save himself the trouble of doing it for himself. Why does
+he pay the price for miners obtaining the coals, and dealers transporting it
+from place to place; and why does he pay wages to his footman to carry coals
+from the cellar to the drawing-room? Simply to save himself the trouble of doing
+so himself. And the same course of argument applies to everything else which is
+wanted and paid for.
+
+
