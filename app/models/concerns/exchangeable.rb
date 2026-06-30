@@ -1,38 +1,54 @@
 module Exchangeable
   extend ActiveSupport::Concern
 
-  # In our economic model, "Production" simply means offering an item for sale in the market.
+  # "Production" simply means offering the Right of Action for sale in the market.
   # It does not mean the physical creation of matter.
   def produce!(market_price)
-    puts "\n--- Production Phase ---"
-    puts "Action: #{self.class.name} is produced (offered for sale) at $#{market_price}."
-    
-    # In a full ActiveRecord implementation, this might update a state machine to 'in_market'
     @current_market_price = market_price
-    @status = :produced 
+    @status = :produced
+    true
   end
 
-  # "Consumption" simply means the act of purchasing. It does not imply the physical
-  # destruction of the asset (unless the asset is specifically food/fuel).
-  #
-  # @param buyer [Object] The entity purchasing the asset
+  # "Consumption" simply means the act of purchasing.
+  # Buying updates the party_id on the Right of Action ledger entry, transferring the wealth.
   def consume!(buyer)
-    puts "\n--- Consumption Phase ---"
-    
     if @status != :produced
-      puts "Error: Cannot consume an item that is not produced (offered for sale) in the market."
       return false
     end
 
-    price = @current_market_price || 0
+    ActiveRecord::Base.transaction do
+      recording = financial_recording
+      if recording.nil?
+        raise "Cannot find ledger recording for contract #{self.class.name} with ID #{self.id}"
+      end
 
-    if buyer.respond_to?(:demands?) && buyer.demands?(price)
-      puts "Action: #{buyer.name} consumes (purchases) the #{self.class.name} for $#{price}."
+      right_of_action_direction = AccountDirectionRegistry.find_by!(internal_code: 1)
+      ledger_entry = recording.ledger_entries.find_by!(direction: right_of_action_direction)
+
+      # Update the owner (the creditor holding the Right of Action) to the buyer
+      ledger_entry.update!(party: buyer)
       @status = :consumed
       true
-    else
-      puts "Action: #{buyer.name} lacks the effective demand (willingness/power to purchase) for the #{self.class.name} at $#{price}."
-      false
+    end
+  end
+
+  # Custom getter for the FinancialRecording hub
+  def financial_recording
+    @financial_recording ||= begin
+      instrument_type = InstrumentRegistry.find_by!(internal_code: instrument_code)
+      FinancialRecording.find_by(concrete_id: self.id, instrument_type_id: instrument_type.id)
+    end
+  end
+
+  private
+
+  def instrument_code
+    case self.class.name
+    when "PromissoryNote" then 10
+    when "Bond"           then 20
+    when "Check"          then 30
+    when "BankDeposit"    then 40
+    else raise "Unknown contract class: #{self.class.name}"
     end
   end
 end

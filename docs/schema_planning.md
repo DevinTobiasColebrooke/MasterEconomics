@@ -11,7 +11,7 @@ CREATE TABLE instrument_registry (
     internal_code SMALLINT UNIQUE NOT NULL 
 );
 
-CREATE TABLE maturity_registry (
+CREATE TABLE liquidity_class_registry (
     id SMALLSERIAL PRIMARY KEY,
     internal_code SMALLINT UNIQUE NOT NULL
 );
@@ -42,8 +42,8 @@ CREATE TABLE actor_profiles (
 CREATE TABLE financial_recordings (
     id SERIAL PRIMARY KEY,
     instrument_type_id SMALLINT NOT NULL REFERENCES instrument_registry(id),
+    liquidity_class_id SMALLINT NOT NULL REFERENCES liquidity_class_registry(id),
     concrete_id INTEGER NOT NULL, 
-    creator_id INTEGER NOT NULL REFERENCES actors(id),
     created_at TIMESTAMP NOT NULL
 );
 
@@ -54,7 +54,6 @@ CREATE TABLE financial_recordings (
 CREATE TABLE promissory_notes (
     id SERIAL PRIMARY KEY,
     face_value_units BIGINT NOT NULL,
-    maturity_type_id SMALLINT NOT NULL REFERENCES maturity_registry(id),
     issuance_date DATE NOT NULL,
     due_date DATE 
 );
@@ -91,8 +90,8 @@ CREATE TABLE ledger_entries (
 -- Instrument Types: 10=Note, 20=Bond, 30=Check
 INSERT INTO instrument_registry (internal_code) VALUES (10), (20), (30);
 
--- Maturity Types: 1=On Demand, 2=Fixed Date
-INSERT INTO maturity_registry (internal_code) VALUES (1), (2);
+-- Liquidity Classes: 10=Demand Deposit, 20=Revolving, 30=Fixed Term
+INSERT INTO liquidity_class_registry (internal_code) VALUES (10), (20), (30);
 
 -- Account Directions: 1=Right of Action, 2=Duty to Pay
 INSERT INTO account_direction_registry (internal_code) VALUES (1), (2);

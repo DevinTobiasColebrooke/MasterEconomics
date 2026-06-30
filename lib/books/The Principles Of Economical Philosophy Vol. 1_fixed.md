@@ -10801,3 +10801,2039 @@ so himself. And the same course of argument applies to everything else which is
 wanted and paid for.
 
 
+And yet some are called productive and others unproductive. Is this not plainly
+contrary to all scientific classification?
+
+Smith then continues:—"The labour of some of the most respectable orders in the
+society is, like that of menial servants, unproductive of any value, and does
+not fix or realize itself in any permanent subject or vendible commodity which
+endures after that labour is past, and for which an equal quantity of labour
+could afterwards be procured. The sovereign, for example, with all the officers
+both of justice and war who serve under him, the whole army and navy, are
+unproductive labourers. They are the servants of the public, and are maintained
+by a part of the annual produce of the industry of other people. Their service,
+how honourable, how useful, or how necessary soever, produces nothing for which
+an equal quantity of service can afterwards be procured. The protection,
+security, and defence of the commonwealth, the effect of their labour this year,
+will not purchase its protection, security, and defence for the year to come. In
+the same class must be ranked some both of the gravest and most important, and
+some of the most frivolous professions; churchmen, lawyers, physicians, men of
+letters of all kinds; players, buffoons, musicians, opera-singers,
+opera-dancers, &tc. The labour of the meanest of these has a certain value,
+regulated by the very same principles which regulate that of every other sort of
+labour; and that of the noblest and most useful produces nothing which could
+afterwards purchase or procure an equal quantity of labour. Like the declamation
+of the actor, the harangue of the orator, or the tune of the musician, the work
+of all of them perishes in the very instant of its production."*
+
+Now in reference to what Smith says about the protection, security, and defence
+of the commonwealth purchased by the labour of soldiers and sailors one year not
+purchasing its security and defence the year after, we may observe that the food
+a man eats one year, or the clothes, and fuel, which keep him warm one year will
+not keep him in life and warmth for the year to come, and yet Smith classes
+those who produce food, clothes, and fuel as productive labourers, and those who
+produce security and defence as unproductive labourers. Can anything be more
+futile?
+
+Smith is moreover utterly inconsistent with himself, for he himself classes as
+wealth, "the acquired and useful abilities of all the inhabitants or members of
+the society. The acquisition of such talents, by the maintenance of the acquirer
+during his education, study, or apprenticeship, always costs a real expense,
+which is a capital fixed and realized as it were in his person. These talents as
+they make a part of his fortune, so do they likewise of that of the society to
+which he belongs. The improved dexterity of a workman may be considered in the
+same light as a machine or instrument of trade, which facilitates and abridges
+labour, and which though it costs a certain expense, repays that expense with a
+profit."†
+
+Again, he says:—"A man educated at the expense of much labour and time, to any
+of those employments which require extraordinary dexterity and skill, may be
+compared to one of these expensive machines. The work which he learns to
+perform, it must be expected, over and above the usual wages of common labour,
+will replace to him the whole expense of his education, with at least the
+ordinary profits of an equally valuable capital."‡
+
+He also says:—"A man is rich or poor according to the degree in which he can
+afford to enjoy the necessaries, conveniences and amusements of human life."§
+
+Surely, therefore, those men who can produce those sciences, knowledge, and
+amusements, which Smith acknowledges to be wealth, are productive labourers.
+
+Accordingly, J. B. Say extended the term productive, to include all labour which
+was required and paid for:—"Whatever be the operations to which labour is
+applied, it is productive, because it aids in the creation of a product. Thus,
+the labour of the man of science, who makes experiments and books, is
+productive; the labour of the undertaker, although he does not directly apply
+his hand to the work, is productive; in short, any manual industry, from the
+labourer who digs the earth to the sailor who handles a ship, is also
+productive."**
+
+So also††:—"LABOUR: a continued action directed towards an object. Labour is
+productive when it gives to anything a degree of utility, whence results for
+that thing an exchangeable value, or an increase of exchangeable value, equal or
+superior to the labour employed. Labour is also productive when it
+results in a service which has exchangeable value, although this service is
+consumed at the same instant that it is rendered. It is unproductive when it
+results in no value. Productive labour is of three kinds: that of the man of
+science; of the manager of labourers; and that of the workman."
+
+He also combats Smith’s doctrine of unproductive labour:—
+
+"A house, a piece of plate, or massive furniture are very durable products;
+clothes are less so; vegetables, fruits, still less so. But yet this difference
+of durability does not in any way affect their quality of products; all of them
+are wealth in proportion to their value. A farmer in the valley of Montmorency
+draws annually by the sale of his cherries a sum as real as the proprietor of a
+portion of the forest of Montmorency draws from cutting wood. It is only the
+amount of the whole which makes the difference, and if the cherries produced are
+of more value than the wood, the cherries represent the greater production of
+wealth. Nevertheless, between the instant when these cherries are ripe, and when
+they must be eaten, there is no great interval; while the wood which serves to
+form solid buildings, is wealth which lasts a long time. In reference to
+production, the amount of utility induced can only be determined by the price
+which men set on it. It is the price which measures the profit which the
+producer draws from it.
+
+"Since, in regard to production, the durability of a product is of no
+consequence provided it has value; let us come from products to products, from
+those which are necessarily consumed a few instants after they are completely
+created, to those which are necessarily consumed at the very instant of their
+creation, and we see that a theatrical performance, for instance, is a product
+which may differ from some fruit of the earth by its duration, because its value
+cannot last beyond the instant of representation, but which does not differ in
+the conditions which make them each a product: I mean the property of satisfying
+one of our wants, of gratifying a taste, of capacity of being valued and sold.
+The actors meet to offer you the result of their labours and talents; the
+spectators, on their side, meet to give in exchange for this agreeable product a
+sum which comes itself from the productions in which you or your parents have
+taken part. It is an exchange like any other.
+
+"Adam Smith and other Economists have denied to immaterial products the name of
+products, and to the labour of which they are the fruit the name of productive
+labour, upon the ground that these products are consumed at once and have no
+durability, that they are not susceptible of accumulation and therefore can
+never increase the capital of the nation.
+
+"The last reason is founded upon an error. Do we accumulate the products which
+are not preserved, such as the fruits of the earth, which they do not deny to be
+products?
+
+"In short, is a value the less a product because it is consumed? Are not the
+greater part of the products of the year destroyed within the year? Are we to
+say of a man who has lived upon his revenue, that he has no revenue because
+nothing remains to him?
+
+"Smith’s doctrine upon this point does not comprehend the whole doctrine of
+production. He places in the class of unproductive labourers, and regards as
+burdens on society, a crowd of men who, in truth, furnish a real utility in
+exchange for their pay. The soldier who holds himself in readiness to repel an
+invasion of the foreigner, and who repels it at the peril of his life; the
+administrator who devotes his time and his knowledge to the preservation of the
+rights of society; the upright judge, the protector of innocence and justice;
+the professor, who diffuses the sciences painfully acquired;—a hundred other
+professions which comprise persons the most eminent in dignity, the most
+eligible by their talents and personal character, are not less useful to
+society, and satisfy the wants which the nation as imperatively requires, as
+persons do clothing and shelter.
+
+"If any of these services so rendered are not offered to sufficiently extensive
+competition, if they are paid for above their value, it is an abuse with which
+we have no concern here. Undoubtedly there is unproductive labour, but that to
+which a price is freely given, and which is worth the price put upon it, when it
+may be refused, is productive labour, however short is the duration of the
+product.
+
+"According to the writers who refuse to recognize immaterial products, the
+artificers who produce the fireworks which are to be let off next day in a
+garden are productive labourers, while the actors who prepare the performance of
+a grand tragedy are unproductive labourers. Certainly if we could judge of the
+wealth produced and consumed on these two occasions otherwise than by the price
+agreed to be paid for them, we should think that the actors who prepared the
+theatrical performance, from the talent required, from the duration of the
+performance, from the long remembrance one preserves of it, from the delicacy
+and the elevation of the sentiments it gives rise to, we should say that these
+actors are more productive labourers than the artificers who prepare the squibs,
+and crackers, and wheels which vanish in smoke."
+
+We might have expected that Mr. Mill, who begins his book by saying that wealth
+is everything which has power of purchase, which evidently includes services,
+would have assented to this argument of Say's. But he has reverted very much to
+Smith’s doctrine, though he has extended it somewhat. After giving the general
+definition of wealth that it is anything which is exchangeable, he has, as we
+have already observed, narrowed it down to material products, and he says:—"I
+shall therefore, in this treatise, when speaking of wealth, understand by it
+only what is called material wealth, and by productive labour only those kinds
+of exertion which produce utilities embodied in material objects. But in
+limiting myself to this sense of the word I mean to avail myself of the full
+extent of that restricted acceptation, and I shall not refuse the appellation
+productive to labour which yields no material product as its direct result,
+provided that an increase of material products is its ultimate consequence. Thus
+labour expended in the acquisition of manufacturing skill I class as productive,
+not in virtue of the skill itself, but of the manufactured products created by
+the skill, and to the creation of which the labour of learning the trade is
+essentially conducive. The labour of officers of government in affording the
+protection which is in some manner or another indispensable to the prosperity of
+industry must be classed as productive even of material wealth, because without
+it material growth in anything like its present abundance could not exist. Such
+labour may be said to be productive indirectly or mediately, in opposition to
+the labour of the ploughman and the cotton-spinner, which are productive
+immediately. They are all alike in this, that they leave the community richer in
+material products than they found it; they increase, or tend to increase,
+material wealth.
+
+"By Unproductive Labour on the contrary, will be understood labour which does
+not terminate in the creation of material wealth; which, however, largely or
+successfully practised, does not render the community, and the world at large,
+richer in material products, but poorer by all that is consumed by the labourers
+while so employed.
+
+"All labour is in the language of Political Economy unproductive which ends in
+immediate enjoyment, without any increase of the accumulated stock of permanent
+means of enjoyment. And all labour according to our present definition must be
+classed as unproductive, which terminates in a permanent benefit, however
+important, provided that an increase of material products forms no part of that
+benefit. The labour of saving a friend’s life is not productive, unless the
+friend is a productive labourer, and produces more than he consumes. To a
+religious person the saving of a soul must appear a far more important service
+than the saving of a life; but he will not, therefore, call a missionary, or a
+clergyman, productive labourers, unless they teach, as the South Sea
+Missionaries have in some cases done, the arts of civilization in addition to
+the doctrines of their religion. It is, on the contrary, evident that the
+greater number of missionaries or clergymen a nation maintains, the less it has
+to expend on other things: while the more it expends judiciously in keeping
+agriculturists and manufacturers at work, the more it will have for every other
+purpose. By the former it diminishes, ceteris paribus, its stock of material products; by the latter it increases them.
+
+"Unproductive may be as useful as productive labour; it may be more useful even
+in point of permanent advantage; or its use may consist only in pleasurable
+sensation, which when gone, leaves no trace; or it may not afford even this, but
+may be absolute waste. In any case, society or mankind grow no richer by it, but
+poorer. All material products consumed by anyone while he produces nothing, are
+so much subtracted, for the time, from the material products which society would
+otherwise have possessed. But though society grows no richer by unproductive
+labour, individuals may. An unproductive labourer may receive for his
+labour, from those who derive pleasure or benefit from him, remuneration which may be to him a 
+considerable source of wealth; but his gain is balanced by their loss; they may have 
+received a full equivalent for their expenditure, but they are so much
+poorer for it. When a tailor makes a coat and sells it, there is a transfer of
+the price from the customer to the tailor, and a coat besides, which did not
+previously exist; but what is gained by an actor is a mere transfer from the
+spectator’s funds to his, leaving no article of wealth for the spectator’s
+indemnification. Thus the community collectively gain nothing by the actor’s
+labour; and it loses, of his receipts, all that portion which he consumes,
+retaining only that which he lays by. A community, however, may add to its
+wealth by unproductive labour, at the expense of other communities, as an
+individual may at the expense of other individuals. The gains of Italian opera
+singers, German governesses, French ballet dancers, &tc., are a source of wealth
+as far as they go, to their respective countries, if they return thither. The
+petty states of Greece, especially the ruder and more inland of those states,
+were nurseries of soldiers, who hired themselves to the princes and satraps of
+the East to carry on useless and destructive wars, and returned with their
+savings to pass their declining years in their own country: these were
+unproductive labourers, and the pay they received, together with the plunder
+they took, was an outlay without return to the countries which furnished it; but
+though no gain to the world, it was a gain to Greece. At a later period the same
+country and its colonies supplied the Roman Empire with another class of
+adventurers, who, under the name of philosophers or rhetoricians, taught to the
+youth of the higher classes what were esteemed the most valuable
+accomplishments; these were mainly unproductive labourers, but their ample
+recompense was a source of wealth to their own country. In none of these cases
+was there any accession of wealth to the world. The services of the labourers,
+if useful, were obtained at a sacrifice to the world of a portion of material
+wealth; if useless, all that these labourers consumed was to the world, waste."
+
+
+We have given this long extract in order to place before our readers fairly Mr.
+Mill's views on this important subject. Malthus justly goes to the root of the
+whole matter, and his argument brings us back to the discussion of what Wealth
+is.
+
+For Productive Labour is Labour productive of Wealth. We see that Mr. Mill has
+somewhat extended the term beyond Smith's view of it; for while Smith only
+allows those to be productive labourers who are directly employed in the
+production of material products, Mr. Mill includes those also who are indirectly
+employed in that way; and this, of course, is a considerably wider circle of
+persons. He admits "officers of government" to be productive labourers. Hence
+managers of manufactories, foremen, the army, navy, and police are gathered
+within the fold of productive labourers; but we are not sure whether the
+judicial corps rank as "officers of Government." We are inclined to think they
+do; and in that case a barrister who earns an income by serving private parties
+would be an unproductive labourer, but a judge who earns an income by serving
+the State is a productive labourer. Authors and editors of newspapers take rank
+as productive labourers; while actors, singers, opera dancers, clergymen, and
+others still remain out in the cold as unproductive labourers. Bankers may rank
+as productive labourers, because the operations of banking do undoubtedly cause
+a very great increase of material products. The labour of railway and other
+employees engaged in transporting merchandise would be productive, but in
+transporting passengers would be unproductive. According to the distinction made
+by Mr. Mill, the labour of instructors teaching artisans and other productive
+labourers is productive, the labour of those engaged in educating gentlemen, or
+persons not engaged in business, is unproductive, so the labour of a surgeon or
+physician healing a productive labourer is productive; healing a gentleman is
+unproductive. According to Mr. Mill, the delight the audience receives from
+witnessing the performance of a Garrick, a Kemble, a Siddons, a Talma, a
+Macready, a Wigan, a Taglioni, a Fanny Elssler, a Lablache, a Catalani, a
+Malibran, a Jenny Lind, a Grisi, a Mario, an Alboni, a Tietjens, a Patti, and a
+Nilsson, is the result of unproductive labour, and the world is poorer by their
+maintenance, while the opulence of the world would be augmented by the labour of
+as many pastry-cooks.
+
+We do not think that such distinctions as these accord with general usage, or
+with sound practical philosophy: and on this point we entirely agree with Say,
+whose doctrines are those of common sense and general usage. In general
+language, productive labour is labour which is productive of profit. When a
+person bestows his labour in preparing some material substance, or in rendering
+some service, which he hopes will be required or demanded by others, what does
+he expect, and what is his object? It is to draw forth some reward in exchange
+for it. Every one considers his labour as productive, not according to what he
+offers, but according to what he obtains in return for it. A theatrical company
+may produce several pieces during the season, but whether their labour is
+productive or not entirely depends upon the returns to their treasury. If they
+play to empty benches, their labour is unproductive; if the house is crowded,
+and their treasury well filled, their labour is productive.
+
+And it can be easily shown from Mr. Mill's own words that this is the true
+meaning, because he says that productive labour is labour productive of wealth.
+And what is wealth by his own definition? It is everything which has power of
+purchasing; whether therefore a thing is wealth or not purely depends whether
+anything can be obtained in exchange for it. And of course the more that can be
+obtained in exchange for it the greater wealth it is, and the more productive.
+Hence by Mr. Mill's own definition whether anything is productive or not does
+not depend upon the nature of the thing, but upon the quantity of other things
+it can draw forth in exchange, or the amount of the returns.
+
+It is true that Mr. Mill has subsequently narrowed down his definition of wealth
+by several limitations; but we have already shown that these are quite
+inconsistent with his general definition, and they must be rejected. A performer
+receives ten guineas for his performance; a watchmaker receives ten guineas for
+a watch. The performance and the watch are each equal to ten guineas. Therefore
+the performance is equal in value to the watch, by the very simple rule that
+things which are equal to the same thing are equal to each other.
+
+Hence, in accordance with general usage, we shall always use Productive Labour
+to mean Labour which earns a profit; and Unproductive Labour to mean labour
+which produces no, or an inadequate, reward. And anything whatever which earns a
+profit is, as Senior says all Economists are agreed, CAPITAL.
+
+CONCLUSION.
+
+36. If the absolute property does not pass to the purchaser but only the right
+    of possession, or of use, for a limited period, after which it reverts to
+    its true owner, the sum of money paid for such a service receives different
+    names, according to the nature of the service or property —
+
+	1. If the money be paid for personal services, it is called Wages, or Salary,
+    		or Pay, or Fees, according to the different species of service.
+
+	2. If the money is paid for the use of property, such as is usually classed as
+    	   fixed capital, such as the right to use land, or houses, or running water,
+    	   as a mill stream, or mines, or fisheries, or a patent, or copyright, it is
+    	   called Rent.
+
+	3. If for the use of property which is more usually floating capital, or
+    	   personal property, it is called Hire.
+
+	
+4. If it is for the use of money, it is called Interest.
+
+All these names are, therefore, applied when the purchaser buys only the use of
+a thing for a limited period, and that according to the nature of the object.
+
+37. We have now concluded our survey of the General Conceptions of Economics;
+    the investigation has been long, but we hope not uninteresting. At all
+    events it was absolutely indispensable to raise Economics to the rank of a
+    great Inductive Science. The discussions given here have been brief indeed
+    compared to the fierce controversies which were waged about almost every
+    term in Physical Science. We have now obtained a clear and distinct
+    Conception of the Nature and Limits of the Science itself; or of the body of
+    phenomena whose laws we are about to investigate; and we have had the
+    satisfaction of reconciling the Definitions of the two prevailing schools of
+    Economists, and showing that they are in reality identical. And we have
+    taken each term in succession, and applying the Laws of Inductive Logic, we
+    have eliminated the accidental and intrusive ideas from each one, and
+    determined that single general idea which fits it to be a fundamental
+    Conception of a great general science. Such is the course which has been
+    followed in every other science, and such is the course which must
+    necessarily be adopted to rear up a solid edifice of science.
+
+38. In case it may be thought that such discussions are superfluous we may quote
+    a few remarks from Dr. Whewell — "Such discussions as those in which we have
+    been engaged, concerning our fundamental Ideas, have been the course by
+    which, historically speaking, those Conceptions which the existing sciences
+    involve have been rendered so clear as to be fit elements of exact
+    knowledge.
+
+"Thus discussions and speculations concerning the import of very abstract and
+general terms and notions may be, and in reality have been, far from useless and
+barren. Such discussions arose from the desire of men to impress their opinions
+on others, but they had the effect of making the opinions much more clear and
+distinct. In trying to make others understand them, they learnt to understand
+themselves. Their speculations were begun in twilight, and ended in the full
+brilliance of day. It was not easily and at once without expenditure of labour
+and time that men arrived at these notions which now form the elements of our
+knowledge; on the contrary, we have in the history of science seen how hard,
+discoverers, and the forerunners of discoverers, have had to struggle with the
+indistinctness and obscurity of the intellect, before they could advance to the
+critical point at which truth became clearly visible. And so long as, in this
+advance, some speculators were more forward than others, there was a natural and
+inevitable ground of difference of opinion, of argumentation, of wrangling. But
+the tendency of all such controversy is to diffuse truth and to dispel error.
+Truth is consistent and can bear the tug of war; Error is incoherent, and falls
+to pieces in the struggle. True Conceptions can endure the sun, and become
+clearer as a fuller light is obtained; confused and inconsistent notions vanish
+like visionary spectres at the break of a brighter day. And thus all the
+controversies concerning such conceptions as science involves have ever ended in
+the establishment of the side on which the truth was found.
+
+"The history of Mechanics from the time of Kepler to that of Lagrange, is
+perhaps the best exemplification of the mode in which the progress of a science
+depends on such disputes as serve to show that the progress of a science depends
+on such disputes as give clearness and generality to its elementary Conceptions.
+This, it is to be recollected, is the kind of progress of which we are now
+speaking; and this is the principal feature in the portion of scientific history
+which we have mentioned. For almost all that was to be done by reference to
+observation, was executed by Galileo and his disciples. What remained was the
+task of generalization and simplification. And this was promoted in no small
+degree by the various controversies which took place within that period
+concerning mechanical conceptions — as, for example, the questions concerning
+the measure of the Force of Percussion: — the war of the Vis Viva: — the
+controversy of the Centre of Oscillation: — of the independence of Statics and
+Dynamics: — of the principle of Least Action: — of the evidence of the Laws of
+Motion: — and of the number of Laws really distinct. None of these discussions
+was without its influence in giving generality and clearness to the mechanical
+ideas of mathematicians: and therefore though remote from general apprehension,
+and dealing with very abstract notions, they were of eminent use in the
+perfecting the Science of Mechanics. Similar controversies concerning
+fundamental notions, those, for example, which Galileo himself had to maintain,
+were no less useful in the formation of the Science of Hydrostatics. And the
+like struggles and conflicts, whether they take the form of controversies
+between several persons, or only operate in the efforts and fluctuations of the
+discoverer’s mind, are always requisite before the conceptions acquire that
+clearness which makes them fit to appear in the enunciation of scientific
+truth."
+
+These remarks of the historian of the Inductive Sciences are an ample
+vindication of the discussions we have gone through; and it may be as well to
+conclude this chapter by presenting shortly the results of our investigations: —
+
+SUMMARY OF DEFINITIONS.
+
+  - ECONOMICS, or Political Economy, or, as it is sometimes called, the Science
+    of Wealth, is the Science which treats of the Laws which govern the
+    relations of Exchangeable Quantities.
+  - WEALTH, or Exchangeable Quantities, or Economic Quantities, are Exchangeable
+    Rights.
+      - Economic Quantities are of three species:
+        1.  Rights to material or corporeal things already acquired, such as
+            lands, houses, corn, cattle, money, &tc., usually called Corporeal
+            or Material Property.
+        2.  Rights to personal services of all sorts, or Labour; usually called
+            Immaterial Property.
+        3.  Rights to things only to be acquired at some future time; usually
+            called Incorporeal Property.
+  - VALUE — The Value of any Economic Quantity is any other Economic Quantity
+    for which it can be exchanged.
+  - MONEY is any Economic Quantity which a Debtor can by Law compel his Creditor
+    to take in discharge of a debt.
+  - CREDIT is a Right of Action against a person for a sum of money.
+  - AN INSTRUMENT OF CREDIT is the written evidence of a Debt (See Chap. VII.).
+  - DEBT is, properly speaking, the Duty to pay a sum of money to another
+    person; but it is also often used in the sense of a right to demand a sum.
+  - CURRENCY is a name applied to Money and Instruments of Credit, because the
+    Property in them passes by delivery.
+  - EXCHANGE is where Economic Quantities of a like nature are interchanged, as
+    goods for goods, when it is often called Barter: or currency for currency.
+  - SALE, or CIRCULATION, is an exchange of any Economic Quantity for Currency.
+  - CIRCULATING MEDIUM is the medium by which circulation, or sales, are
+    effected — i.e., where goods are exchanged for currency: it includes Money
+    and Credit.
+  - PRICE is the quantity of Money, or Credit, given for any Economic Quantity.
+  - INTEREST is the sum paid for the use of a sum of money at the end of the
+    agreed on period.
+  - RATE OF INTEREST is the sum paid for the use of a sum of money for a given
+    period.
+  - PROFIT is the excess of the price realized above the cost of any Economic
+    Quantity offered for sale.
+  - RATE OF PROFIT is the above excess made in a given time.
+  - DISCOUNT is the difference between the Present Value of a Debt and its
+    amount.
+  - RATE OF DISCOUNT is the above difference with regard to a certain time.
+  - A SECURITY FOR MONEY is the Right to demand a sum of money from a certain
+    person.
+  - A CONVERTIBLE SECURITY is any property which may be readily sold.
+  - CAPITAL is any Economic Quantity used for the purpose of Profit.
+      - FIXED CAPITAL is that which remains in the possession of the owner while
+        being used, and whose value is replaced by instalments in the price of
+        the products.
+      - FLOATING CAPITAL is that which he parts with, and whose value is
+        restored to him in one operation, in the price of the product.
+  - PRODUCE; PRODUCER; PRODUCTION.
+      - To PRODUCE is to offer any Economic Quantity for sale or exchange.
+      - The PRODUCER is the seller.
+      - PRODUCTION is the offering any Economic Quantity for sale or exchange.
+  - CONSUME; CONSUMER; CONSUMPTION.
+      - To CONSUME is to purchase any Economic Quantity.
+      - The CONSUMER is the buyer, or customer.
+      - CONSUMPTION — The purchase of any Economic Quantity.
+  - SUPPLY is the amount of any Economic Quantity offered for sale or exchange.
+  - DEMAND is the Desire and the Power to purchase any Economic Quantity.
+  - PRODUCTIVE LABOUR is Labour which produces a Profit, or draws forth
+    something in exchange for it.
+  - UNPRODUCTIVE LABOUR is Labour which produces no profit, or an inadequate
+    profit.
+
+CHAPTER V. THE THEORY OF VALUE.
+
+PRELIMINARY REMARKS.
+
+  - Section I. Definition of Value — Error of the Expression Intrinsic Value —
+    Depreciation and Diminution in Value — Impossibility of a Standard of Value.
+  - Section II. On the Origin, Source, or Cause of Value.
+  - Section III. To investigate a General Law of Value; or the General Equation
+    of Economics.
+
+We have seen in the preceding chapter that writers in ancient times and all the
+principal Economists since Adam Smith have recognized the fact that there are
+three distinct species of Exchangeable Quantities, proceeding from three
+different sources, the Earth, the Human Mind, and the Human Will. It is also a
+matter of positive knowledge that there are no more than these three species:
+consequently, having applied the principles of Inductive Logic as laid down by
+Bacon, to generalize our fundamental Conceptions, so as to grasp all these three
+species, we are sure that our Conceptions cannot be overthrown or modified,
+because it is not possible that there should be any Economic Quantity which is
+not of the form of Money, Labour, or Credit.
+
+The Physiocrates, who only admitted the material products of the earth to be
+wealth, said that all Products were ultimately exchanged against Products; a
+formula which was very incautiously adopted by J. B. Say. Beccaria, who would
+have attained a very high repute as an Economist if his lectures delivered
+in 1769 had not been suppressed until 1804, says:— "In every age there has been
+an exchange of products for products reciprocally superfluous and necessary, of
+services for products, and of services for services." Thus Beccaria only treated
+of two species of Exchangeable Quantities, and of three kinds of exchange.
+
+
+But we have shewn that there are three species of
+Exchangeable Quantities and Six different kinds of Exchange, which constitute
+the domain of the pure science of Economics, or Political Economy in its most
+modern definition. We have defined the Value of any Economic Quantity to be any
+other Economic Quantity for which it can be exchanged. Hence to investigate the
+Theory of Value is to investigate the laws which govern the relations of
+Exchangeable or Economic Quantities.
+
+The complete Theory of Value comprises the following: —
+
+1.  The Definition of Value.
+
+2.  The Origin, Source, or Cause of Value.
+
+3.  The General Law of Value: or the General Equation of Economics.
+
+On each of these points there has been the most extraordinary conflict of
+opinion among writers. We shall, therefore, have to investigate each branch of
+the subject separately, as we have already done the general conceptions of the
+science. We shall have to generalize each of these branches by ascertaining and
+eliminating the accidental and intrusive ideas, so as to include the three
+different species of quantities; and we shall then have to investigate a general
+Law of Value, or a General Equation of Economics which must be applicable to all
+the six species of exchange, equally and indifferently: by the same Baconian
+Laws of Inductive Logic which have been held universally supreme in all other
+Physical Sciences.
+
+280 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+Section I.
+
+Definition of Value — Error of the Expression In- trinsic Value — Depreciation
+and Diminution of Value — Impossibility of a Standard of Value.
+
+1.  "As Value," says Whately,¹ "is the only relation with which Political
+    Economy is conversant, we might expect all Economists to be agreed as to its
+    meaning. There is no subject as to which they are less agreed."
+
+Every one who has read much of Economical writers must recognize the truth of
+the assertion; hence we must establish the true and original meaning of Value,
+and afterwards shew the confusion which has been introduced into the subject.
+
+Value originally means esteem, or estimation, as we speak of a highly valued
+friend. But such value is not an Economic phenomenon; to be so it must be
+manifested in some tangible form.
+
+We have seen in the preceding chapter, § 19, that Aristotle says that Value,
+ἀξία, is a relation to external goods.
+
+Now ἀξία is derived from ἄγω, one of whose meanings is to weigh, or be of the
+weight of; so Demosthenes, speaking of some golden goblets, says:² — ἄγουσα
+ἑκάστη μνᾶν — each one weighing a mina. And again, speaking of the sword of
+Mardonius, he says:³ — ὃς ἦγε τριακοσίους δαρεικούς — which weighed three
+hundred darics. Hence ἀξία meant equality, weight for weight.
+
+So Homer, Iliad xxiii., 885, says —
+
+κὰδ δὲ λέβητ' ἄπυρον, βοὸς ἄξιον, ἀνθεμόεντα θῆκ' ἐς ἀγῶνα φέρων.
+
+And he offered too, as a prize, a new caldron ornamented with flowers, worth an
+ox.
+
+Herodotus, iv., 196, describes a curious way in which the Carthaginians traded
+with the Moors. They brought out their merchandize and placed it on the beach,
+and lit a fire and got on board their ships. The natives seeing the smoke came
+down to the beach and placed a quantity of gold near the merchan-
+
+¹ Appendix to Logic, Ambiguous Terms. ² Androtion, 617, 21. ³ Against
+Timocrates, 741, 7.
+
+§ 1.] DEFINITION OF VALUE. 281
+
+dize, and then retired to a distance. The Carthaginians then disembarked and
+came to see it. If the gold seemed to them of the value (ἄξιος) of the
+merchandize, they took it in exchange and went away. But if it was not
+sufficient in value they went on board their ships again. The natives then came
+back and added some more gold to their heap until they were satisfied. And
+neither party cheated the other. For neither did the Carthaginians touch the
+gold till they thought it equal in value (ἀντάξιον τῇ ἀξίᾳ) to the merchandize,
+neither did the natives touch the merchandize until the Carthaginians took away
+the gold.
+
+So we have seen that in Roman Law it was said that a thing was of the value of
+what it would sell for. Thus anciently the value of a thing was always something
+external to itself, something it was equal to, bulk for bulk, and no ancient
+writer who had clear ideas would ever have thought of speaking of Intrinsic, or
+Internal, Value.
+
+So the Physiocrates considered Value to be a new quality which products acquired
+when men lived in society — Products acquire then in the social state, which
+arises from the commu- nication of men among each other, a new quality. This
+quality is Value, which makes products become Wealth, and there is properly
+speaking no superfluity, because the excess becomes the means of obtaining what
+is wanted.
+
+"Value consists in the relation of exchange which takes place between such and
+such a product; between such a quantity of one product and such a quantity of
+another.
+
+"Price is the expression of value: it is not separate in exchange; each thing
+is reciprocally the price of the merchandize: in a sale, the price is in
+money."¹
+
+And this is the true idea of value. Thus, let A and B be any two Economic
+Quantities which are exchanged at any moment, then we may say: —
+
+A valet B or, A is of the value of B or, A = B.
+
+Then B is the value of A in terms of B, and A is the value of B in terms of A.
+
+¹ Le Trosne: De la Valeur, I., § 4.
+
+282 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+Hence it is clear that value is a Ratio, or an Equation. It is like distance. It
+necessarily requires two objects. The value of a thing is always something
+external to itself. It is absolutely impossible to predicate that any quantity
+has value, without at the same time implying that it can be exchanged for
+something; and, of course, everything it can be exchanged for is its Value in
+that commodity. It is impossible to say that any quantity has value, without at
+the same time stating Value in what — whether bread, or shoes, or cloth, or
+money, or anything. So it is impossible to say that any town has distance,
+unless we state the place it is distant from. We can no more say that a quantity
+is worth, than we can say that London is distant. And as any place is of
+different distances from other places, so any quantity has as many Values as
+other quantities it will exchange for.
+
+Now, suppose B as above is ten guineas: then A may be either of the three
+species of exchangeable quantities. It may be a material product like a watch:
+or it may be an immaterial product, such as so much instruction in science or
+literature, or it may be so much amusement — as so much acting, or any other
+service: or it may be an incorporeal product — as a Debt, under the form of a
+Bank Note, or a Bill of Exchange; or so much Public Stock, or any other species
+of incorporeal property. Each of these species of property is of the value of
+ten guineas: and therefore it manifestly follows that each of them must be equal
+to each other: for things which are equal to the same thing are equal to one
+another.
+
+But B may be either of the three species of exchangeable quantities as well as
+A. Therefore any Economic Quantity may have Value in terms of any of the others.
+
+It is from failing to keep a firm, clear, and distinct grasp of the fundamental
+conception that the Value of an Economic Quantity must be some other quantity
+for which it can be exchanged, that so much confusion has been created in the
+subjects of Wealth, Value, Productive Labour, and Economics generally. Aristotle
+says that Wealth is anything whose value may be measured in money, and from this
+wide and general definition the author of the Eryxias irrefragably proved that
+if a person can gain a living by giving instruction in science, etc., then that
+instruction is wealth, just for the very same reason that gold and silver are so
+— because they can purchase the necessaries
+
+§ 1.] DEFINITION OF VALUE. 283
+
+of life. So the Roman Lawyers, who also made the principle of wealth to reside
+solely in exchangeability, classed Rights under the title of wealth, because
+naked abstract rights may be bought and sold like anything else.
+
+The value of the goods in the merchants' and traders' warehouses, is the money
+in the pockets of their customers. The value of the money in the pockets of the
+public is the various products and services it can purchase. The value of a
+Professor's lectures is the fees paid to him by his students. The Value of the
+Lawyer's, Physician's, Surgeon's talents is the income he can earn. Hence
+Malthus's reason for excluding immaterial products from Economics, because they
+cannot be catalogued and valued, besides being quite irrelevant to the science
+of Economics, is at once overthrown, because we have only to enumerate all the
+Lawyers, Physicians, Surgeons, Civil Engineers, Architects, and men of all sorts
+who exercise a profession, and ascertain their income, and the value of their
+labour is as easily catalogued and determined as that of any material products.
+
+The Value of an Incorporeal Right, or Promise, is the thing which may be
+demanded or promised.
+
+The Value of a £5 note is five sovereigns. The Value of a Postage Stamp is the
+carriage of a letter. The Value of a Promise, or Pledge, to cut a man's hair is
+the cutting of the hair. The Value of a Railway Ticket is the journey. The Value
+of an order to see the Zoological Gardens is being admitted to see them. The
+Value of an admission to the play is seeing the play.
+
+Suppose the price of getting one's hair cut is a shilling; suppose I want my
+hair cut: what difference does it make to me whether I have a shilling in my
+pocket, or the pledge of the hairdresser to cut it? Is it not clear that in this
+case the shilling and the promise are of exactly the same value to me?
+
+Suppose I want a loaf of bread which costs a shilling: what difference does it
+make to me whether I have a shilling in my pocket, or a Promise from a baker to
+give me the bread? Are not the shilling and the Promise of exactly the same
+value to me in this case?
+
+Suppose I want to see the Zoo: what difference does it make to me whether I have
+a shilling in my pocket, or an order for admission? Are not the shilling and the
+order of exactly the same Value to me in this case?
+
+284 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+In short, suppose I want any product or service at all, what difference does it
+make to me whether I have the money in my pocket to purchase it, or a Promise
+from some one to render me the product or the service? Are not the money and the
+promise of exactly the same Value to me in each separate case?
+
+Each separate tradesman only, of course, promises to render some particular
+product; and as this product is not demandable from any one but the person who
+has given the pledge, it has, of course, particular Value.
+
+Now what is Money? It is nothing but the generalized Right, or Power, to demand
+whichever of these products or services we may require at any time. Is it not
+clear, therefore, that money is a General Right, while each of these Pledges is
+a Particular Right?
+
+Is it not clear, therefore, that each of these separate Rights is of the same
+nature as money, only inferior in degree? And that they are Economic Quantities,
+or Wealth, for the very same reason that money is? And that money is nothing but
+a stored up or accumulated general power or Right of demanding all products and
+services? Is it not clear, that if a man had his pocket full of promises or
+pledges by solvent persons to render him all the products and services he
+wanted, he would be just as wealthy as if he had so much money? Hence we see the
+perfect justice of the Roman Law — "Under the title of Wealth, or Money, Rights
+are included."
+
+These Rights, then, being clearly shewn to have Value, and be Wealth, like any
+material products, they may be bought, sold, and exchanged like any material
+products. A Right to demand a loaf of bread may be exchanged against a Right to
+have one's hair cut. One of the Ionian oil bills mentioned before may be
+exchanged for a pledge, or promise to pay so much tea, or any other product.
+
+So a Right to demand a sum of money to be paid three months hence, may be
+exchanged against a Right to demand money at once. And all these Rights are
+Economic Quantities, or Wealth, as much as any material products. They are the
+most colossal species of property in this country, and the subject of the most
+gigantic commerce, whose mechanism is fully exhibited in the next chapter but
+one.
+
+¹ Ante, Ch. IV., § 20.
+
+§ 1.] DEFINITION OF VALUE. 285
+
+As Value is the Ratio in which two Economic Quantities A and B will exchange, it
+is clear that the Value of A in terms of B increases or decreases according to
+the greater or less quantity of B that A can purchase: and the value of B in
+terms of A increases or decreases according to the greater or less quantity of A
+that B can purchase. It is also clear that if from any cause whatever the Value,
+or the Ratio, between these quantities has changed, the value of both must have
+changed. It is manifestly as absurd to say that the value of one quantity has
+changed, while that of the other has remained the same, as it would be to say
+that a railway train had increased its distance from the station; while the
+station remained at the same distance from the train. Moreover it would be as
+absurd to speak of a quantity changing its own value, or keeping its own value
+fixed, without stating the article with respect to which its value had changed,
+or remained fixed, as it would be to say that an object had changed or preserved
+its own distance, or its own ratio, without saying distance from what, or ratio
+to what.
+
+Hence it is quite clear that nothing can have fixed or invariable value unless
+everything else is fixed and invariable in value as well, because though the
+value of a quantity may remain the same with regard to any number of things, yet
+if its value has changed with respect to any other things whatever, the value of
+that thing has changed.
+
+And as the value of anything is solely anything else it can be exchanged for, it
+is manifest that if it can be exchanged for nothing, it has no value. No matter
+what qualities it may possess, if no one else wants it, and will give nothing
+for it, it has no more value for its owner than if he were in the centre of the
+Desert of Sahara. Many persons have almost a difficulty in believing that money
+can have no value; but Smith himself says, that if a guinea could not be
+exchanged for anything it would be of no more value than a bill upon a bankrupt.
+So Say says¹ things can only be valued by an exchange. This is strictly in
+accordance with the doctrine of all ancient writers and of the Physiocrates.
+
+All this is simple enough, and is only the necessary consequence of value being
+a ratio and requiring two objects. But while
+
+
+286 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+Economists admit that the value of a thing is something external to itself, they
+scarcely ever adhere to that conception, and its necessary consequences, but
+they constantly consider value to be some absolute inherent quality,
+appertaining to the thing itself, without apparently the least idea that these
+are two different conceptions, and the whole subject has been thrown into
+inconceivable confusion by their sometimes treating value as a Quality and
+sometimes as a Ratio.
+
+There is only one further thing that need be noticed here: Value is the ratio in
+which any Economic Quantity will exchange with any other Quantity; Price is the
+value of a Quantity in Money or Credit only. Now if Money or Credit be
+excessively abundant, the prices of all other things will rise, but they will
+still preserve their relative values among themselves. For if a loaf of bread
+and a pound of meat each cost sixpence, and if, in consequence of an excessive
+abundance of money or credit, they each rise to a shilling, the pound of meat is
+still of the value of a loaf of bread. Hence there may be a general rise, or a
+general fall, of prices.
+
+But there can be no such thing as a general rise, or a general fall, of values.
+Everything can no more rise or fall with respect to everything else than, as Mr.
+Mill says, a dozen runners can each outrun all the rest, or a hundred trees can
+all overtop one another; or than, every donkey can come in last in a donkey
+race. To suppose that all things could rise relatively to each other would be to
+realize Pat’s idea of society, where every man is as good as his neighbour, and
+a great deal better too.
+
+On the Error of the Expression Intrinsic Value.
+
+2.  We have now to call attention to a phrase which has been the cause of an
+    enormous amount of confusion in Economics. Say very justly remarks on the
+    difficulty of divesting the mind of the influence of common language in this
+    subject. Nothing has been more mischievous than the influence of the phrase
+    we are going to notice, and to exterminate it is the first step in the
+    improvement of the science — especially for the due comprehension of the
+    subject of Credit.
+
+§ 1.] ERROR OF INTRINSIC VALUE. 287
+
+All ancient writers kept their minds clearly fixed on the thing
+which anything could be exchanged for as its value, or something external to
+itself, and we have not found in them any trace of such a confusion of ideas as
+the expression Intrinsic Value. But their writings on the subject seem to have
+been totally forgotten. In modern times when men began to consider the subject
+of wealth, gold and silver were long held to be the only species of wealth,
+because they outlasted everything else, which wasted away or was destroyed,
+while they remained. When men began to see the absurdity of holding specie to be
+the only wealth, they looked to some quality of the thing itself, as
+constituting a thing wealth, and then they began to speak of Intrinsic Value. We
+have not been able to discover where or when this expression arose; but so long
+ago as 1696 an able writer, Barbon, pointed out the confusion which had arisen
+from mistaking the absolute qualities of a thing for the thing it would exchange
+for. He says:¹ — "There is nothing that troubles this controversy more than for
+want of distinguishing between value and virtue.
+
+"Value is only the price of things; that can never be certain, because it must
+be there at all times, and in all places, of the same value; therefore nothing
+can have an Intrinsic Value.
+
+"But things have an intrinsic virtue in themselves, which in all places have the
+same virtue: as the loadstone to attract iron, and the several qualities that
+belong to herbs and drugs, some purgative, some diuretical, etc. But these
+things, though they may have great virtue, may be of small value, or no price,
+according to the place where they are plenty or scarce, as the red nettle,
+though it be of excellent virtue to stop bleeding, yet here it is a weed of no
+value from its plenty. And so are spices and drugs in their own native soil of
+no value, but as common shrubs and weeds, but with us of great value, and yet in
+both places of the same excellent intrinsic virtue."
+
+Again — "For things have no value in themselves; it is opinion and fashion
+brings them into use and gives them a value."
+
+Barbon thus puts his finger on the very thing which is the curse and the bane of
+Economics to this very day, the expression "Intrinsic Value," which is
+confounding an intrinsic quality
+
+¹ A Discourse Concerning Coining the New Money Lighter, in Answer to Mr. Locke's
+Considerations about raising the Value of Money.
+
+288 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+with an eternal relation. It is this very phrase which in recent times has done
+so much to obscure and confuse the Theory of Credit.
+
+The most distinguished writer who, before the Physiocrates, wrote against the
+Mercantile System, was Boisguillebert, the morning star of modern Economic
+Science. In his various writings, Le Détail de la France, published in 1697, the
+Factum de la France, 1707, and others, he advocates all those doctrines which
+Turgot was only able to carry out three-quarters of a century later.
+Boisguillebert says:¹ — "Wealth from the beginning of the world, by the
+destination of nature, and the order of the Creator, is nothing else than an
+ample enjoyment of the wants of life: as they are simply reduced to food and
+clothing necessary to defend men from the rigours of the climate, it almost all
+consists in two kinds of occupation, namely ploughing the earth and pasturage."
+And again, showing the absurdity of considering gold and silver as wealth, when
+they could not be exchanged for the necessaries of life, such as food and
+clothing, he says² that these are the only things which should be considered as
+wealth.
+
+And after this time the usual definition of wealth among writers who rebelled
+against the Mercantile System was the "annual produce of land and labour." Thus
+Cantillon says:³ — "The earth is the source or matter from whence all riches are
+produced: the maintenance, convenience, and superfluities of life are, properly
+speaking, riches, labour the first, and industry the second, means of obtaining
+them." So Turgot, Verri, Beccaria, and, indeed, all Economists at that time make
+wealth to consist of the necessary, useful, and agreeable things obtained from
+the earth by labour. This definition, which looked to things as being wealth
+from their useful qualities, naturally led writers to speak of Intrinsic Value.
+The principle of exchangeability was also included by these writers as
+appertaining to wealth, but only as a secondary and subordinate one, not as the
+sole and exclusive one, as it was by ancient writers.
+
+Economists then confined their attention solely to things of value, the produce
+of labour, quite oblivious of the fact that
+
+¹ Le Détail de la France, ch. iv. ² Dissertation sur la nature des richesses,
+Considérations générales. ³ Analysis of Trade, p. 1.
+
+§ 2.] ERROR OF INTRINSIC VALUE. 289
+
+there are multitudes of things of value which are not the result of labour at
+all. Then they began to consider that things would exchange in proportion to the
+labour employed in producing them. Thus the value of a thing was considered to
+depend on the quantity of labour employed to produce it. Thus the quantity of
+labour embodied as it were in the thing came to be counted as its value, and
+value thus came to be called Intrinsic, and many of the most eminent Economists
+consider value to be some inherent quality of a thing conferred by labour. This
+unhappy phrase, Intrinsic Value, meets us at every turn in Economics, and yet
+the slightest reflection will shew that to define Value to be something
+External, and then to be constantly speaking of Intrinsic Value, are utterly
+self-contradictory and inconsistent ideas.
+
+Thus over and over again it is repeated in Economical works that money has
+Intrinsic Value, but that a bank note, or bill of exchange, is only the
+representative of value.
+
+Money no doubt is the produce of labour, but as Smith observes, if it would
+exchange for nothing it would have no value. So that after all, Smith comes to
+exchangeability as the principle of value. So also Say says that the value of
+money only consists in the things it will buy. How then can its value be
+Intrinsic? How can anything have Value, unless it has the things it will
+exchange for inside itself? Money has Intrinsic Value! Has a piece of money got
+the merchandize, and all the other things it will purchase inside itself? Money
+will exchange for anything — corn, houses, horses, carriages, books, etc., and
+each of these is the Value of the money with respect to that commodity. But
+which of these is its Intrinsic Value?
+
+It is quite clear that money has not Intrinsic, but General, Value, because it
+is generally exchangeable throughout the country. But place it among a race of
+savages and where would its value be?
+
+Persons throughout a country will always be ready to give things in exchange for
+the money of the country, hence money has General Permanent Value, but
+manifestly not Intrinsic Value.
+
+All Economists admit that a bank note payable on demand is of the value of
+money. And why is it so? Simply because
+
+290 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+it is exchangeable for money. A bill of exchange on a solvent merchant has
+value, simply because at a certain time it will be exchanged for money. Hence it
+is clear that bank notes and bills of exchange have value for precisely the same
+reason that money has, and no other, viz., that they are exchangeable for
+something else. When money can be exchanged it has value; when it cannot be
+exchanged it has no value: when a bill, or note, can be exchanged it has value;
+when it cannot be exchanged it has no value.
+
+Hence we see that the Value of Money and Credit of all kinds is essentially of
+the same nature, though there may be different degrees of it. A piece of credit
+is an article of merchandize and an exchangeable commodity just as much as money
+or any other goods.
+
+The expression Intrinsic Value is so common that persons are apt to overlook its
+incongruity of idea; but if we use words of similar import whose use has not
+been so corrupted, the absurdity will be at once apparent. Thus who ever heard
+of an Intrinsic Distance, or an Intrinsic Ratio? The absurdity of these phrases
+is apparent at once; but they are not more absurd than Intrinsic Value. To say
+that money because it is material, and the produce of land and labour, has
+Intrinsic Value, and that a Bill or Note is only the representative of value, is
+as absurd as to say that a wooden yard measure is intrinsic distance, and the
+space between two points one yard apart, is the representative of distance.
+
+The extraordinary inconsistencies into which Smith and Ricardo have fallen are
+more fully exhibited in the next section but one, on a Standard of Value, but we
+will give here an example of the confusion of idea into which able writers are
+betrayed. Senior says:¹ — "We have already stated that we use the word Value in
+its popular acceptation, as signifying that quality in anything which fits it to
+be given and received in exchange, or in other words to be lent or sold, hired
+or purchased.
+
+"So defined, Value denotes a relation reciprocally existing between two
+objects!"
+
+Now the quality of a melon which fits it to be sold is its agreeable flavour;
+its flavour is, according to Senior, its value;
+
+¹ Political Economy, p. 13.
+
+§ 1.] ALTERATION IN VALUE. 291
+
+and so defined, he says, it means it costs 3s.! That is, he defines the quality
+of a thing to be its price!
+
+But Economics has nothing to do with the useful or agreeable qualities of
+things, but only with their external relations to other things. The sole quality
+of things which an Economist, qua Economist, is to investigate is their
+exchangeability; and it must always be remembered that Economics is a pure
+science of Ratios.
+
+On the distinction between Depreciation and Diminution in Value.
+
+3.  We must now observe the difference between two expressions, which, though
+    often used indiscriminately, are essentially distinct, viz., Diminution in
+    Value and Depreciation. An alteration in value of any commodity means that
+    the quantity of it which was considered as an equivalent for a certain
+    amount of some other commodity with which it is compared, has undergone a
+    change. Depreciation means that it is not really of the value it professes
+    to be. Alteration in value of a commodity is always used in reference to
+    some other commodity with which it is compared; Depreciation, in reference
+    to itself. Thus, if at any given time an ounce of gold will exchange for
+    fifteen ounces of silver, and owing to any great and sudden increase of the
+    quantity of silver, while the quantity of gold remains the same, one ounce
+    of gold becomes able to purchase twenty ounces of silver, then silver is
+    said to have sustained a Diminution of Value with respect to gold; or if,
+    while silver remained the same, gold became very scarce, so that one ounce
+    of gold would purchase twenty ounces of silver, then gold would be said to
+    have risen in value with respect to silver. But if a bank note, which
+    professes to be of the value of five sovereigns, will only purchase four
+    sovereigns, it is depreciated; or if a guinea, which professes to contain a
+    certain amount of fixed weight of pure gold, does not contain that amount,
+    it is depreciated. The expression Diminution in Value is applicable both to
+    commodities and money; the word Depreciation is more properly restricted to
+    currency; when an analogous change takes place in commodities, it is usually
+    called deterioration.
+
+R 2
+
+292 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+These distinctions are very necessary to be observed in all discussions
+regarding the value of coins which retain the same names during a long series of
+ages. The pound of money in the days of William the Conqueror really meant a
+pound weight of silver bullion; and silver was the only money. Since then silver
+has greatly increased in quantity, and other things are used as money, which
+have tended very greatly to diminish its value. It is said, though of course all
+such statements are extremely difficult to verify, that silver has fallen to a
+twelfth of its value in those times. Not only has the value of the metal greatly
+diminished, but the coinage is greatly deteriorated. By various diminutions
+effected by successive sovereigns, the shilling now is only the 66th part of a
+pound weight, whereas it was formerly the 20th part. Hence it is said that a
+shilling will only command the 66th part of what it formerly would. Though, as
+great changes have taken place in everything else as well, it would be difficult
+to prove this.
+
+These causes affecting the value of coins which retain their names through long
+periods, may act in the same, or opposite, directions. It is quite easy to
+imagine that a coin, though greatly deteriorated, or diminished from its
+original weight, may, in consequence of the increased value of the material of
+which it is composed, be able to purchase as much as it would have done
+originally. It is alleged sometimes that this happened at Rome. The first
+coinage of Rome was copper, and this metal was found in great abundance for some
+time after the foundation of the city. The first measure of value was the as
+which was a pound weight of copper. The as was subsequently reduced to the
+twelfth part of its weight, and some writers say, that in consequence of the
+great scarcity of the metal, it had increased so much in value, that the
+deteriorated coinage would purchase as much as the full pound would originally.
+This may be so, or not, but it in no way affects the argument. It might, very
+possibly have been so.
+
+
+These considerations greatly affect the public in the matter of public debts.
+The State agrees at a particular time to pay a fixed quantity of bullion, either
+for ever, or for a long period, to the public creditors. Now, even supposing all
+other things to remain the same, the value of the money may vary very greatly
+during long periods, either from the increased scarcity, or the increased
+abundance, of the metal; and either the State or the creditors may be grievously
+affected by these changes.
+
+In recent times, many able Economists have expected that the value of gold would
+be violently affected by the great discoveries in California and Australia. Some
+countries have taken such alarm at this as to abolish gold as the legal measure
+of value, and some writers have proposed that the weight of the sovereign should
+be increased in consequence. Even if the consequences expected did follow, which
+is extremely doubtful, it is not very likely that this would be done. However,
+this is not the place to discuss this important question.
+
+A Standard of Value is impossible.
+
+4.  The unfortunate confusion of ideas between the Value of a quantity being any
+    other quantity a thing will exchange for, and the quantity of labour
+    embodied in obtaining the quantity itself, has led not only to the
+    mischievous expression, Intrinsic Value, the source of endless confusion,
+    but also to the search for something which reflection would have shewn to be
+    impossible, viz., an Invariable Standard of Value.
+
+The great difficulty in dealing with Economical writers and their opinions is,
+that to collect their opinions, it is often necessary to place before the
+reader long passages, and to examine closely the structure of nearly every
+sentence, to mark the changes and inconsistencies of thought which take place.
+This is insufferably wearisome to the reader, and therefore we must refer to the
+chapter in Smith on the subject, for a full consideration of his views. It is
+B. I., c. v. But we must shortly state his doctrine.
+
+The first doctrine he lays down is that the value of any commodity is equal to
+the quantity of labour which it enables him to command or purchase. Hence, if l
+denote labour,
+
+A = l, 2l, 3l, 4l . . . .
+
+He then says, in the next paragraph, that that is the same thing as saying that
+it is equal to the produce of labour it enables him to purchase; or, denoting
+produce by p,
+
+A = p, 2p, 3p, 4p . . . .
+
+And then in the next paragraph he says that the value of any
+
+294 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+thing is more frequently estimated in money than either in labour or
+commodities; or, denoting money by m,
+
+A = m, 2m, 3m, 4m . . . .
+
+Now, although it has justly been pointed out that these modes of estimating the
+value of a quantity are by no means identical, we observe that in this passage,
+Smith defines the value of a thing to be something external to itself — it is
+the thing which any thing can be exchanged for. Hence it is manifest that the
+value of A must vary directly as l, p, or m. The more l, p, or m that can be got
+for A, the more valuable is A; the less of l, p, or m that can be got for A, the
+less valuable is A. It is also perfectly clear, that if any change whatever
+takes place in the exchangeable relations between A and these quantities, the
+value of A has changed.
+
+Hence Smith admits that Value, like distance, requires two objects. If any
+change takes place in the position of either of these, the distance between them
+has changed, no matter in which the change takes place. So if the exchangeable
+relation between two quantities changes, their Value has changed, no matter in
+which the change takes place. Hence it is clear that there can be no such thing
+as invariable value. Nothing whatever can by any possibility have an invariable
+value, unless its exchangeable relation with everything else is fixed. Hence we
+can at once see that, by the very nature of things, there can be no such thing
+as an invariable standard of value, by which to measure the variations in value
+of other things, because, by the very nature of things, the very condition of
+anything being invariable in value is that nothing else shall vary in value;
+and consequently the very condition of there being an invariable standard is,
+that there shall be no variations to measure.
+
+Nevertheless a very large body of Economists have set out upon this wild goose
+chase — this search for an invariable standard, which it is utterly contrary to
+the nature of things should exist at all. Directly after the passages we have
+referred to, Smith commences the search for that single thing which is to be
+the invariable standard of value. He says that gold and silver will not do
+because they vary in their value, — sometimes they can purchase more and
+sometimes less of labour and other commodities. Then he says: —
+
+§ 4.] A STANDARD OF VALUE IMPOSSIBLE. 295
+
+"But as a measure of quantity, such as the natural foot, fathom, or handful,
+which is continually varying in its own quantity, can never be an accurate
+measure of the quantity of other things, so a commodity, which is itself
+continually varying in its own value, can never be an accurate measure of the
+value of other commodities. Equal quantities of labour, at all times and places,
+may be said to be of equal value to the labourer. In his ordinary state of
+health, strength, and spirits, in the ordinary degree of his skill and
+dexterity, he must always lay down the same portion of his ease, his liberty,
+and his happiness. The price which he pays must always be the same, whatever may
+be the quantity of goods which he receives in return for it. Of these, indeed,
+it may sometimes purchase a greater and sometimes a smaller quantity, but it is
+their value which varies, not that of the labour which purchases them. At all
+times and places, that is dear which it is difficult to come at, or which it
+costs much labour to acquire, and that cheap which is to be had easily, or with
+very little labour. Labour alone, therefore, never varying in its own value, is
+alone the ultimate and real standard by which the value of all commodities can,
+at all times and places, be estimated and compared. It is their real price;
+money is their nominal price only.
+
+"But though equal quantities of labour are always of equal value to the
+labourer, yet to the person who employs him they appear sometimes to be of
+greater, and sometimes of smaller value."
+
+"Labour, therefore, it appears evidently, is the only universal, as well as the
+only accurate measure of value, or the only standard by which we can compare the
+value of different commodities at all times and at all places."
+
+Now the utter confusion of ideas in those passages is manifest. A foot, or a
+fathom, is an absolute quantity, and of course may increase or decrease by
+itself; but Value, by Smith's own definition, is a ratio, and therefore we
+might just as well say that, because a foot which is varying its own length
+cannot be an accurate measure of the length of other things, therefore a
+quantity which is always varying its own ratio cannot be an accurate measure of
+the ratio of other things. The utter confusion of ideas as to the whole nature
+of the thing is manifest. We may measure a tree with a yard, because they are
+each of
+
+296 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+them single quantities, but it is an impossibility that a single quantity can
+measure a ratio. It is a manifest impossibility to say
+
+a : b :: x
+
+It is manifestly absurd to say 4 is to 5, as 8, without saying, as 8 is to what;
+just as it is absurd to say that a horse gallops at the rate of 20 miles,
+without saying in what time.
+
+But Smith tells us that "equal quantities of labour are always of equal value to
+the labourer." What! if a man performs a certain quantity of labour, and gets
+£1,000 for it, is his labour of the same value to him as if he gets five
+shillings?
+
+The incongruity of ideas in this chapter of Smith is palpable. He first of all
+defines the Value of A to be the quantity of things it will purchase, and
+therefore, of course, varying directly as that quantity, and then he suddenly
+changes the conception of Value into the quantity of labour bestowed in
+producing A; and says that the Value of A is invariable, so long as it is
+produced by the same quantity of labour; and that its Value is the same whatever
+quantity of things it will purchase!
+
+The term Value has been used with such diversity and inconsistency of meaning
+by writers, that it will aid much in shewing the confusion that runs through the
+whole of Smith's ideas to translate them into mechanical language, thus: —
+
+"As a measure of quantity, such as a foot, which is always varying its own
+length, can never be an accurate measure of the length of other things, so an
+object which is always varying its own distance can never be an accurate measure
+of the distance of other objects. But the sun is always at the same distance.
+And though the earth is sometimes nearer to the sun, and sometimes farther off
+from it, the sun is always at the same distance. And though the earth is at
+different distances from the sun, it is the distance of the earth which has
+varied, and not that of the sun; and the sun alone, never varying its own
+distance, is the ultimate and real standard by which the distances of all things
+can at all times and places be estimated and compared."
+
+Such is a fair translation into mechanical language, merely substituting
+"distance" for "value," of Smith’s ideas. No wonder, says Francis Horner,* "we
+have been under the necessity of suspending our progress in the perusal of the
+Wealth of Nations, on account of the insurmountable difficulties, obscurity,
+
+§ 4.] A STANDARD OF VALUE IMPOSSIBLE. 297
+
+and embarrassment in which the reasonings of the fifth chapter are involved."
+
+But after saying, in the last-mentioned passages, that a thing produced by the
+same quantity of labour is always of the same value, no matter what it may
+exchange for, he says, speaking of money, in the passage we have already quoted,
+if it could be exchanged for nothing, it would be of no more value than the most
+useless piece of paper. So that, after beginning with exchangeability, and
+then adopting quantity of labour, he comes back again to exchangeability as the
+measure of Value, quite unconscious that these are different conceptions. And
+this confusion of idea runs through the whole of Smith’s work: one half of it
+is based upon labour being the foundation of value, and the other half upon
+exchangeability.
+
+Exactly the same confusion runs through the whole of Ricardo. He begins by
+saying:¹ — "The value of a commodity, or the quantity of any other commodity for
+which it will exchange, depends on the relative quantity of labour which is
+necessary for its production."
+
+So again: — "In the early stages of society, the exchangeable value of these
+commodities, or the rule which determines how much of one shall be given in
+exchange for another."
+
+A little further on³ he calls the quantity of labour bestowed on a commodity,
+"under many circumstances an invariable standard, indicating correctly the
+variations of other things."
+
+Again he says:⁴ — "the stockings would inevitably fall in value, and
+consequently command less of other things. They would fall because a less
+quantity of labour was necessary to their production, and would therefore
+exchange for a smaller quantity of these things."
+
+Ricardo then starts on the search of the Invariable Standard of Value, which
+should itself be subject to none of the fluctuations to which other commodities
+are exposed. He says that it is impossible to be possessed of such a measure,
+because there is no commodity which is not subject to require more or less
+labour for its production.
+
+Afterwards he says:⁵ — "If equal quantities of labour, with equal quantities of
+fixed capital, could at all times obtain, from
+
+298 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+that mine which paid no rent, equal quantities of gold, gold would be as nearly
+an invariable measure of value, as we could in the nature of things possess. The
+quantity would indeed enlarge with the demand, but its value would be
+invariable, and it would be eminently well calculated to measure the varying
+value of all other things."
+
+In a subsequent part of his work, he says:⁶ — "The labour of a million of men in
+manufactures will always produce the same value." — "That commodity is alone
+invariable, which at all times requires the same sacrifice of toil and labour to
+produce it." Which is just as rational as to say, that a Railway Station,
+because it does not move, is always at the same distance from the trains which
+are flying to, and away from, it, though they are at different distances from
+it! That the distance from B to A is always changing, but the distance from A to
+B is invariable! And after beginning by defining, and several times repeating
+that, the value of a thing is the other things it will exchange for, he ends by
+saying — "I cannot agree with M. Say in estimating the value of a commodity, by
+the abundance of other commodities for which it will exchange!" The
+extraordinary consequences which Ricardo deduces from his doctrine will be more
+fully exhibited in the next section.
+
+Ricardo, therefore, begins by defining the value of a thing to be something
+external to it, and then he ends by describing it to mean the cost of
+production, or quantity of labour, bestowed in obtaining it. The very first day
+that Jeremy Bentham read the book, he wrote to Ricardo to tell him that it was
+all founded on a confusion between Cost and Value.
+
+
+Mr. Mill has shewn the impossibility of there being an invariable standard of
+value,¹ but he has not brought out with sufficient distinctness the simple
+reason that Value is a Ratio, and a single quantity cannot be the measure of a
+ratio.
+
+In the passages we have quoted, Smith and Ricardo have both
+
+¹ Principles, Book III, ch. xv. ² A disciple (who is supposed to have carried
+his doctrines to an extreme) says, "There is no necessary connection at all, or
+of any kind, direct or indirect, between the quantity commanded, and the value
+commanding." And a little further on, "I promise that in your use, and in everybody's
+use of the word Value, a high value ought to purchase a high value, and that it
+will be very absurd if it should not. But, as to purchasing a great quantity, that condition 
+is surely not included in any man's idea of Value!" — The Templar's Dialogues by De Quincey.
+
+§ 4.] A STANDARD OF VALUE IMPOSSIBLE. 299
+
+assumed that labour is an invariable standard of value. Other things, it is
+true, have been proposed, such as corn; but we need not encumber ourselves with
+their consideration, because our object is to shew that such a thing is, by the
+very nature of things, absolutely impossible.
+
+One of the first writers to point out the impossibility of such a standard was
+Mr. Samuel Bailey, in his admirable Critical Dissertation on the Nature,
+Measures, and Causes of Value; a work which has greatly contributed to found
+Economic Science.
+
+If we had a British yard and any foreign measures before us, we could at once
+perceive the difference between them, and if we were told the measurements of
+any foreign buildings, however remote in age or country, we could by a very
+simple calculation, reduce them to the standard of British measurement, and
+compare them in size with our own buildings. So with our measures of weight; if
+we were told that in ancient days people could carry a ton as easily as men can
+now carry a hundred-weight, we should at once have a standard by which we could
+judge of the relative strength of men of old and the men of the present day.
+
+In a certain popular way money is termed the measure of value. And so it is in
+exchanges which are effected at the same time and place. If we were told that a
+quarter of corn was worth 60s., and that a sheep was also worth 60s., at a
+certain time and place, we should know that they were then and there equal in
+value. That is, they would both exchange for the same quantity of gold or
+silver.
+
+But such matters are not the result of simple perception by the senses. If we
+had a quantity of gold or silver placed beside a number of other things, no
+human sense could tell us what their relative values were. And the most violent
+changes in value might take place without our being able to have the slightest
+perception of such a thing.
+
+Moreover it would be equally absurd to suppose that we could ascertain the
+different values of different quantities of gold obtained in different ages and
+countries. If a quantity of gold coins minted in the reign of Elizabeth, a
+similar quantity minted in China, and an equal quantity minted in the reign of
+Victoria, were placed side by side, what human sense could discern the
+difference in value between them? And yet that is what those
+
+300 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+Economists require, who want an invariable standard of value. They want
+something by which they can at once decide whether gold is of more value
+in 1400, or in 1800, in England or in China, without any reference to anything
+else.
+
+The least reflection will show that this is an impossibility. The only test of
+value is an exchange, and unless we can effect an exchange there can be no
+value. How can we exchange an ounce of gold in the year 1572, for an ounce of
+gold in the year 1872? Mr. Bailey well says, p. 72, "Value is a relation between
+contemporary commodities, because such only admit of being exchanged for each
+other; and if we compare the value of a commodity at one time with its value at
+another, it is only a comparison of the relation in which it stood at these
+different times to some other commodity. It is not a comparison of some
+intrinsic independent quality at one period, with the same quality at another
+period, but a comparison of ratios, or a comparison of the relative quantities
+in which commodities exchanged for each other at two different epochs. If a com-
+modity A in the year 100 was worth 2 B, and in 1800 was worth 4 B, we should
+say that A had doubled its value to B. But this, which is the only kind of
+comparison we could institute, would not give us any relation between A in 100
+and A in 1800: it would be simply a comparison of the relation between A and B
+in each of these years.
+
+"It is impossible for a direct relation of Value to exist between A in 100 and
+A in 1800, just as it is impossible for the relation of distance to exist
+between the sun at the former period and the sun at the latter."
+
+It is obvious that all we can do by a measure of Value is to ascertain in a
+convenient way the exchangeable relations existing between any quantities at any
+given time. And by a comparison of prices at different epochs we can observe
+the differences which have occurred in the exchangeable relations of these
+quantities between the different times. And this, though far from what is
+required by those writers, is all that we can have.
+
+The fundamental objection then to there being a Standard of Value is simply
+this, that value is always a ratio, and a single quantity cannot be the measure
+of a ratio. And yet it is by no means uncommon to hear able men rise up at
+learned associations
+
+§ 4.] A STANDARD OF VALUE IMPOSSIBLE. 301
+
+and demand that the Government should institute an inquiry to ascertain and
+affix an invariable Standard of Value, in the same way as they have bestowed
+great care and pains to fix the standard of length, and capacity, and weight.
+All they can do is to maintain a fixed weight and purity in the current coin of
+the realm; but they can no more control its variations in Value than they can
+regulate the motions of the stars by Act of Parliament.
+
+302 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+Section II.
+
+On the Origin, Source, or Cause of Value.
+
+5.  We have seen that there are three species of Economic Quantities, each
+    containing many varieties, which have value. We have decided that the Value
+    of a Quantity is any other Quantity it can be exchanged for. We now come to
+    the second branch of our inquiry — What is the Cause, or Source, of Value,
+    and whence does it originate?
+
+Now when we are to search for the cause, or source, of value, it may be as well
+to understand what it is we are searching for. There is a very great number of
+things of several different natures which all have value: we must therefore
+manifestly search for some single Cause which is common to them all, and
+ascertain what that single cause is, by genuine Induction. — "But the induction
+which is to be available for the discovery and demonstration of sciences and
+arts must analyse nature by proper rejections and exclusions, and then after a
+sufficient number of negatives come to a conclusion on the affirmative
+instances."¹ — "Now what the sciences stand in need of is a form of induction
+which shall analyse experience, and take it to pieces, and by a due process of
+exclusion and rejection lead to an inevitable conclusion."²
+
+Now the first step in this process of induction is to make a complete collection
+of all the different kinds of quantities, of whatever nature they may be, which
+have value. "For whosoever is acquainted with Forms, embraces the unity of
+nature in substances the most unlike. From the discovery of Forms, therefore,
+results truth in Theory and freedom in Practice."³
+
+So Bacon earnestly inculcates as the foundation of all true science a careful
+collection of all kinds of instances in which the given nature is found: — "The
+investigation of forms proceeds thus: a nature being given, we must first of
+all have a muster, or presentation, before the understanding of all known
+instances which agree in the same nature, though in substances the most unlike.
+And such collection must be made in the manner of a history, without premature
+speculation."⁴ Bacon
+
+¹ Nov. Org., Book I., Aph. 105. ² Distributio Operis. ³ Nov. Org., Book II.,
+Aph. 17. ⁴ Nov. Org., Book II., Aph. 11.
+
+§ 5.] THE CAUSE OF VALUE. 303
+
+then exemplifies his method by an investigation into the Form of Heat: and he
+gives tables of the divers instances agreeing in the Nature of Heat: also where
+it is absent: and where it appears in different degrees.
+
+"The work and office of these three tables I call the Presentation of
+Instances to the Understanding, which presentation having been made, Induction
+itself must be set to work; for the problem is upon a review of the instances,
+all and each, to find such a nature as is always present, or absent with the
+given nature, and always increases or decreases with it, and which is, as I have
+said, a particular case of a more general nature."¹ — "We must make therefore a
+complete solution and separation of nature, not indeed by fire, but by the mind,
+which is a kind of divine fire. The first work therefore of true induction (as
+far as regards the discovery of Forms) is the rejection or exclusion of the
+several natures which are not found in some instance when the given nature is
+present, or are found in some instance where the given nature is absent, or are
+found to increase in some instance where the given nature decreases, or to
+decrease when the given nature increases. Then indeed after the rejection and
+exclusion has been duly made, there will remain at the bottom, all light
+opinions vanishing into smoke, a Form affirmative, solid and true, and well
+defined."²
+
+An indispensable part of Induction is the rejection of erroneous Forms — "I
+must now give an example of the Exclusion or Rejection of natures which by the
+Tables of Presentation are found not to belong to the Form [of Heat]; observing
+in the meantime that not only each table suffices for the rejection of any
+nature; but even any one of the particular instances contained in any of the
+tables. For it is manifest from what has been said that any one contradictory
+instance overthrows a conjecture as to the Form"³ — "In the process of Exclusion
+are laid the foundations of true Induction, which however is not completed
+till it arrives at an affirmative. Nor is the exclusive part itself at all
+complete, nor indeed can it possibly be so at first. For exclusion is
+evidently the rejection of simple natures; and if we do not yet possess sound
+and true notions of simple natures, how can the process of exclusion be made
+accurate?"⁴
+
+¹ Nov. Org., Book II., Aph. 15. ² Nov. Org., Book II., Aph. 16. ³ Nov. Org.,
+Book II., Aph. 18. ⁴ Nov. Org., Book II., Aph. 19.
+
+304 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+6.  Bacon has exemplified his process of Induction by investigating the Form
+    of Heat. Our present task is to investigate the Form of Value.
+
+We must begin, following the example of the mighty Master, by making a complete
+collection of instances of Value. We have already seen that there are three
+different species of Quantities, each of them containing many varieties, all
+having Value. We must now enumerate all the different kinds of Quantities which
+have Value.
+
+There are —
+
+I. Corporeal, or Material, Property. — Under this species are comprised the
+following different varieties — Land: Trees: Cattle: Flocks and herds of all
+sorts: Corn and other fruits of the earth of all sorts: Houses: Furniture:
+Clothes: Money: Fish: Minerals, such as Coal, Iron, Copper, Marble, etc.:
+Precious stones, such as Diamonds, Rubies, Emeralds, etc.: Pearls: Manufactured 
+articles of all sorts, as watches, etc.
+
+II. Immaterial Property. — Under this species is comprised Labour of all sorts
+— agricultural; artisans'; professional: scientific: literary, etc.
+
+III. Incorporeal Property. — Under this species are comprised the following
+varieties: — Credit: The Public Funds: Debts of all sorts: Copyright: Patents:
+Shares in Commercial Companies: The Goodwill of a business: The Practice of a
+profession: Tolls: Ferries; Ground Rents: and Annuities of all sorts.
+
+We have now to investigate the Form of Value of all these different Quantities.
+We must first of all, by a due and systematic course of rejections and
+exclusions, eliminate all intrusive and accidental ideas which may sometimes
+accompany Value; and after completing this process of exclusion, we must end by
+an Affirmative, and discover that single general cause which is common to all
+these different Quantities; which being present, Value is present; which when it
+increases, Value increases; which when it decreases, Value decreases: and which
+being absent, Value is absent.
+
+1.  In modern times when men began to speculate on this subject, the first and
+    most popular doctrine was that Labour is the Cause of Value.
+
+§ 5.] THE CAUSE OF VALUE. 305
+
+Thus Locke, after shewing that the foundation of the right of appropriating
+portions of the earth and its products by private persons originated in the
+labour they bestowed on them, says:¹ — "Nor is it so strange as perhaps before
+consideration it might appear, that the Property of Labour should be able to
+overbalance the community of land: for it is labour indeed that put the
+difference of value on everything; and let any one consider what the difference
+is between an acre of land planted with tobacco or sugar, sown with wheat or
+barley, and an acre of the same land lying in common without any husbandry upon
+it, and he will find that the improvement of labour makes the far greater part
+of the value. I think it will be but a very modest computation to say, that of
+the products of the earth useful to the life of man, nine-tenths are the effects
+of labour; nay, if we will rightly estimate things as they come to our use, and
+cast up the several expenses about them, what in them is purely owing to nature,
+and what to labour, we shall find that in most of them ninety-nine hundredths
+are wholly to be put on the account of labour."
+
+
+There cannot be a clearer demonstration of anything, than several nations of the
+Americans are of this, who are rich in land, and poor in all the comforts of
+life; whom nature having fur- nished as liberally as any other people, with the
+materials of plenty, i.e., a fruitful soil, apt to produce in abundance what
+might serve for food, raiment, and delight; yet for want of im- proving it by
+labour, have not one hundredth part of the con- veniences we enjoy; and a king
+of a large and fruitful territory there feeds, lodges, and is clad worse than a
+day labourer in England.
+
+"To make this a little clearer, let us but trace some of the ordinary provisions
+of life through their several progresses, before they come to our use, and see
+how much of their value they receive from human industry. Bread, wine, and
+cloth, are things of daily use, and great plenty; yet, notwithstanding, acorns,
+water, and leaves, or skins, must be our bread, drink, and clothing, did not
+labour furnish us with these more useful commodities; for whatever bread is
+more than acorns, wine than water, and cloth or silk than leaves, skins,
+or moss, that is wholly owing to labour and industry; the one of these being the
+food
+
+¹ Locke's Essay on Civil Government.
+
+306 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+and raiment which unassisted nature furnishes us with; the other, provisions
+which our industry and pains prepares for us; which, how much they exceed the
+other in value, when any one hath computed, he will then see how much labour
+makes the far greater part of the value of things we enjoy in this world; and
+the ground which produces the materials is scarce to be reckoned in, as any, or
+at most, but a very small part of it; so little that even amongst us, land that
+is left wholly to nature, that hath no improvement of pasturage, tillage, or
+planting, is called, as indeed it is, waste; and we shall find the benefit of
+it amount to little more than nothing.
+
+"An acre of land that bears here twenty bushels of wheat, and another in America
+which, with the same husbandry, would do the like, are without doubt of the same
+natural intrinsic value; but yet the benefit mankind receives from the one in a
+year is worth £5, and from the other possibly not worth a penny, if all the
+profit an Indian received from it were to be valued and sold here; at least I
+may truly say not one thousandth. It is labour, then, which puts the greatest
+part of the value upon land, without which it would scarcely be worth anything:
+it is to that we owe the greatest part of all its useful products; for all that
+the straw, bran, bread, of that acre of wheat is more worth than the product of
+an acre of as good land which lies waste, is all the effect of labour; for it is
+not barely the ploughman's pains, the reaper's and the thresher's toils, and the
+baker's sweat, is to be counted into the bread we eat; the labour of those who
+broke the oxen, who digged and wrought the iron and stones, who felled and
+framed the timber employed about the plough, mill, oven, or any other utensils,
+are a vast number, requisite to this corn, from its being seed to be sown to its
+being made bread, must all be charged on the account of labour, and received as
+an effect of that: nature and the earth furnished only the almost worthless
+materials as in themselves. It would be a strange catalogue of things that
+industry provided and made use of about every loaf of bread before it came into
+our use, if we could trace them: iron, wood, leather, bark, timber, stone,
+bricks, coals, lime, cloth, dyeing, drugs, pitch, tar, masts, ropes; and all the
+materials made use of in the ship that brought any of the commodities used by
+any of the workmen to any part of the work; all which it would be almost
+impossible, at least too long, to reckon up."
+
+§ 7.] THE CAUSE OF VALUE. 307
+
+We have given this passage at length because it is probably the most elaborate
+Economical analysis of price of its time: and the essay it is taken from is not
+the best known of Locke's works. The doctrine that all wealth is the produce of
+land and labour became very common among the early thinkers on Economics. We
+have seen that Smith constantly repeats the phrase, although we have shewn his
+inconsistencies on the subject.
+
+Ricardo perceiving the inconsistency of Smith's fundamental doctrines of Value,
+finally rejected exchangeability as the test of Value, and adopted Labour as the
+Cause, or Form, of Value. "In speaking, however, of labour as being the
+foundation of all value,"¹ he also says that if a commodity were always produced
+by exactly the same quantity of labour, it would be invariable in value.
+
+McCulloch also maintained that Labour is the cause of all value:² — "Nature is
+not niggard nor parsimonious. Her rude products, powers, and capacities are all
+offered gratuitously to man. She neither demands nor receives an equivalent for
+her favours. An object which may be appropriated, or adapted, to our use without
+any voluntary labour on our part may be of the highest utility, but as it is the
+free gift of nature, it is quite impossible it can have the smallest value."³
+Also — "In its natural state⁴ matter is very rarely possessed of any immediate
+or direct utility, and is always destitute of value. It is only through the
+labour expended on its appropriation, and in fitting and preparing it for
+being used, that matter acquires exchangeable value, and becomes wealth."
+
+Mr. Carey, the well-known American Economist, has also adopted the doctrine that
+Labour is the cause of all value to its fullest extent. He says:⁵ — "It may be
+said that labour is not invariably a cause of value," and he quotes Senior, who
+says — "The fact that that circumstance (labour) is not essential to value, will
+be demonstrated if we can suppose a case in which value could exist without it.
+If, while carelessly lounging along the seashore, I were to pick up a pearl,
+would it have no value?" Mr. McCulloch would answer that the value of the pearl
+was the
+
+¹ Principles of Political Economy, ch. i., § 1, 2. ² Introduction to Wealth of
+Nations, p. 32. ³ Ibid., p. 43. ⁴ Political Economy, ch. i. ⁵ Ibid., ch. i.
+
+308 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+result of my appropriative industry in stooping to pick it up. To this Mr. Carey
+answers — "Pearls may be found by those who do not seek them, and meteoric iron
+may be a gift to those who little anticipate its reception, while others may
+seek for pearls, or dig for iron, without profitable results. These are
+accidents which do not, in the slightest degree, militate against the assertion 
+that all value is the result of labour. Nine hundred and ninety-nine out of
+every one thousand parts of those annually created are so, and the exceptions
+are too slight to be deserving of consideration. They are just sufficiently
+numerous to prove the rule!!"
+
+In Chap. 9, Mr. Carey gives the results of his investigations, the first two of
+which are (1). That all value is exchangeable. (2). That Labour is the sole
+cause of value.
+
+We need not quote from any more writers, as we think that it is well known that
+it is a very widespread doctrine among Economical writers that Labour is the
+sole cause of Value, and is essential to Wealth.
+
+We have now to apply the principles of the Baconian Induction, to investigate
+the doctrine that Labour is the Form, or Cause, or Source, of Value.
+
+8.  Now we may lay down this Lemma: — That if Labour be the sole cause of Value,
+    then whatsoever thing Labour has been bestowed upon must have Value.
+
+For if there be two things produced with the same amount of Labour, and the one
+has Value and the other not; then there must be some other cause of Value
+besides Labour, which is contrary to the hypothesis.
+
+We will now examine some of the necessary consequences of the doctrine that
+Labour is the cause of all Value.
+
+I. — All Variations in Value must be due to Variations in Labour.
+
+This doctrine, however, is contrary to all experience: because there are many
+material things which have Value, upon which no Labour was ever bestowed, as for
+example: —
+
+1.  — The space of ground upon which a city is built is in no way the result of
+    Labour. Land in the heart of London has
+
+§ 7, 8.] LABOUR NOT THE CAUSE OF VALUE. 309
+
+often been sold at a rate exceeding £1,000,000 an acre, perfectly exclusive of
+any buildings upon it. When was any Labour ever bestowed upon it? Again, as we
+recede from the centre, the Value of Land rapidly diminishes. At Charing Cross
+it may be worth £100,000 an acre; by the time we reach Kensington, it has
+fallen to £10,000 an acre. Moreover land in the same locality is of very
+different values. A frontage in a main thoroughfare like Regent Street, Fleet
+Street, Cheapside, or Cornhill, is of far more Value than an equal space of
+ground in a back street.
+
+Again, as the tide of fashion, population, and wealth sets towards a locality,
+the ground in it rises rapidly in value; whereas when a neighbourhood is
+deserted by fashion and wealth, the ground rapidly diminishes in value.
+
+Now, how can these Variations in Value be due to different quantities of Labour,
+when, as we have seen, these spaces of ground are not in any way whatever the
+result of Labour at all?
+
+The space of ground in the centre of London, Paris, Berlin, Vienna, etc., has
+enormous value. There are places now desolate and lonely which were once the
+sites of great cities. When the chariots and the horsemen were pouring forth in
+countless multitudes from the hundred-gated Thebes, we may affirm that the
+ground in the city must have had very great value. So with Memphis, Nineveh,
+Babylon and innumerable others. Where is their value now? Yet the ground remains
+exactly as it was. When the future Belzoni or Layard comes from New Zealand to
+sketch the ruins of St. Paul's from a broken arch of London Bridge, will ground
+near the site of what was once the Royal Exchange sell for £70 the square yard?
+
+When a fair is held in a country town, persons pay a good rent for leave to
+erect booths and tents upon the common. At other times they would not pay
+anything; therefore the space of ground has Value at one time, and not at
+another. How is the Value of that space due to Labour?
+
+2.   The doctrine that no natural product has Value unless labour has been
+    bestowed upon it is contrary to all experience. The proprietor of a coal
+    mine, or a stone quarry, demands and receives a price for the coal, or the
+    marble, or the building stone, as it exists in the mine, or the quarry,
+    before a human being has touched it. Does anyone suppose that the proprietor
+
+310 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+of a coal mine would let any one take away the coals for nothing? Does any one
+suppose that the proprietors of the marble quarries of Carrara allow any one to
+hew out the marble for nothing? If a person finds a diamond or a lump of gold by
+chance, will it sell for nothing before it is picked up? Is it, as McCulloch
+says, the Labour of picking it up that gives Value to the diamond or the gold?
+
+Take also the case of timber trees. In the Midland counties of England there are
+many oak trees which would sell for £50 or £100 as they stand on the ground.
+They were perhaps self- sown. No human being perhaps ever bestowed so much
+labour upon them as to plant the acorn from which they grew. How is the value of
+such an oak tree due to labour? Near these oak trees there may perhaps be
+growing other trees, beeches, elms, ashes, of the same size; but they will sell
+for very different prices to the oaks. Are these variations in value due to
+different quantities of labour?
+
+Next take the case of cattle, herds, and flocks of all sorts. These increase and
+multiply of themselves, by the agency of nature. How is their value the result
+of human labour?
+
+Hence we see that there are abundance of material things which have value, upon
+which no Labour was ever bestowed, and consequently their value cannot be the
+result of Labour.
+
+In the island of Unst, the most northerly of the Shetlands, there is a "quarry
+of chromate of iron which was discovered above twenty years ago(1825). The quarry is
+of great depth, the ore lying imbedded, apparently in abundance, in veins
+through the rock of which the hill is composed. The working of this mine gives
+employment to upwards of fifty men and boys each summer, and many hundreds of
+tons of the metal are annually exported. It is used chiefly as a pigment,
+producing a fine bright yellow paint: and as none is elsewhere found in Britain,
+it is a source of considerable revenue to the proprietors."¹
+
+Now if the whole value of this chromate of iron was due to the labour of the
+miners, that is, if it sold for no more than their wages, how could the
+proprietor realize any revenue from it? Hence it is quite clear that the
+proprietor was enabled to ask a price for it over and above the labour expended
+upon it; and this value cannot be due to Labour.
+
+¹ A Tour in Shetland.
+
+§ 8.] LABOUR NOT THE CAUSE OF VALUE. 311
+
+Some little time ago a large whale was stranded in the Frith of Forth. It sold
+as it lay on the beach for £70. Now it was the free gift of nature, no human
+being touched it. How then could its value be due to Labour?
+
+We read in an interesting work by Mr. Buckland:¹ — "When examining the cast-off
+skins at the Zoological Gardens we observed some white-looking substance in a
+box. This is the dejecta of the snakes. It is a perfectly white substance,
+looking very like plaster of Paris, and is composed of nearly pure uric acid. .
+. . It is bought by a doctor (I imagine a chemist) for the high price of nine
+shillings a-pound." Now, were the excreta of the snakes the product of Human
+Labour?
+
+II. — If Labour be the sole Cause of Value, then all things produced by the same
+amount of Labour must be of equal Value.
+
+But this doctrine is contrary to all experience. For if it were true, a diamond
+and the rubbish it is found in must be of the same value! So a pearl and its
+shell should be of equal value. If a sportsman were to shoot a pheasant with one
+barrel, and a crow with the other, they ought to have the same value. If a
+fisherman were to catch a salmon and a dogfish with equal quantities of labour,
+would they have the same value? and similar cases might be multiplied to any
+extent. Now here are different products obtained by exactly the same amount of
+labour, and of very manifestly different values. Hence it is clear that labour
+cannot be the sole cause of value.
+
+
+III. — If Labour be the Cause of Value, the Value must be proportional to the
+Labour.
+
+But this doctrine is also contrary to the most manifest experience. Suppose that
+by good luck a gold digger finds a nugget of gold lying on the surface of the
+ground; another digger works perhaps for many months and finds one exactly
+similar. Then, according to this doctrine, the latter nugget ought to be
+immensely more valuable than the other. Or suppose that some gold were brought
+from some diggings near the market, and that an exactly equal amount were
+obtained by enormous labour among mountains many hundreds of miles off. The
+latter is of
+
+* Curiosities of Natural History, p. 161.
+
+312 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+course produced, i.e., placed in the market, at an enormously greater amount of
+labour and cost than the other. But would it be more valuable? The least
+experience shews that it would not be so, but that things of exactly the same
+quality would be of exactly the same value at the same time in the same market.
+
+IV. — Again, if Labour be the sole Cause of Value, a thing once produced by
+Labour must always have Value, and the same Value.
+
+But this is notoriously contrary to experience; because it is notorious that a
+thing may have value in one place and not in another; and at one time and not at
+another; as the author of the Eryxias very clearly showed.
+
+Take a bag of sovereigns among the Papuans; where would their value be? Genovesi
+quotes from an account of the Jesuits how they bought provisions from the
+savages of Polavra, and they wished to pay them with money: the barbarians
+laughed at them. They also held manufactures in no account. The thing which was
+most prized by them, and therefore the only one valued, was iron, which was
+useful for all their purposes of life.
+
+A Professor of Greek and Latin, or Mathematics, may find his acquirements of
+great value to him in the Universities, but of what value would they be to him
+in the Hebrides? A great lawyer finds his knowledge and abilities of great value
+to him in London, but of what value would they be to him in Timbuctoo? Nay,
+suppose a man labours very hard in London to acquire a profession such as Law;
+and no one employs him, where is the value of his Labour? If a man had all the
+medical knowledge in the world, from Hippocrates and Galen to Copland, and no
+one was ill, what value would it be of to him?
+
+In fact, to say that Labour is the Cause of Value, is to say that an isolated
+thing can have Value; whereas almost every Economist has acknowledged that Value
+is relative, and can only occur in society. Now if a man labours ever so hard,
+if nobody requires his products, they have no value, and he is no better off in
+the midst of London, than if he were in the midst of the Sahara.
+
+Moreover, if Labour be the sole cause of Value, then if a thing be once produced
+by means of any quantity of
+
+313
+
+§ 8.] LABOUR NOT THE CAUSE OF VALUE.
+
+its value could never vary; which is Ricardo’s express doctrine. But this is
+contrary to all experience. For things after they have been produced, and all
+labour is ended upon them, constantly vary from hour to hour, from day to day,
+and from year to year. Thus pictures by some masters constantly rise in Value,
+and pictures by others frequently diminish in value, long after the masters who
+painted them are dead and gone. Now how could this be, if Labour be the Cause of
+Value?
+
+Nothing can shew more clearly that Labour is not the Cause of Value than the
+extravagant lengths to which Ricardo has pushed the theory, which however is
+only the consistent logical result of his doctrine. He says¹ — "The labour of a
+million of men in manufactures will always produce the same Value." It is
+obvious that unless the manufactures sell for something they have no value at
+all. And it is contrary to common sense to say whether the manufactures sell for
+£100 or £10,000 they have exactly the same value.
+
+¹ Principles of Political Economy, ch. xx.
+
+In the reign of George III., there was a very widespread fashion to wear shoe
+buckles: this manufacture employed a very large number of persons. All of a
+sudden these buckles went out of fashion; the demand for them totally ceased;
+and the people employed in making them were thrown into the greatest distress.
+But according to Ricardo, the labour of the men who made the buckles was exactly
+of the same Value when there was a very large Demand for them, and when there
+was no Demand for them at all! Not very long ago the fashion of ladies wearing
+straw bonnets went out, and the manufacturers of them at Luton, Dunstable, &c.,
+were thrown into great distress. But according to Ricardo their labour was of
+the same value when there was a demand for straw bonnets, and when there was
+none!
+
+At the end of the same chapter Ricardo propounds doctrines, more contrary still,
+if possible, to universal experience and common sense, though the necessary
+logical consequence of his doctrine. He says — "In contradiction to the opinion
+of Adam Smith, M. Say in the fourth chapter speaks of the value which is given
+to commodities by natural agents, such as the sun, the air, the pressure of the
+atmosphere, &c., which are sometimes substituted for the labour of man, and
+sometimes concur with
+
+314 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+him in producing. But these natural agents, though they add greatly to value in
+use, NEVER add exchangeable value to a commodity! And they (natural agents) are
+serviceable to us by increasing the abundance of productions, by making men
+richer, by adding to value in use; but as they perform their work gratuitously,
+as nothing is paid for the use of the air, of heat, and of water, the assistance
+which they afford us adds nothing to Value in Exchange!"
+
+Now when logical reasoning from certain premises leads to results which are
+notoriously false, and contrary to experience and fact, it is perfectly certain
+that those premises must be erroneous. Nothing more is required than the
+grotesque absurdity of the consequences which Ricardo arrives at, which are the
+logical results of the doctrine that Labour is the sole cause of Value, to shew
+the utter fallacy of the doctrine.
+
+If a man plants an acorn, the full grown oak tree, according to Ricardo, ought
+to be of no more value than the acorn; because human labour ends with the
+planting of the acorn, the rest is the agency of Nature.
+
+According to this doctrine, cattle and fowls ought to have no value at all,
+because no human labour ever made an animal, or ever laid an egg.
+
+According to Ricardo's doctrine the value of the harvest reaped should be no
+greater than the cost of the seed corn and the ploughing and labouring the land;
+because there human labour ends; the rest is the agency of Nature.
+
+According to Ricardo's doctrine, the fertilizing showers in spring nourishing
+and expanding the young crops add nothing to the value of the harvest:
+therefore, also by the same doctrine, the want of a due amount of showers, or an
+absolute drought, would not detract from its value.
+
+Every one of common sense knows that the bright and hot weather at the end of
+July or the beginning of August, adds hundreds of thousands of pounds every day
+to the value of the crops; according to Ricardo the bright sun adds nothing to
+the value of the corn.
+
+We might shew the absurd consequences of this doctrine at much greater length,
+but every reader who reflects upon the broad statement of Ricardo that the
+agency of nature adds nothing to the value of things, must at once perceive its
+gross
+
+§ 8, 9.] LABOUR NOT THE CAUSE OF VALUE. 315
+
+fallacy, and also the complete fallacy of the dogma that Labour is the sole
+cause of Value.
+
+We cannot, however, refrain from adding one more instance to give this doctrine
+its coup de grâce. Can any rational being doubt that the glorious vintages of
+France, Germany, and Italy, owe much of the qualities which make them desired,
+and so valuable, to the bright sun of these districts? Now Adam Smith says* that
+wine might be grown in Scotland at thirty times the expense it is grown in
+France; according to Ricardo it ought to sell at thirty times the price of
+French wine.
+
+9.  It is perfectly easy to perceive the fallacy that pervades the eloquent and
+    elaborate analysis of Locke, which has been followed by so many writers. It
+    is perfectly true that labour has been bestowed on the land; and it is also
+    true that it has great value; but it is quite easy to see that the Labour is
+    not the Cause of the Value; for suppose that the people of England were,
+    like the Phocaeans and Teians of old, to emigrate in a body, where would the
+    value of the land be? If there be a country in the world whose value might
+    most plausibly be said to be due to labour, that country is Holland. "By
+    nature a wide morass, in which oozy islands and savage forests were
+    interspersed among lagoons and shallows; a district lying partly below the
+    level of the ocean at its higher tides, subject to constant overflow from
+    the rivers, and to frequent and terrible inundations by the sea"¹ — there
+    are probably not ten square miles of its surface which do not owe their
+    existence as a habitable abode for men, to the incredible labour of its
+    hardy people. And it was one of the richest spots on the face of the globe.
+    Once when it seemed that the very last hour of the Republic had come;
+    surrounded and overwhelmed by the forces of Louis XIV., it was seriously
+    contemplated to collect the whole navy of the Republic, and to transport the
+    whole people of the state to their Oriental possessions. Where then would
+    have been the value of the land if this desperate resolve had been carried
+    into effect?
+
+¹ Motley, Rise of the Dutch Republic.
+
+Now, if Labour be the cause of the value of the land, it is clear that if a
+sufficient number of persons were to go and
+
+316 PRINCIPLES OF ECONOMICS. [Chap. V.
+
+bestow an equal amount of labour in bringing the same quantity of land in the
+centre of Australia into an equally high state of cultivation, it ought to be of
+equal value with the land in England or Holland; a result which is evidently
+absurd.
+
+Labourers and artisans build houses in London, Paris, Berlin, Vienna, &c. The
+houses are great wealth in these cities; but if the same labourers were to go
+out and build houses in all respects similar in the middle of Australia, would
+they be of the same, or of any, value?
+
+10. Hence we see that even of material things there are many upon which no
+    labour was ever bestowed, and which yet have value; and even if those which
+    have had labour bestowed on them, Labour is not the Form, or Cause, of their
+    value.
+
+Now, with respect to the second species of Economic Quantities, namely,
+Immaterial Property, which comprehends all species of Labour, as above detailed,
+one simple remark is sufficient — If Labour is the sole Cause of Value, what is
+the Cause of the value of Labour?
+
+11. With respect to the third species of Economic Quantities, namely Incorporeal
+    Property, there are some kinds which are associated with labour, such as
+    Copyrights, Patents, the Goodwill of a business, or the Practice of a
+    Profession; but the same remark applies to them as to the material objects
+    with which labour is associated: that it cannot be the Cause of their Value.
+    If a person bestows an enormous quantity of labour in publishing a work, the
+    law of course may give him the Copyright, but if no one will buy the work,
+    where is its Value? So also of Patents: much labour may have been bestowed
+    in perfecting the invention, but if no one buys the machine where is its
+    Value?
+
+But there are vast amounts of Incorporeal Property, as there of Corporeal
+Property, which have value, which are not associated with labour at all. Thus
+Credit of all sorts is not in any way associated with labour. If a solvent
+merchant accept a Bill of Exchange, or a solvent Bank issue notes, this
+commercial paper has Value, and is the subject of commerce, as all Economists
+admit, but where is the Labour bestowed upon it? The quantity of Credit in this
+country exceeds all imagination. There is no doubt whatever that the quantity of
+private and public Credit in this country not only exceeds any other single kind
+of Property whatever, but is not far off from being equal to all other kinds of
+property put together.
+
+Hence we see —
+
+1.  That there are vast quantities of Property, both Corporeal and Incorporeal,
+    which have Value, upon which no Labour was ever bestowed.
+
+2.  That quantities, both Corporeal and Incorporeal, may be produced by Labour
+    which have no Value.
+
+3.  That the same quantity of Labour may produce products, one of which has
+    Value, and the other no Value.
+
+4.  That quantities produced by varying quantities of Labour have the same
+    Value.
+
+5.  That things produced by Labour may have Value in some places and not in
+    other places; and at some times and not at other times.
+
+6.  That things produced by less Labour may have greater Value than things
+    produced by more Labour.
+
+From these indisputable propositions, the result of practical experience, the
+undeniable inference is that Labour is not in any way whatever the Form, or the
+Cause, of Value; or even necessary to Value; and, in fact, in this commercial
+country the enormously greater proportion of Valuable Property is not the result
+of Labour at all.
+
+
